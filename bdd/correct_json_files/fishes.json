@@ -1,0 +1,522 @@
+[
+  {
+    "Index":1,
+    "Ordre":"Salmoniformes",
+    "Nom scientifique":"Coregonus_bezola",
+    "Nom commun":"Bezoule",
+    "Categorie Liste rouge France":"Ex",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Ex",
+    "Statut d'endemisme*":"X"
+  },
+  {
+    "Index":2,
+    "Ordre":"Salmoniformes",
+    "Nom scientifique":"Coregonus_fera",
+    "Nom commun":"Coregone_fera",
+    "Categorie Liste rouge France":"Ex",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Ex",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":3,
+    "Ordre":"Salmoniformes",
+    "Nom scientifique":"Coregonus_hiemalis",
+    "Nom commun":"Coregone_gravenche",
+    "Categorie Liste rouge France":"Ex",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Ex",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":4,
+    "Ordre":"Acipenseriformes",
+    "Nom scientifique":"Acipenser_oxyrinchus",
+    "Nom commun":"Esturgeon_noir",
+    "Categorie Liste rouge France":"Re",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Nt",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":5,
+    "Ordre":"Cyprinodontiformes",
+    "Nom scientifique":"Aphanius_iberus",
+    "Nom commun":"Aphanius_d'Espagne",
+    "Categorie Liste rouge France":"Re",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"En",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":6,
+    "Ordre":"Cyprinodontiformes",
+    "Nom scientifique":"Valencia_hispanica",
+    "Nom commun":"Cyprinodonte_de_Valence",
+    "Categorie Liste rouge France":"Re",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Cr",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":7,
+    "Ordre":"Acipenseriformes",
+    "Nom scientifique":"Acipenser_sturio",
+    "Nom commun":"Esturgeon_europeen",
+    "Categorie Liste rouge France":"Cr",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Cr",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":8,
+    "Ordre":"Clupeiformes",
+    "Nom scientifique":"Alosa_alosa",
+    "Nom commun":"Grande_alose",
+    "Categorie Liste rouge France":"Cr",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":9,
+    "Ordre":"Anguilliformes",
+    "Nom scientifique":"Anguilla_anguilla",
+    "Nom commun":"Anguille_europeenne",
+    "Categorie Liste rouge France":"Cr",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Cr",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":10,
+    "Ordre":"Scorpaeniformes",
+    "Nom scientifique":"Cottus_petiti",
+    "Nom commun":"Chabot_du_Lez",
+    "Categorie Liste rouge France":"Cr",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Vu",
+    "Statut d'endemisme*":"X"
+  },
+  {
+    "Index":11,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Barbatula_leoparda",
+    "Nom commun":"Loche_leopard",
+    "Categorie Liste rouge France":"En",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Ne",
+    "Statut d'endemisme*":"X"
+  },
+  {
+    "Index":12,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Misgurnus_fossilis",
+    "Nom commun":"Loche_d'etang",
+    "Categorie Liste rouge France":"En",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":13,
+    "Ordre":"Petromyzontiformes",
+    "Nom scientifique":"Petromyzon_marinus",
+    "Nom commun":"Lamproie_marine",
+    "Categorie Liste rouge France":"En",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":14,
+    "Ordre":"Salmoniformes",
+    "Nom scientifique":"Salvelinus_alpinus",
+    "Nom commun":"Omble_chevalier",
+    "Categorie Liste rouge France":"En",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":15,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Squalius_laietanus",
+    "Nom commun":"Chevesne_catalan",
+    "Categorie Liste rouge France":"En",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":16,
+    "Ordre":"Perciformes",
+    "Nom scientifique":"Zingel_asper",
+    "Nom commun":"Apron_du_Rh\u00f4ne",
+    "Categorie Liste rouge France":"En",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Cr",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":17,
+    "Ordre":"Esociformes",
+    "Nom scientifique":"Esox_aquitanicus",
+    "Nom commun":"Brochet_aquitain",
+    "Categorie Liste rouge France":"Vu",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Ne",
+    "Statut d'endemisme*":"X"
+  },
+  {
+    "Index":18,
+    "Ordre":"Esociformes",
+    "Nom scientifique":"Esox_lucius",
+    "Nom commun":"Brochet_commun",
+    "Categorie Liste rouge France":"Vu",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":19,
+    "Ordre":"Petromyzontiformes",
+    "Nom scientifique":"Lampetra_fluviatilis",
+    "Nom commun":"Lamproie_de_rivi\u00e8re",
+    "Categorie Liste rouge France":"Vu",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":20,
+    "Ordre":"Gadiformes",
+    "Nom scientifique":"Lota_lota",
+    "Nom commun":"Lote_de_rivi\u00e8re",
+    "Categorie Liste rouge France":"Vu",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":21,
+    "Ordre":"Salmoniformes",
+    "Nom scientifique":"Thymallus_thymallus",
+    "Nom commun":"Ombre_commun",
+    "Categorie Liste rouge France":"Vu",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":22,
+    "Ordre":"Clupeiformes",
+    "Nom scientifique":"Alosa_agone",
+    "Nom commun":"Alose_feinte_mediterraneenne",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"Stilla",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":23,
+    "Ordre":"Clupeiformes",
+    "Nom scientifique":"Alosa_fallax",
+    "Nom commun":"Alose_feinte_atlantique",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":24,
+    "Ordre":"Cyprinodontiformes",
+    "Nom scientifique":"Aphanius_fasciatus",
+    "Nom commun":"Aphanius_de_Corse",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":25,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Barbus_meridionalis",
+    "Nom commun":"Barbeau_meridional",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Nt",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":26,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Cobitis_taenia",
+    "Nom commun":"Loche_epineuse",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":27,
+    "Ordre":"Scorpaeniformes",
+    "Nom scientifique":"Cottus_aturi",
+    "Nom commun":"Chabot_du_Bearn",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":28,
+    "Ordre":"Scorpaeniformes",
+    "Nom scientifique":"Cottus_hispaniolensis",
+    "Nom commun":"Chabot_des_Pyrenees",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":29,
+    "Ordre":"Scorpaeniformes",
+    "Nom scientifique":"Cottus_rhenanus",
+    "Nom commun":"Chabot_de_Rhenanie",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":30,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Gobio_lozanoi",
+    "Nom commun":"Goujon_de_l'Adour",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":31,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Leuciscus_bearnensis",
+    "Nom commun":"Vandoise_du_Bearn",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":"X"
+  },
+  {
+    "Index":32,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Leuciscus_burdigalensis",
+    "Nom commun":"Vandoise_rostree",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":"X"
+  },
+  {
+    "Index":33,
+    "Ordre":"Osmeriformes",
+    "Nom scientifique":"Osmerus_eperlanus",
+    "Nom commun":"Eperlan_europeen",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":34,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Parachondrostoma_toxostoma",
+    "Nom commun":"Toxostome",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Vu",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":35,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Phoxinus_bigerri",
+    "Nom commun":"Vairon_basque",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":36,
+    "Ordre":"Gasterosteiformes",
+    "Nom scientifique":"Pungitius_vulgaris",
+    "Nom commun":"Epinochette_du_Poitou",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Ne",
+    "Statut d'endemisme*":"X"
+  },
+  {
+    "Index":37,
+    "Ordre":"Salmoniformes",
+    "Nom scientifique":"Salmo_salar",
+    "Nom commun":"Saumon_atlantique",
+    "Categorie Liste rouge France":"Nt",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":38,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Abramis_brama",
+    "Nom commun":"Br\u00e8me_commune",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":39,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Alburnoides_bipunctatus",
+    "Nom commun":"Spirlin",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Uppera",
+    "Categorie Liste rouge mondiale":"Ne",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":40,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Alburnus_alburnus",
+    "Nom commun":"Ablette",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":41,
+    "Ordre":"Atheriniformes",
+    "Nom scientifique":"Atherina_boyeri",
+    "Nom commun":"Atherine",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Stilla",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":42,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Barbatula_barbatula",
+    "Nom commun":"Loche_franche",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Stilla",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":43,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Barbatula_quignardi",
+    "Nom commun":"Loche_du_Languedoc",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Stilla",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":44,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Barbus_barbus",
+    "Nom commun":"Barbeau_fluviatile",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Stilla",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":45,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Blicca_bjoerkna",
+    "Nom commun":"Br\u00e8me_bordeli\u00e8re",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":46,
+    "Ordre":"Mugiliformes",
+    "Nom scientifique":"Chelon_ramada",
+    "Nom commun":"Mulet_porc",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Uppera",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":47,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Chondrostoma_nasus_hotu",
+    "Nom commun":"Lc",
+    "Categorie Liste rouge France":"Downa",
+    "Tendance":"Lc",
+    "Categorie Liste rouge mondiale":null,
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":48,
+    "Ordre":"Scorpaeniformes",
+    "Nom scientifique":"Cottus_gobio",
+    "Nom commun":"Chabot_commun",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":49,
+    "Ordre":"Scorpaeniformes",
+    "Nom scientifique":"Cottus_perifretum",
+    "Nom commun":"Chabot_fluviatile",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Uppera",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":50,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Cyprinus_carpio",
+    "Nom commun":"Carpe_commune",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"?",
+    "Categorie Liste rouge mondiale":"Vu",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":51,
+    "Ordre":"Gasterosteiformes",
+    "Nom scientifique":"Gasterosteus_aculeatus",
+    "Nom commun":"Epinoche",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Downa",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  },
+  {
+    "Index":52,
+    "Ordre":"Cypriniformes",
+    "Nom scientifique":"Gobio_gobio",
+    "Nom commun":"Goujon_commun",
+    "Categorie Liste rouge France":"Lc",
+    "Tendance":"Stilla",
+    "Categorie Liste rouge mondiale":"Lc",
+    "Statut d'endemisme*":null
+  }
+]
