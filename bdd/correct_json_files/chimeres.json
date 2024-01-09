@@ -1,0 +1,74 @@
+[
+    {
+      "Index":498,
+      "Ordre":"Chimaeridae",
+      "Nom scientifique":"Chimaera_monstrosa",
+      "Nom commun":"Chimere_commune",
+      "Categorie Liste rouge France":"Dd",
+      "Tendance":"?",
+      "Categorie Liste rouge mondiale":"Nt",
+      "Categorie":"chimeres",
+      "Sous-Categorie":null,
+      "Statut d'endemisme*":null
+    },
+    {
+      "Index":499,
+      "Ordre":"Chimaeridae",
+      "Nom scientifique":"Chimaera_opalescens",
+      "Nom commun":"Chimere_opale",
+      "Categorie Liste rouge France":"Dd",
+      "Tendance":"?",
+      "Categorie Liste rouge mondiale":"Ne",
+      "Categorie":"chimeres",
+      "Sous-Categorie":null,
+      "Statut d'endemisme*":null
+    },
+    {
+      "Index":500,
+      "Ordre":"Chimaeridae",
+      "Nom scientifique":"Hydrolagus_affinis",
+      "Nom commun":"Chimere_\u00e0_petits_yeux",
+      "Categorie Liste rouge France":"Dd",
+      "Tendance":"?",
+      "Categorie Liste rouge mondiale":"Lc",
+      "Categorie":"chimeres",
+      "Sous-Categorie":null,
+      "Statut d'endemisme*":null
+    },
+    {
+      "Index":501,
+      "Ordre":"Chimaeridae",
+      "Nom scientifique":"Hydrolagus_mirabilis",
+      "Nom commun":"Chimere_\u00e0_gros_yeux",
+      "Categorie Liste rouge France":"Dd",
+      "Tendance":"?",
+      "Categorie Liste rouge mondiale":"Nt",
+      "Categorie":"chimeres",
+      "Sous-Categorie":null,
+      "Statut d'endemisme*":null
+    },
+    {
+      "Index":502,
+      "Ordre":"Rhinochimaeridae",
+      "Nom scientifique":"Harriotta_raleighana",
+      "Nom commun":"Chimere_\u00e0_nez_rigide",
+      "Categorie Liste rouge France":"Dd",
+      "Tendance":"?",
+      "Categorie Liste rouge mondiale":"Lc",
+      "Categorie":"chimeres",
+      "Sous-Categorie":null,
+      "Statut d'endemisme*":null
+    },
+    {
+      "Index":503,
+      "Ordre":"Rhinochimaeridae",
+      "Nom scientifique":"Rhinochimaera_atlantica",
+      "Nom commun":"Chimere_\u00e0_nez_mou",
+      "Categorie Liste rouge France":"Dd",
+      "Tendance":"?",
+      "Categorie Liste rouge mondiale":"Lc",
+      "Categorie":"chimeres",
+      "Sous-Categorie":null,
+      "Statut d'endemisme*":null
+    }
+  ]

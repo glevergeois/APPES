@@ -1,125 +1,125 @@
-Anostraca Chirocephalidae Chirocephalus spinicaudatus Simon, 1886 X CR
-Diplostraca Cyzicidae Cyzicus tetracerus (Krynicki, 1830) CR
-Diplostraca Daphniidae Daphnia mediterranea Alonso, 1985 CR
-Diplostraca Leptestheriidae Eoleptestheria ticinensis (Balsamo-Crivelli, 1859) CR
-Diplostraca Lynceidae Lynceus brachyurus Müller, 1776 CR
-Diplostraca Moinidae Moina salina Daday, 1888 CR
-Anostraca Artemiidae Artemia parthenogenetica Bowen & Sterling, 1978 EN
-Anostraca Thamnocephalidae Phallocryptus spinosa (H. Milne-Edwards, 1840) EN
-Diplostraca Limnadiidae Limnadia lenticularis (Linnaeus, 1761) EN
-Anostraca Branchipodidae Branchipus blanchardi Daday, 1908 X VU
-Anostraca Chirocephalidae Chirocephalus salinus Daday, 1913 VU
-Anostraca Chirocephalidae Linderiella massaliensis Thiéry & Champeau, 1988 X VU
-Diplostraca Chydoridae Alona azorica Frenzel et Alonso, 1988 VU
-Diplostraca Chydoridae Alona elegans Kurz, 1875 VU
-Diplostraca Chydoridae Alona nuragica Margaritora, 1971 VU
-Diplostraca Chydoridae Pleuroxus letourneuxi (Richard, 1888) VU
-Diplostraca Daphniidae Daphnia atkinsoni Baird, 1859 VU
-Diplostraca Daphniidae Daphnia chevreuxi Claus, 1876 VU
-Diplostraca Eurycercidae Ephemeroporus phintonicus (Margaritora, 1969) VU
-Diplostraca Eurycercidae Estatheroporus gauthieri Alonso, 1990 VU
-Diplostraca Limnadiidae Imnadia yeyetta Hertzog, 1935 VU
-Diplostraca Macrothricidae Macrothrix rosea (Jurine, 1820) VU
-Anostraca Branchipodidae Branchipus schaefferi Fischer de Waldheim, 1834 NT
-Anostraca Branchipodidae Eubranchipus grubii (Dybowski, 1860) NT
-Anostraca Branchipodidae Tanymastix stagnalis (Linnaeus, 1758) NT
-Notostraca Triopsidae Lepidurus apus (Linnaeus, 1758) NT
-Notostraca Triopsidae Triops cancriformis (Bosc, 1801) NT
-Anostraca hirocephalidae Chirocephalus diaphanus Prevost, 1803 LC
-Diplostraca Bosminidae Bosmina longirostris (O.F. Müller, 1776) LC
-Diplostraca Chydoridae Acroperus angustatus Sars, 1863 LC
-Diplostraca Chydoridae Acroperus harpae (Baird, 1836) LC
-Diplostraca Chydoridae Alona affinis (Leydig, 1860) LC
-Diplostraca Chydoridae Alona costata Sars, 1862 LC
-Diplostraca Chydoridae Alona guttata Sars, 1862 LC
-Diplostraca Chydoridae Alona quadrangularis (O.F. Müller, 1776) LC
-Diplostraca Chydoridae Alonella excisa (Fischer, 1854) LC
-Diplostraca Chydoridae Alonella exigua (Lilljeborg, 1853) LC
-Diplostraca Chydoridae Alonella nana (Baird, 1843) LC
-Diplostraca Chydoridae Chydorus latus Sars, 1862 LC
-Diplostraca Chydoridae Chydorus sphaericus (O.F. Müller, 1776) LC
-Diplostraca Chydoridae Coronatella rectangula (Sars, 1861) LC
-Diplostraca Chydoridae Disparalona rostrata (Koch, 1841) LC
-Diplostraca Chydoridae Dunhevedia crassa King, 1853 LC
-Diplostraca Chydoridae Graptoleberis testudinaria (Fischer, 1848) LC
-Diplostraca Chydoridae Monospilus dispar Sars, 1862 LC
-Diplostraca Chydoridae Phreatalona phreatica (Dumont, 1983) LC
-Diplostraca Chydoridae Phreatalona protzi (Hartwig, 1900) LC
-Diplostraca Chydoridae Pleuroxus aduncus (Jurine, 1820) LC
-Diplostraca Chydoridae Pleuroxus denticulatus Birge, 1879 LC
-Diplostraca Chydoridae Pleuroxus laevis Sars, 1862 LC
-Diplostraca Chydoridae Pleuroxus trigonellus (O.F. Müller, 1776) LC
-Diplostraca Chydoridae Pleuroxus truncatus (O.F. Müller, 1785) LC
-Diplostraca Chydoridae Pleuroxus uncinatus Baird, 1850 LC
-Diplostraca Chydoridae Pseudochydorus globosus (Baird, 1843) LC
-Diplostraca Daphniidae Ceriodaphnia laticaudata P.E. Müller, 1867 LC
-Diplostraca Daphniidae Ceriodaphnia megops Sars, 1862 LC
-Diplostraca Daphniidae Ceriodaphnia pulchella Sars, 1862 LC
-Diplostraca Daphniidae Ceriodaphnia quadrangula (O.F. Müller, 1785) LC
-Diplostraca Daphniidae Ceriodaphnia reticulata (Jurine, 1820) LC
-Diplostraca Daphniidae Daphnia cucullata Sars, 1862 LC
-Diplostraca Daphniidae Daphnia hyalina Leydig, 1860 LC
-Diplostraca Daphniidae Daphnia longispina (O.F. Müller, 1776) LC
-Diplostraca Daphniidae Daphnia magna Straus, 1820 LC
-Diplostraca Daphniidae Daphnia obtusa Kurz, 1875 LC
-Diplostraca Daphniidae Daphnia pulex Leydig, 1860 LC
-Diplostraca Daphniidae Megafenestra aurita (Fischer, 1849) LC
-Diplostraca Daphniidae Scapholeberis mucronata (O.F. Müller, 1776) LC
-Diplostraca Daphniidae Simocephalus exspinosus (De Geer, 1778) LC
-Diplostraca Daphniidae Simocephalus serrulatus (Koch, 1841) LC
-Diplostraca Daphniidae Simocephalus vetulus (O.F. Müller, 1776) LC
-Diplostraca Eurycercidae Eurycercus lamellatus (O.F. Müller, 1776) LC
-Diplostraca Ilyocryptidae Ilyocryptus agilis Kurz, 1878 LC
-Diplostraca Leptodoridae Leptodora kindtii (Focke, 1844) LC
-Diplostraca Macrothricidae Lathonura rectirostris (O.F. Müller, 1776) LC
-Diplostraca Macrothricidae Macrothrix laticornis (Jurine, 1820) LC
-Diplostraca Sididae Diaphanosoma brachyurum (Liévin, 1848) LC
-Diplostraca Sididae Sida crystallina (O.F. Müller, 1776) LC
-Diplostraca Acantholeberidae Acantholeberis curvirostris (O.F. Müller, 1776) DD
-Diplostraca Bosminidae Eubosmina coregoni (Baird, 1857) DD
-Diplostraca Bosminidae Eubosmina longispina (Leydig, 1860) DD
-Diplostraca Cercopagididae Bythotrephes longimanus Leydig, 1860 DD
-Diplostraca Chydoridae Alona bessei Dumont, 1983 X DD
-Diplostraca Chydoridae Alona intermedia Sars, 1862 DD
-Diplostraca Chydoridae Alona moniezi Richard, 1888 X DD
-Diplostraca Chydoridae Alona rustica Scott, 1895 DD
-Diplostraca Chydoridae Alonopsis elongata (Sars, 1861) DD
-Diplostraca Chydoridae Anchistropus emarginatus Sars, 1862 DD
-Diplostraca Chydoridae Camptocercus biserratus Schoedler, 1862 DD
-Diplostraca Chydoridae Camptocercus lilljeborgi Schoedler, 1862 DD
-Diplostraca Chydoridae Camptocercus rectirostris Schoedler, 1862 DD
-Diplostraca Chydoridae Chydorus brevilabris Frey, 1980 DD
-Diplostraca Chydoridae Chydorus gibbus Sars, 1890 DD
-Diplostraca Chydoridae Chydorus ovalis Kurz, 1875 DD
-Diplostraca Chydoridae Disparalona leei (Chien, 1970) DD
-Diplostraca Chydoridae Kurzia latissima (Kurz, 1875) DD
-Diplostraca Chydoridae Leydigia acanthocercoides (Fischer, 1854) DD
-Diplostraca Chydoridae Leydigia leydigi (Schoedler, 1863) DD
-Diplostraca Chydoridae Oxyurella tenuicaudis (Sars, 1862) DD
-Diplostraca Chydoridae Paralona pigra (G.O. Sars, 1862) DD
-Diplostraca Chydoridae Rhynchotalona falcata (G.O. Sars, 1862) DD
-Diplostraca Chydoridae Tretocephala ambigua (Lilljeborg, 1900) DD
-Diplostraca Daphniidae Ceriodaphnia dubia Richard, 1894 DD
-Diplostraca Daphniidae Ceriodaphnia rotunda Sars, 1862 DD
-Diplostraca Daphniidae Daphnia curvirostris Eylmann, 1887 DD
-Diplostraca Daphniidae Daphnia galeata Sars, 1864 DD
-Diplostraca Daphniidae Daphnia middendorffiana Fischer, 1851 DD
-Diplostraca Daphniidae Daphnia pulicaria Forbes, 1893 DD
-Diplostraca Daphniidae Daphnia rosea Sars, 1862 DD
-Diplostraca Daphniidae Daphnia similis Claus, 1876 DD
-Diplostraca Daphniidae Daphnia zschokkei Stingelin, 1894 DD
-Diplostraca Daphniidae Scapholeberis microcephala Sars, 1890 DD
-Diplostraca Daphniidae Scapholeberis rammneri Dumont & Pensaert, 1983 DD
-Diplostraca Holopediidae Holopedium gibberum Zaddach, 1855 DD
-Diplostraca Ilyocryptidae Ilyocryptus acutifrons Sars, 1862 DD
-Diplostraca Ilyocryptidae Ilyocryptus cuneatus Stifter, 1988 DD
-Diplostraca Ilyocryptidae Ilyocryptus silvaeducensis Romijn, 1919 DD
-Diplostraca Ilyocryptidae Ilyocryptus sordidus (Liévin, 1848) DD
-Diplostraca Ilyocryptidae Ilyocryptus spinosus Stifter, 1988 DD
-Diplostraca Macrothricidae Drepanothrix dentata (Eurén, 1861) DD
-Diplostraca Macrothricidae Macrothrix hirsuticornis Norman & Brady, 1867 DD
-Diplostraca Macrothricidae Streblocerus serricaudatus (Fischer, 1849) DD
-Diplostraca Moinidae Moina brachiata (Jurine, 1820) DD
-Diplostraca Moinidae Moina macrocopa (Straus, 1820) DD
-Diplostraca Moinidae Moina micrura Kurz, 1875 DD
-Diplostraca Polyphemidae Polyphemus pediculus (Linnaeus, 1758) DD
+Anostraca Chirocephalus spinicaudatus NULL X CR
+Diplostraca Cyzicus tetracerus NULL CR
+Diplostraca Daphnia mediterranea NULL CR
+Diplostraca Eoleptestheria ticinensis NULL CR
+Diplostraca Lynceus brachyurus NULL CR
+Diplostraca Moina salina NULL CR
+Anostraca Artemia parthenogenetica NULL EN
+Anostraca Phallocryptus spinosa NULL EN
+Diplostraca Limnadia lenticularis NULL EN
+Anostraca Branchipus blanchardi X NULL VU
+Anostraca Chirocephalus salinus NULL VU
+Anostraca Linderiella massaliensis NULL X VU
+Diplostraca Alona azorica NULL VU
+Diplostraca Alona elegans NULL VU
+Diplostraca Alona nuragica NULLVU
+Diplostraca Pleuroxus letourneuxi NULL VU
+Diplostraca Daphnia atkinsoni NULL VU
+Diplostraca Daphnia chevreuxi NULL VU
+Diplostraca Eurycercidae Ephemeroporus phintonicus NULL VU
+Diplostraca Eurycercidae Estatheroporus gauthier NULL VU
+Diplostraca Imnadia yeyetta NULL VU
+Diplostraca Macrothrix rosea NULL VU
+Anostraca Branchipus schaefferi NULL NT
+Anostraca Eubranchipus grubii NULL NT
+Anostraca Tanymastix stagnalis NULL NT
+Notostraca Lepidurus apus NULL NT
+Notostraca Triops cancriformis NULL NT
+Anostraca hirocephalidae Chirocephalus diaphanus NULL LC
+Diplostraca Bosmina longirostri NULL LC
+Diplostraca Acroperus angustatus NULL LC
+Diplostraca Acroperus harpae NULL LC
+Diplostraca Alona affinis NULL LC
+Diplostraca Alona costata NULL LC
+Diplostraca Alona guttata NULL LC
+Diplostraca Alona quadrangulari NULL LC
+Diplostraca Alonella excisa NULL LC
+Diplostraca Alonella exigua NULL LC
+Diplostraca Alonella nana NULL LC
+Diplostraca Chydorus latus NULL LC
+Diplostraca Chydorus sphaericu NULL LC
+Diplostraca Coronatella rectangula NULL LC
+Diplostraca Disparalona rostrata NULL LC
+Diplostraca Dunhevedia crassa NULL LC
+Diplostraca Graptoleberis testudinaria NULL LC
+Diplostraca Monospilus dispar NULL LC
+Diplostraca Phreatalona phreatica NULL LC
+Diplostraca Phreatalona protzi NULL LC
+Diplostraca Pleuroxus aduncus NULL LC
+Diplostraca Pleuroxus denticulatus NULL LC
+Diplostraca Pleuroxus laevis NULL LC
+Diplostraca Pleuroxus trigonellu NULL LC
+Diplostraca Pleuroxus truncatus NULL LC
+Diplostraca Pleuroxus uncinatus NULL LC
+Diplostraca Pseudochydorus globosus NULL LC
+Diplostraca Ceriodaphnia laticaudata NULL LC
+Diplostraca Ceriodaphnia megops NULL LC
+Diplostraca Ceriodaphnia pulchella NULL LC
+Diplostraca Ceriodaphnia quadrangula NULL LC
+Diplostraca Ceriodaphnia reticulata NULL LC
+Diplostraca Daphnia cucullata NULL LC
+Diplostraca Daphnia hyalina NULL LC
+Diplostraca Daphnia longispin NULL LC
+Diplostraca Daphnia magna NULL LC
+Diplostraca Daphnia obtusa NULL LC
+Diplostraca Daphnia pulex NULL LC
+Diplostraca Megafenestra aurita NULL LC
+Diplostraca Scapholeberis mucronat NULL LC
+Diplostraca Simocephalus exspinosus NULL LC
+Diplostraca Simocephalus serrulatus NULL LC
+Diplostraca Simocephalus vetulu NULL LC
+Diplostraca Eurycercus lamellatu NULL LC
+Diplostraca Ilyocryptus agilis NULL LC
+Diplostraca Leptodora kindtii NULL LC
+Diplostraca Lathonura rectirostri NULL LC
+Diplostraca Macrothrix laticornis NULL LC
+Diplostraca Diaphanosoma brachyurum NULL LC
+Diplostraca Sida crystallin NULL LC
+Diplostraca Acantholeberis curvirostri NULL DD
+Diplostraca Eubosmina coregoni NULL DD
+Diplostraca Eubosmina longispina NULL DD
+Diplostraca Bythotrephes longimanus NULL DD
+Diplostraca Alona bessei NULL X DD
+Diplostraca Alona intermedia NULL DD
+Diplostraca Alona moniezi NULL X DD
+Diplostraca Alona rustica NULL DD
+Diplostraca Alonopsis elongata NULL DD
+Diplostraca Anchistropus emarginatus NULL DD
+Diplostraca Camptocercus biserratus NULL DD
+Diplostraca Camptocercus lilljeborgi NULL DD
+Diplostraca Camptocercus rectirostris NULL DD
+Diplostraca Chydorus brevilabris NULL DD
+Diplostraca Chydorus gibbus NULL DD
+Diplostraca Chydorus ovalis NULL DD
+Diplostraca Disparalona leei NULL DD
+Diplostraca Kurzia latissima NULL DD
+Diplostraca Leydigia acanthocercoides NULL DD
+Diplostraca Leydigia leydigi NULL DD
+Diplostraca Oxyurella tenuicaudis NULL DD
+Diplostraca Paralona pigra NULL DD
+Diplostraca Rhynchotalona falcata NULL DD
+Diplostraca Tretocephala ambigua NULL DD
+Diplostraca Ceriodaphnia dubia NULL DD
+Diplostraca Ceriodaphnia rotunda NULL DD
+Diplostraca Daphnia curvirostris NULL DD
+Diplostraca Daphnia galeata NULL DD
+Diplostraca Daphnia middendorffiana NULL DD
+Diplostraca Daphnia pulicaria NULL DD
+Diplostraca Daphnia rosea NULL DD
+Diplostraca Daphnia similis NULL DD
+Diplostraca Daphnia zschokkei NULL DD
+Diplostraca Scapholeberis microcephala NULL DD
+Diplostraca Scapholeberis rammneri NULL DD
+Diplostraca Holopedium gibberum NULL DD
+Diplostraca Ilyocryptus acutifrons NULL DD
+Diplostraca Ilyocryptus cuneatus NULL DD
+Diplostraca Ilyocryptus silvaeducensis NULL DD
+Diplostraca Ilyocryptus sordidus NULL DD
+Diplostraca Ilyocryptus spinosus NULL DD
+Diplostraca Drepanothrix dentata NULL DD
+Diplostraca Macrothrix hirsuticornis NULL DD
+Diplostraca Streblocerus serricaudatus NULL DD
+Diplostraca Moina brachiata NULL DD
+Diplostraca Moina macrocopa NULL DD
+Diplostraca Moina micrura NULL DD
+Diplostraca Polyphemus pediculus NULL DD

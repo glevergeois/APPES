@@ -1,115 +1,19 @@
-contenu_complet = """Carnivora Mustela lutreola Vison d'Europe CR  CR
-Carnivora Ursus arctos Ours brun CR  LC
-Chiroptera Rhinolophus mehelyi Rhinolophe de Méhely CR* ? VU
-Carnivora Lynx lynx Lynx boréal EN  LC
-Cetartiodactyla Capra pyrenaica Bouquetin ibérique EN  LC
-Chiroptera Myotis dasycneme Murin des marais EN ? NT
-Rodentia Cricetus cricetus Grand hamster EN  LC
-Carnivora Canis lupus Loup gris VU  LC
-Cetartiodactyla Ovis gmelinii Mouflon d'Arménie VU  VU
-Chiroptera Miniopterus schreibersii Minioptère de Schreibers VU ? NT
-Chiroptera Myotis escalerai Murin d'Escalera VU ? NE
-Chiroptera Myotis punicus Murin du Maghreb VU  DD
-Chiroptera Nyctalus lasiopterus Grande noctule VU ? VU
-Chiroptera Nyctalus noctula Noctule commune VU  LC
-Chiroptera Plecotus macrobullaris Oreillard montagnard VU ? LC
-Soricomorpha Galemys pyrenaicus Desman des Pyrénées VU  VU
-Carnivora Mustela putorius Putois d'Europe NT  LC
-Cetartiodactyla Capra ibex Bouquetin des Alpes NT  LC
-Chiroptera Tadarida teniotis Molosse de Cestoni NT ? LC
-Chiroptera Eptesicus serotinus Sérotine commune NT ? LC
-Chiroptera Myotis bechsteinii Murin de Bechstein NT ? NT
-Chiroptera Myotis blythii Petit murin NT ? LC
-Chiroptera Myotis capaccinii Murin de Capaccini NT ? VU
-Chiroptera Nyctalus leisleri Noctule de Leisler NT  LC
-Chiroptera Pipistrellus nathusii Pipistrelle de Nathusius NT ? LC
-Chiroptera Pipistrellus pipistrellus Pipistrelle commune NT  LC
-Lagomorpha Lepus corsicanus Lièvre de Corse NT  VU
-Lagomorpha Lepus timidus Lièvre variable NT  LC
-Lagomorpha Oryctolagus cuniculus Lapin de garenne NT  NT
-Rodentia Arvicola sapidus Campagnol amphibie NT  VU
-Rodentia Arvicola terrestris Campagnol terrestre NT  LC
-Soricomorpha Crocidura leucodon Crocidure leucode NT  LC
-Soricomorpha Crocidura suaveolens Crocidure des jardins NT  LC
-Soricomorpha Talpa caeca Taupe aveugle NT ? LC
-Carnivora Vulpes vulpes Renard roux LC  LC
-Carnivora Felis silvestris Chat forestier LC  LC
-Carnivora Lutra lutra Loutre d'Europe LC  NT
-Carnivora Martes foina Fouine LC ? LC
-Carnivora Martes martes Martre des pins LC  LC
-Carnivora Meles meles Blaireau européen LC  LC
-Carnivora Mustela erminea Hermine LC ? LC
-Carnivora Mustela nivalis Belette d'Europe LC ? LC
-Carnivora Genetta genetta Genette commune LC  LC
-Cetartiodactyla Rupicapra pyrenaica Isard LC  LC
-Cetartiodactyla Rupicapra rupicapra Chamois LC  LC
-Cetartiodactyla Capreolus capreolus Chevreuil européen LC  LC
-Cetartiodactyla Cervus elaphus Cerf élaphe LC  LC
-Cetartiodactyla Sus scrofa Sanglier LC  LC
-Chiroptera Rhinolophus euryale Rhinolophe euryale LC ? NT
-Chiroptera Rhinolophus ferrumequinum Grand rhinolophe LC  LC
-Chiroptera Rhinolophus hipposideros Petit rhinolophe LC  LC
-Chiroptera Barbastella barbastellus Barbastelle d'Europe LC ? NT
-Chiroptera Hypsugo savii Vespère de Savi LC ? LC
-Chiroptera Myotis alcathoe Murin d'Alcathoe LC ? DD
-Chiroptera Myotis brandtii Murin de Brandt LC ? LC
-Chiroptera Myotis daubentonii Murin de Daubenton LC ? LC
-Chiroptera Myotis emarginatus Murin à oreilles échancrées LC  LC
-Chiroptera Myotis myotis Grand murin LC  LC
-Chiroptera Myotis mystacinus Murin à moustaches LC  LC
-Chiroptera Myotis nattereri Murin de Natterer LC ? LC
-Chiroptera Pipistrellus kuhlii Pipistrelle de Kuhl LC  LC
-Chiroptera Pipistrellus pygmaeus Pipistrelle pygmée LC ? LC
-Chiroptera Plecotus auritus Oreillard roux LC ? LC
-Chiroptera Plecotus austriacus Oreillard gris LC ? LC
-Erinaceomorpha Erinaceus europaeus Hérisson d'Europe LC ? LC
-Lagomorpha Lepus europaeus Lièvre d'Europe LC ? LC
-Rodentia Castor fiber Castor d'Eurasie LC  LC
-Rodentia Arvicola scherman Campagnol fouisseur LC  LC
-Rodentia Chionomys nivalis Campagnol des neiges LC  LC
-Rodentia Microtus agrestis Campagnol agreste LC  LC
-Rodentia Microtus arvalis Campagnol des champs LC  LC
-Rodentia Microtus duodecimcostatus Campagnol provençal LC  LC
-Rodentia Microtus lusitanicus Campagnol basque LC ? LC
-Rodentia Microtus multiplex Campagnol de Fatio LC  LC
-Rodentia Microtus pyrenaicus Campagnol des Pyrénées LC  LC
-Rodentia Microtus savii Campagnol de Savi LC ? LC
-Rodentia Microtus subterraneus Campagnol souterrain LC  LC
-Rodentia Eliomys quercinus Lérot LC ? NT
-Rodentia Glis glis Loir gris LC  LC
-Rodentia Muscardinus avellanarius Muscardin LC ? LC
-Rodentia Apodemus flavicollis Mulot à collier LC ? LC
-Rodentia Apodemus sylvaticus Mulot sylvestre LC  LC
-Rodentia Clethrionomys glareolus Campagnol roussâtre LC  LC
-Rodentia Micromys minutus Rat des moissons LC ? LC
-Rodentia Mus musculus Souris grise LC  LC
-Rodentia Mus spretus Souris d'Afrique du Nord LC  LC
-Rodentia Rattus rattus Rat noir LC  LC
-Rodentia Marmota marmota Marmotte des Alpes LC  LC
-Rodentia Sciurus vulgaris Ecureuil roux LC ? LC
-Soricomorpha Crocidura russula Crocidure musette LC  LC
-Soricomorpha Neomys anomalus Crossope de Miller LC ? LC
-Soricomorpha Neomys fodiens Crossope aquatique LC  LC
-Soricomorpha Sorex coronatus Musaraigne couronnée LC  LC
-Soricomorpha Sorex minutus Musaraigne pygmée LC  LC
-Soricomorpha Suncus etruscus Pachyure étrusque LC  LC
-Soricomorpha Talpa aquitania Taupe d'Aquitaine LC  NE
-Soricomorpha Talpa europaea Taupe d'Europe LC  LC
-Chiroptera Eptesicus nilssonii Sérotine de Nilsson DD ? LC
-Chiroptera Vespertilio murinus Vespertilion bicolore DD ? LC
-Rodentia Apodemus alpicola Mulot alpestre DD ? LC
-Soricomorpha Sorex alpinus Musaraigne alpine DD ? NT
-Soricomorpha Sorex antinorii Musaraigne du Valais DD ? DD
-Soricomorpha Sorex araneus Musaraigne carrelet DD ? LC"""
+contenu_complet = """Decapoda Austropotamobius torrentium Écrevisse des torrents CR DD
+Decapoda Astacus astacus Écrevisse à pattes rouges EN VU
+Decapoda Gallocaris inermis Crevette cavernicole X VU NE
+Decapoda Austropotamobius pallipes Écrevisse à pattes blanches VU EN
+Decapoda Atyaephyra desmaresti Caridine de Desmarest LC NE"""
 contenu_complet = contenu_complet.replace('é', 'e').replace('\u00c3\u00a9', 'e').replace('\u00e8', 'e').replace('EX', 'Ex').replace('RE', 'Re').replace('CR', 'Cr').replace('EN', 'En').replace('VU', 'Vu').replace('NT', 'Nt').replace('LC', 'Lc').replace('DD', 'Dd').replace('NA', 'Na').replace('NE', 'Ne').replace('', 'Downa').replace('', 'Uppera').replace('', 'Stilla')
 
-categorie = 'mammifere'
-sous_categorie = 'mammifere_terrestre'
+categorie = 'crustaces'
+sous_categorie = 'decapode'
+clrm = 'NULL'
+tendance = 'NULL'
 
 def add_X(texte):
     lignes = texte.split('\n')  # Divise le texte en lignes
 
-    for index, ligne in enumerate(lignes, start=1):
+    for index, ligne in enumerate(lignes, start=714):
         mots = ligne.split()
         nouveaux_mots = [str(index)]
         count = 0
@@ -132,8 +36,8 @@ def add_X(texte):
             else:
                 nouveaux_mots.append("\\t" + mot)
 
-        print(nouveaux_mots)
-
+        nouveaux_mots.append('\\t' + tendance)
+        # nouveaux_mots.append('\\t' + clrm)
         nouveaux_mots.append('\\t' + categorie)
         nouveaux_mots.append('\\t' + sous_categorie)
 
@@ -142,7 +46,7 @@ def add_X(texte):
                 nouveaux_mots.pop(4 +int(count))
                 nouveaux_mots.append('\\tX')
 
-        lignes[index-1] = ' '.join(nouveaux_mots)
+        lignes[index-714] = ' '.join(nouveaux_mots)
         
     resultat = '\n'.join(lignes)
     resultat = resultat.replace('__', '_').replace(' ', '')

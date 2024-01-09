@@ -1,6 +1,6 @@
 Araneidae Larinia jeskovi Larinia de Jeskov CR ?
 Araneidae Singa neta Singa de Gruissan CR* ?
-Cybaeidae Tuberta maerens CR* ?
+Cybaeidae Tuberta maerens Tuberta maerens CR* ?
 Linyphiidae Bathyphantes eumenis Lepthyphantes des glacières CR ?
 Linyphiidae Centromerus corsicus Centromerus corse X CR* ?
 Linyphiidae Gonatium geniculosum Gonatie du Mercantour X CR* ?
@@ -9,7 +9,7 @@ Linyphiidae Mughiphantes baebleri Lepthyphantes de Baebler CR ?
 Linyphiidae Savignia superstes Savignia des sommets X CR ?
 Linyphiidae Scotinotylus evansi Scotinotylus d'Evans CR ?
 Linyphiidae Troglohyphantes konradi Troglohyphantes de Konrad CR ?
-Lycosidae Acantholycosa norvegica Petite Lycose des Sudètes CR ?
+Lycosidae Acantholycosa norvegica Petite lycose des Sudètes CR ?
 Lycosidae Arctosa alpigena Arctosa des estives CR ?
 Nemesiidae Nemesia incerta Mygale du Luberon X CR* ?
 Nesticidae Typhlonesticus morisii Nesticus italien CR ?
@@ -46,13 +46,13 @@ Linyphiidae Araeoncus anguineus Araeoncus des Alpes EN ?
 Linyphiidae Baryphyma maritimum Baryphyma maritime EN ?
 Linyphiidae Bathyphantes setiger Lepthyphantes hérissé EN ?
 Linyphiidae Caracladus avicula Caracladus à tête d'oiseau EN ?
-Linyphiidae Ceraticelus bulbosus EN ?
+Linyphiidae Ceraticelus bulbosus Ceraticelus bulbosus EN ?
 Linyphiidae Diplocephalus culminicola Diplocephalus des Pyrénées X EN ?
 Linyphiidae Drepanotylus uncatus Erigone de Cyril EN 
 Linyphiidae Erigonoplus depressifrons Erigone dégonflée EN ?
 Linyphiidae Erigonoplus nasutus Erigone à gros nez EN 
 Linyphiidae Linyphia alpicola Linyphie alpine EN ?
-Linyphiidae Macrargus carpenteri EN ?
+Linyphiidae Macrargus carpenteri Macrargus carpenteri EN ?
 Linyphiidae Mecynargus brocchus Mecynargus des éboulis EN ?
 Linyphiidae Micrargus cupidon Micrargus aveugle EN ?
 Linyphiidae Midia midas Lepthyphantes de Midas EN ?
@@ -60,7 +60,7 @@ Linyphiidae Mughiphantes handschini Lepthyphantes atchoum EN ?
 Linyphiidae Mughiphantes jugorum Lepthyphantes isard X EN ?
 Linyphiidae Palliduphantes dentatidens Lepthyphantes denté X EN ?
 Linyphiidae Peponocranium praeceps Erigone auvergnate EN 
-Linyphiidae Piniphantes cirratus X EN ?
+Linyphiidae Piniphantes cirratus Piniphantes cirratus X EN ?
 Linyphiidae Sciastes carli Sciastes de Carl EN ?
 Linyphiidae Semljicola faustus Erigone diabolique EN ?
 Linyphiidae Stemonyphantes conspersus Lepthyphantes des mélèzes EN ?
@@ -88,7 +88,7 @@ Pisauridae Dolomedes plantarius Dolomède des roseaux EN 
 Salticidae Attulus rivalis Attulus des tourbières X EN ?
 Salticidae Euophrys alticola Euophrys des sommets EN ?
 Salticidae Heliophanus dampfi Heliophanus des tourbières EN ?
-Salticidae Talavera parvistyla EN ?
+Salticidae Talavera parvistyla Talavera parvistyla EN ?
 Telemidae Telema tenella Telema EN ?
 Tetragnathidae Tetragnatha reimoseri Tétragnathe de Reimoser EN ?
 Theridiidae Dipoena nigroreticulata Dipoena réticulée EN ?
@@ -131,34 +131,34 @@ Linyphiidae Centromerus silvicola Centromerus des Préalpes VU ?
 Linyphiidae Centromerus subalpinus Centromerus subalpin VU ?
 Linyphiidae Diplocephalus procer Diplocephalus de Méditerranée VU ?
 Linyphiidae Erigone maritima Erigone maritime VU ?
-Linyphiidae Janetschekia monodon VU ?
-Linyphiidae Metopobactrus falcifrons X VU ?
+Linyphiidae Janetschekia monodon Janetschekia monodon VU ?
+Linyphiidae Metopobactrus falcifrons Metopobactrus falcifrons X VU ?
 Linyphiidae Moebelia berolinensis Erigone berlinoise VU ?
-Linyphiidae Neriene hammeni VU ?
+Linyphiidae Neriene hammeni Neriene hammeni VU ?
 Linyphiidae Palliduphantes fagicola Lepthyphantes des hêtraies VU ?
 Linyphiidae Panamomops mutilus Panamomops mutilé VU 
-Linyphiidae Piniphantes agnellus VU ?
-Linyphiidae Satilatlas britteni VU ?
-Linyphiidae Scotinotylus antennatus VU ?
+Linyphiidae Piniphantes agnellus Piniphantes agnellus VU ?
+Linyphiidae Satilatlas britteni Satilatlas britteni VU ?
+Linyphiidae Scotinotylus antennatus Scotinotylus antennatus VU ?
 Linyphiidae Silometopus curtus Silometopus tronqué VU ?
-Linyphiidae Trichoncoides piscator VU ?
+Linyphiidae Trichoncoides piscator Trichoncoides piscator VU ?
 Linyphiidae Troglohyphantes solitarius Troglohyphantes quercynois X VU ?
 Linyphiidae Walckenaeria kochi Walckenaeria de Koch VU ?
-Lycosidae Alopecosa sulzeri Lycose-renard de Sulzer VU ?
+Lycosidae Alopecosa sulzeri Lycose_renard de Sulzer VU ?
 Lycosidae Pardosa ferruginea Pardose rouillée VU ?
 Lycosidae Pardosa occidentalis Pardose occidentale VU ?
 Lycosidae Pyrenecosa pyrenaea Pyrenecosa du Canigou VU ?
 Lycosidae Trebacosa europaea Trebacosa VU ?
-Oxyopidae Oxyopes mediterraneus VU ?
+Oxyopidae Oxyopes mediterraneus Oxyopes mediterraneus VU ?
 Philodromidae Celerrimus duffeyi Philodrome de Duffey VU ?
 Philodromidae Philodromus blanckei Philodrome du laricio VU ?
 Salticidae Aelurillus bosmansi Asianelle de Bosmans VU ?
 Salticidae Attulus inexpectus Attulus inattendu VU ?
-Salticidae Neon muticus X VU ?
+Salticidae Neon muticus Neon muticus X VU ?
 Salticidae Pseudomogrus salsicola Mogrus des plages VU ?
 Salticidae Synageles albotrimaculatus Araignée fourmi à trois points VU ?
 Synaphridae Synaphris saphrynis Synaphris VU ?
-Tetragnathidae Tetragnatha shoshone Tétragnathe Shoshone VU ?
+Tetragnathidae Tetragnatha shoshone Tétragnathe shoshone VU ?
 Theridiidae Theridion boesenbergi Theridion de Boesenberg VU ?
 Thomisidae Tmarus piochardi Tmarus de Piochard VU ?
 Thomisidae Xysticus desidiosus Xystique des estives VU ?

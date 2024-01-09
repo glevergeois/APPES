@@ -1,0 +1,62 @@
+[
+    {
+      "Index":714,
+      "Ordre":"Decapoda",
+      "Nom scientifique":"Austropotamobius_torrentium",
+      "Nom commun":"Ecrevisse_des_torrents",
+      "Categorie Liste rouge France":"Cr",
+      "Tendance":null,
+      "Categorie Liste rouge mondiale":"Dd",
+      "Categorie":"crustaces",
+      "Sous-Categorie":"decapode",
+      "Statut d'endemisme*":null
+    },
+    {
+      "Index":715,
+      "Ordre":"Decapoda",
+      "Nom scientifique":"Astacus_astacus",
+      "Nom commun":"Ecrevisse_a_pattes_rouges",
+      "Categorie Liste rouge France":"En",
+      "Tendance":null,
+      "Categorie Liste rouge mondiale":"Vu",
+      "Categorie":"crustaces",
+      "Sous-Categorie":"decapode",
+      "Statut d'endemisme*":null
+    },
+    {
+      "Index":716,
+      "Ordre":"Decapoda",
+      "Nom scientifique":"Gallocaris_inermis",
+      "Nom commun":"Crevette_cavernicole",
+      "Categorie Liste rouge France":"Vu",
+      "Tendance":null,
+      "Categorie Liste rouge mondiale":"Ne",
+      "Categorie":"crustaces",
+      "Sous-Categorie":"decapode",
+      "Statut d'endemisme*":"X"
+    },
+    {
+      "Index":717,
+      "Ordre":"Decapoda",
+      "Nom scientifique":"Austropotamobius_pallipes",
+      "Nom commun":"Ecrevisse_a_pattes_blanches",
+      "Categorie Liste rouge France":"Vu",
+      "Tendance":null,
+      "Categorie Liste rouge mondiale":"En",
+      "Categorie":"crustaces",
+      "Sous-Categorie":"decapode",
+      "Statut d'endemisme*":null
+    },
+    {
+      "Index":718,
+      "Ordre":"Decapoda",
+      "Nom scientifique":"Atyaephyra_desmaresti",
+      "Nom commun":"Caridine_de_Desmarest",
+      "Categorie Liste rouge France":"Lc",
+      "Tendance":null,
+      "Categorie Liste rouge mondiale":"Ne",
+      "Categorie":"crustaces",
+      "Sous-Categorie":"decapode",
+      "Statut d'endemisme*":null
+    }
+  ]
