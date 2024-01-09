@@ -1,0 +1,49 @@
+Amphipoda Gammaridae Echinogammarus aquilifer Pinkster, 1969 CR
+Amphipoda Gammaridae Echinogammarus zebrinus Pinkster & Stock, 1971 X CR
+Amphipoda Gammaridae Gammarus monspeliensis Pinkster, 1972 X CR
+Amphipoda Eulimnogammaridae Eulimnogammarus anisocheirus (Ruffo, 1959) X EN
+Amphipoda Gammaridae Echinogammarus tabu G.S. Karaman, 1971 X EN
+Amphipoda Bogidiellidae Bogidiella albertimagni Hertzog, 1933 VU
+Amphipoda Bogidiellidae Bogidiella nicolae Karaman, 1988 X VU
+Amphipoda Gammaridae Echinogammarus cyrtus Pinkster & Platvoet, 1986 X VU
+Amphipoda Gammaridae Gammarus stupendus Pinkster, 1983 X VU
+Amphipoda Ingolfiellidae Ingolfiella catalanensis Coineau, 1963 VU
+Amphipoda Niphargidae Niphargus balazuci Schellenberg, 1951 X VU
+Amphipoda Niphargidae Niphargus boulangei Wichers, 1964 X VU
+Amphipoda Niphargidae Niphargus burgundus Graf, 1968 X VU
+Amphipoda Niphargidae Niphargus corsicanus Schellenberg, 1950 X VU
+Amphipoda Niphargidae Niphargus kieferi Schellenberg, 1936 VU
+Amphipoda Niphargidae Niphargus nicaensis Isnard, 1916 X VU
+Amphipoda Niphargidae Niphargus vandeli Barbé, 1961 X VU
+Amphipoda Bogidiellidae Medigidiella chappuisi (Ruffo, 1952) NT
+Amphipoda Gammaridae Echinogammarus feminatus Pinkster, 1973 X NT
+Amphipoda Gammaridae Gammarus duebeni Liljeborg, 1852 NT
+Amphipoda Niphargidae Niphargus angelieri Ruffo, 1954 X NT
+Amphipoda Niphargidae Niphargus delamarei Ruffo, 1954 X NT
+Amphipoda Niphargidae Niphargus renei G. Karaman, 1986 X NT
+Amphipoda Pseudoniphargidae Pseudoniphargus adriaticus Karaman, 1955 NT
+Amphipoda Salentinellidae Parasalentinella rouchi Bou, 1971 X NT
+Amphipoda Gammaridae Echinogammarus berilloni (Catta, 1878) LC
+Amphipoda Gammaridae Echinogammarus pacaudi Hubault & Ruffo, 1956 X LC
+Amphipoda Gammaridae Echinogammarus pungens (H. Milne Edwards, 1840) LC
+Amphipoda Gammaridae Echinogammarus spinulicornis Pinkster & Stock, 1971 X LC
+Amphipoda Gammaridae Gammarus fossarum Koch in Panzer, 1835 LC
+Amphipoda Gammaridae Gammarus lacustris Sars, 1863 LC
+Amphipoda Gammaridae Gammarus orinos Pinkster & Scholl, 1984 X LC
+Amphipoda Gammaridae Gammarus pulex (Linnaeus, 1758) LC
+Amphipoda Gammaridae Gammarus wautieri Roux, 1967 LC
+Amphipoda Gammaridae Gammarus zaddachi Sexton, 1912 LC
+Amphipoda Ingolfiellidae Ingolfiella thibaudi Coineau, 1968 X LC
+Amphipoda Niphargidae Niphargopsis casparyi (Pratz, 1866) LC
+Amphipoda Niphargidae Niphargus aquilex Schiödte, 1855 LC
+Amphipoda Niphargidae Niphargus ciliatus Chevreux, 1906 LC
+Amphipoda Niphargidae Niphargus fontanus Bate, 1859 LC
+Amphipoda Niphargidae Niphargus foreli Humbert, 1877 LC
+Amphipoda Niphargidae Niphargus gallicus Schellenberg, 1935 LC
+Amphipoda Niphargidae Niphargus gineti Bou, 1965 X LC
+Amphipoda Niphargidae Niphargus kochianus Bate, 1859 LC
+Amphipoda Niphargidae Niphargus ladmiraulti Chevreux, 1901 X LC
+Amphipoda Niphargidae Niphargus pachypus Schellenberg, 1933 LC
+Amphipoda Niphargidae Niphargus plateaui Chevreux, 1901 X LC
+Amphipoda Niphargidae Niphargus rhenorhodanensis Schellenberg, 1937 LC
+Amphipoda Niphargidae Niphargus robustus Chevreux, 1901 X LC

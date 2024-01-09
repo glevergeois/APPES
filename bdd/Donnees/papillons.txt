@@ -1,0 +1,253 @@
+Nymphalidae Neptis rivularis (Scopoli, 1763) Sylvain des spirées RE LC
+Hesperiidae Gegenes pumilio (Hoffmannsegg, 1804) Hespérie du barbon CR LC
+Nymphalidae Coenonympha hero (Linnaeus, 1761) Mélibée CR VU
+Nymphalidae Coenonympha tullia (Müller, 1764) Fadet des tourbières EN VU
+Nymphalidae Euphydryas maturna (Linnaeus, 1758) Damier du frêne EN VU
+Nymphalidae Polygonia egea (Cramer, 1775) Vanesse des pariétaires EN LC
+Hesperiidae Carcharodus baeticus (Rambur, 1839) Hespérie de la ballote VU LC
+Hesperiidae Pyrgus warrenensis (Verity, 1928) Hespérie rhétique VU LC
+Pieridae Pieris ergane (Geyer, 1828) Piéride de l'aethionème VU LC
+Lycaenidae Aricia morronensis (Ribbe, 1910) Argus castillan VU LC
+Lycaenidae Maculinea nausithous (Bergsträsser, 1779) Azuré des paluds VU NT
+Lycaenidae Maculinea teleius (Bergsträsser, 1779) Azuré de la sanguisorbe VU VU
+Lycaenidae Tomares ballus (Fabricius, 1787) Faux-cuivré smaragdin VU LC
+Nymphalidae Chazara briseis (Linnaeus, 1764) Hermite VU NT
+Nymphalidae Euphydryas desfontainii (Godart, 1819) Damier des knauties VU NT
+Nymphalidae Euphydryas intermedia (Ménétriés, 1859) Damier du chèvrefeuille VU LC
+Nymphalidae Melitaea aurelia Nickerl, 1850 Mélitée des digitales VU NT
+Hesperiidae Carcharodus lavatherae (Esper, 1783) Hespérie de l'épiaire NT NT
+Hesperiidae Pyrgus cirsii (Rambur, 1839) Hespérie des cirses NT VU
+Papilionidae Parnassius mnemosyne (Linnaeus, 1758) Semi-Apollon NT NT
+Pieridae Iberochloe tagis (Hübner, 1804) Marbré de Lusitanie NT LC
+Lycaenidae Iolana iolas (Ochsenheimer, 1816) Azuré du baguenaudier NT NT
+Lycaenidae Lycaena helle (Denis & Schiffermüller, 1775) Cuivré de la bistorte NT EN
+Lycaenidae Maculinea alcon (Denis & Schiffermüller, 1775) Azuré de la pulmonaire NT LC
+Lycaenidae Polyommatus dorylas (Denis & Schiffermüller, 1775) Azuré du mélilot NT NT
+Nymphalidae Argynnis niobe (Linnaeus, 1758) Chiffre NT LC
+Nymphalidae Boloria aquilonaris (Stichel, 1908) Nacré de la canneberge NT LC
+Nymphalidae Boloria selene (Denis & Schiffermüller, 1775) Petit Collier argenté NT LC
+Nymphalidae Coenonympha oedippus (Fabricius, 1787) Fadet des laîches NT EN
+Nymphalidae Erebia epistygne (Hübner, 1819) Moiré provençal NT NT
+Nymphalidae Erebia lefebvrei (Boisduval, 1828) Moiré cantabrique NT LC
+Nymphalidae Erebia scipio Boisduval, 1832 Moiré des pierriers NT LC
+Nymphalidae Hyponephele lupina (O. Costa, 1836) Louvet NT LC
+Nymphalidae Limenitis populi (Linnaeus, 1758) Grand Sylvain NT LC
+Nymphalidae Lopinga achine (Scopoli, 1763) Bacchante NT VU
+Hesperiidae Carcharodus alceae (Esper, 1780) Hespérie de l’alcée LC LC
+Hesperiidae Carcharodus floccifer (Zeller, 1847) Hespérie de la bétoine LC NT
+Hesperiidae Carterocephalus palaemon (Pallas, 1771) Hespérie du brome LC LC
+Hesperiidae Erynnis tages (Linnaeus, 1758) Point-de-Hongrie LC LC
+Hesperiidae Hesperia comma (Linnaeus, 1758) Virgule LC LC
+Hesperiidae Heteropterus morpheus (Pallas, 1771) Miroir LC LC
+Hesperiidae Muschampia proto (Ochsenheimer, 1808) Hespérie de l'herbe-au-vent LC LC
+Hesperiidae Ochlodes sylvanus (Esper, 1777) Sylvaine LC LC
+Hesperiidae Pyrgus alveus (Hübner, 1803) Hespérie du faux-buis LC LC
+Hesperiidae Pyrgus andromedae (Wallengren, 1853) Hespérie des frimas LC LC
+Hesperiidae Pyrgus armoricanus (Oberthür, 1910) Hespérie des potentilles LC LC
+Hesperiidae Pyrgus bellieri (Oberthür, 1910) Hespérie des hélianthèmes LC LC
+Hesperiidae Pyrgus cacaliae (Rambur, 1839) Hespérie du pas-d'âne LC LC
+Hesperiidae Pyrgus carlinae (Rambur, 1839) Hespérie de la parcinière LC LC
+Hesperiidae Pyrgus carthami (Hübner, 1813) Hespérie du carthame LC LC
+Hesperiidae Pyrgus malvae (Linnaeus, 1758) Hespérie de l’ormière LC LC
+Hesperiidae Pyrgus malvoides (Elwes & Edwards, 1897) Hespérie de l'aigremoine LC LC
+Hesperiidae Pyrgus onopordi (Rambur, 1839) Hespérie de la malope LC LC
+Hesperiidae Pyrgus serratulae (Rambur, 1839) Hespérie de l'alchémille LC LC
+Hesperiidae Pyrgus sidae (Esper, 1784) Hespérie à bandes jaunes LC LC
+Hesperiidae Spialia sertorius (Hoffmannsegg, 1804) Hespérie des sanguisorbes LC LC
+Hesperiidae Spialia therapne (Rambur, 1832) Hespérie tyrrhénienne LC LC
+Hesperiidae Thymelicus acteon (Rottemburg, 1775) Hespérie du chiendent LC NT
+Hesperiidae Thymelicus lineola (Ochsenheimer, 1808) Hespérie du dactyle LC LC
+Hesperiidae Thymelicus sylvestris (Poda, 1761) Hespérie de la houque LC LC
+Papilionidae Iphiclides feisthamelii (Duponchel, 1832) Voilier blanc LC NE
+Papilionidae Iphiclides podalirius (Linnaeus, 1758) Flambé LC LC
+Papilionidae Papilio alexanor Esper, 1800 Alexanor LC LC
+Papilionidae Papilio hospiton Gené, 1839 Porte-queue de Corse LC LC
+Papilionidae Papilio machaon Linnaeus, 1758 Machaon LC LC
+Papilionidae Parnassius apollo (Linnaeus, 1758) Apollon LC NT
+Papilionidae Parnassius phoebus (Fabricius, 1793) Petit Apollon LC NT
+Papilionidae Zerynthia polyxena (Denis & Schiffermüller, 1775) Diane LC LC
+Papilionidae Zerynthia rumina (Linnaeus, 1758) Proserpine LC LC
+Pieridae Anthocharis cardamines (Linnaeus, 1758) Aurore LC LC
+Pieridae Anthocharis euphenoides Staudinger, 1869 Aurore de Provence LC LC
+Pieridae Aporia crataegi (Linnaeus, 1758) Gazé LC LC
+Pieridae Colias alfacariensis Ribbe, 1905 Fluoré LC LC
+Pieridae Colias crocea (Fourcroy, 1785) Souci LC LC
+Pieridae Colias hyale (Linnaeus, 1758) Soufré LC LC
+Pieridae Colias palaeno (Linnaeus, 1761) Solitaire LC LC
+Pieridae Colias phicomone (Esper, 1780) Candide LC NT
+Pieridae Euchloe crameri Butler, 1869 Piéride des biscutelles LC LC
+Pieridae Euchloe insularis (Staudinger, 1861) Marbré tyrrhénien LC LC
+Pieridae Euchloe simplonia (Boisduval, 1832) Piéride du simplon LC LC
+Pieridae Gonepteryx cleopatra (Linnaeus, 1767) Citron de Provence LC LC
+Pieridae Gonepteryx rhamni (Linnaeus, 1758) Citron LC LC
+Pieridae Leptidea duponcheli (Staudinger, 1871) Piéride du sainfoin LC LC
+Pieridae Leptidea reali Reissinger, 1990 Piéride de Réal LC LC
+Pieridae Leptidea sinapis (Linnaeus, 1758) Piéride du lotier LC LC
+Pieridae Pieris brassicae (Linnaeus, 1758) Piéride du chou LC LC
+Pieridae Pieris bryoniae (Hübner, 1800) Piéride de l’arabette LC LC
+Pieridae Pieris mannii (Mayer, 1851) Piéride de l'ibéride LC LC
+Pieridae Pieris napi (Linnaeus, 1758) Piéride du navet LC LC
+Pieridae Pieris rapae (Linnaeus, 1758) Piéride de la rave LC LC
+Pieridae Pontia callidice (Hübner, 1800) Piéride du vélar LC LC
+Pieridae Pontia daplidice (Linnaeus, 1758) Marbré-de-vert LC LC
+Riodinidae Hamearis lucina (Linnaeus, 1758) Lucine LC LC
+Lycaenidae Agriades glandon (de Prunner, 1798) Azuré des soldanelles LC LC
+Lycaenidae Agriades pyrenaica (Boisduval, 1840) Azuré de l'androsace LC LC
+Lycaenidae Albulina orbitulus (de Prunner, 1798) Azuré de la phaque LC LC
+Lycaenidae Aricia agestis (Denis & Schiffermüller, 1775) Collier-de-corail LC LC
+Lycaenidae Aricia artaxerxes (Fabricius, 1793) Argus de l'hélianthème LC LC
+Lycaenidae Aricia nicias (Meigen, 1830) Azuré des géraniums LC LC
+Lycaenidae Callophrys avis Chapman, 1909 Thecla de l'arbousier LC LC
+Lycaenidae Callophrys rubi (Linnaeus, 1758) Thécla de la ronce LC LC
+Lycaenidae Celastrina argiolus (Linnaeus, 1758) Azuré des nerpruns LC LC
+Lycaenidae Cupido alcetas (Hoffmannsegg, 1804) Azuré de la faucille LC LC
+Lycaenidae Cupido argiades (Pallas, 1771) Azuré du trèfle LC LC
+Lycaenidae Cupido minimus (Fuessly, 1775) Argus frêle LC LC
+Lycaenidae Cupido osiris (Meigen, 1829) Azuré de la chevrette LC LC
+Lycaenidae Cyaniris semiargus (Rottemburg, 1775) Azuré des anthyllides LC LC
+Lycaenidae Eumedonia eumedon (Esper, 1780) Argus de la sanguinaire LC LC
+Lycaenidae Glaucopsyche alexis (Poda, 1761) Azuré des cytises LC LC
+Lycaenidae Glaucopsyche melanops (Boisduval, 1828) Azuré de la badasse LC LC
+Lycaenidae Laeosopis roboris (Esper, 1789) Thécla du frêne LC LC
+Lycaenidae Lampides boeticus (Linnaeus, 1767) Azuré porte-queue LC LC
+Lycaenidae Leptotes pirithous (Linnaeus, 1767) Azuré de la luzerne LC LC
+Lycaenidae Lycaena alciphron (Rottemburg, 1775) Cuivré mauvin LC LC
+Lycaenidae Lycaena dispar (Haworth, 1802) Cuivré des marais LC LC
+Lycaenidae Lycaena hippothoe (Linnaeus, 1761) Cuivré écarlate LC LC
+Lycaenidae Lycaena phlaeas (Linnaeus, 1761) Cuivré commun LC LC
+Lycaenidae Lycaena tityrus (Poda, 1761) Cuivré fuligineux LC LC
+Lycaenidae Lycaena virgaureae (Linnaeus, 1758) Cuivré de la verge-d'or LC LC
+Lycaenidae Maculinea arion (Linnaeus, 1758) Azuré du serpolet LC EN
+Lycaenidae Plebejus argus (Linnaeus, 1758) Azuré de l'ajonc LC LC
+Lycaenidae Plebejus argyrognomon (Bergsträsser, 1779) Azuré des coronilles LC LC
+Lycaenidae Plebejus bellieri (Oberthür, 1910) Azuré tyrrhénien LC LC
+Lycaenidae Plebejus idas (Linnaeus, 1761) Azuré du genêt LC LC
+Lycaenidae Polyommatus amandus (Schneider, 1792) Azuré de la jarosse LC LC
+Lycaenidae Polyommatus bellargus (Rottemburg, 1775) Azuré bleu-céleste LC LC
+Lycaenidae Polyommatus coridon (Poda, 1761) Argus bleu-nacré LC LC
+Lycaenidae Polyommatus damon (Denis & Schiffermüller, 1775) Sablé du sainfoin LC NT
+Lycaenidae Polyommatus daphnis (Denis & Schiffermüller, 1775) Azuré de l'orobe LC LC
+Lycaenidae Polyommatus dolus (Hübner, 1823) Sablé de la luzerne LC LC
+Lycaenidae Polyommatus eros (Ochsenheimer, 1808) Azuré de l'oxytropide LC NT
+Lycaenidae Polyommatus escheri (Hübner, 1823) Azuré de l'adragant LC LC
+Lycaenidae Polyommatus hispanus (Herrich-Schäffer, 1852) Bleu-nacré d'Espagne LC LC
+Lycaenidae Polyommatus icarus (Rottemburg, 1775) Azuré de la bugrane LC LC
+Lycaenidae Polyommatus ripartii (Freyer, 1830) Sablé provençal LC LC
+Lycaenidae Polyommatus thersites (Cantener, 1835) Azuré de l'esparcette LC LC
+Lycaenidae Pseudophilotes baton (Bergsträsser, 1779) Azuré du thym LC LC
+Lycaenidae Quercusia quercus (Linnaeus, 1758) Thécla du chêne LC LC
+Lycaenidae Satyrium acaciae (Fabricius, 1787) Thécla de l'amarel LC LC
+Lycaenidae Satyrium esculi (Hübner, 1804) Thécla du kermès LC LC
+Lycaenidae Satyrium ilicis (Esper, 1779) Thécla de l'yeuse LC LC
+Lycaenidae Satyrium pruni (Linnaeus, 1758) Thécla du prunier LC LC
+Lycaenidae Satyrium spini (Denis & Schiffermüller, 1775) Thécla des nerpruns LC LC
+Lycaenidae Satyrium w-album (Knoch, 1782) Thécla de l'orme LC LC
+Lycaenidae Scolitantides orion (Pallas, 1771) Azuré des orpins LC LC
+Lycaenidae Thecla betulae (Linnaeus, 1758) Thécla du bouleau LC LC
+Lycaenidae Vacciniina optilete (Knoch, 1781) Azuré de la canneberge LC LC
+Nymphalidae Aglais io (Linnaeus, 1758) Paon-du-jour LC LC
+Nymphalidae Aglais urticae (Linnaeus, 1758) Petite Tortue LC LC
+Nymphalidae Apatura ilia (Denis & Schiffermüller, 1775) Petit Mars changeant LC LC
+Nymphalidae Apatura iris (Linnaeus, 1758) Grand Mars changeant LC LC
+Nymphalidae Aphantopus hyperantus (Linnaeus, 1758) Tristan LC LC
+Nymphalidae Araschnia levana (Linnaeus, 1758) Carte géographique LC LC
+Nymphalidae Arethusana arethusa (Denis & Schiffermüller, 1775) Mercure LC LC
+Nymphalidae Argynnis adippe (Denis & Schiffermüller, 1775) Moyen Nacré LC LC
+Nymphalidae Argynnis aglaja (Linnaeus, 1758) Grand Nacré LC LC
+Nymphalidae Argynnis elisa Godart, 1823 Nacré tyrrhénien LC LC
+Nymphalidae Argynnis pandora (Denis & Schiffermüller, 1775) Cardinal LC LC
+Nymphalidae Argynnis paphia (Linnaeus, 1758) Tabac d'Espagne LC LC
+Nymphalidae Boloria dia (Linnaeus, 1767) Petite Violette LC LC
+Nymphalidae Boloria eunomia (Esper, 1799) Nacré de la bistorte LC LC
+Nymphalidae Boloria euphrosyne (Linnaeus, 1758) Grand Collier argenté LC LC
+Nymphalidae Boloria graeca (Staudinger, 1870) Nacré des Balkans LC LC
+Nymphalidae Boloria napaea (Hoffmannsegg, 1804) Nacré des renouées LC LC
+Nymphalidae Boloria pales (Denis & Schiffermüller, 1775) Nacré subalpin LC LC
+Nymphalidae Boloria titania (Esper, 1794) Nacré porphyrin LC NT
+Nymphalidae Brenthis daphne (Bergsträsser, 1780) Nacré de la ronce LC LC
+Nymphalidae Brenthis hecate (Denis & Schiffermüller, 1775) Nacré de la filipendule LC LC
+Nymphalidae Brenthis ino (Rottemburg, 1775) Nacré de la sanguisorbe LC LC
+Nymphalidae Brintesia circe (Fabricius, 1775) Silène LC LC
+Nymphalidae Charaxes jasius (Linnaeus, 1767) Nymphale de l'arbousier LC LC
+Nymphalidae Coenonympha arcania (Linnaeus, 1761) Céphale LC LC
+Nymphalidae Coenonympha corinna (Hübner, 1804) Fadet tyrrhénien LC LC
+Nymphalidae Coenonympha darwiniana Staudinger, 1871 Céphalion LC NE
+Nymphalidae Coenonympha dorus (Esper, 1782) Fadet des garrigues LC LC
+Nymphalidae Coenonympha gardetta (de Prunner, 1798) Satyrion LC LC
+Nymphalidae Coenonympha glycerion (Borkhausen, 1788) Fadet de la mélique LC LC
+Nymphalidae Coenonympha pamphilus (Linnaeus, 1758) Fadet commun LC LC
+Nymphalidae Danaus chrysippus (Linnaeus, 1758) Petit Monarque LC NA
+Nymphalidae Erebia aethiopellus (Hoffmannsegg, 1806) Moiré piémontais LC LC
+Nymphalidae Erebia aethiops (Esper, 1777) Moiré sylvicole LC LC
+Nymphalidae Erebia alberganus (de Prunner, 1798) Moiré lancéolé LC LC
+Nymphalidae Erebia cassioides (Reiner et Hochenwarth, 1792) Moiré lustré LC LC
+Nymphalidae Erebia epiphron (Knoch, 1783) Moiré de la canche LC LC
+Nymphalidae Erebia euryale (Esper, 1805) Moiré frange-pie LC LC
+Nymphalidae Erebia gorge (Hübner, 1804) Moiré chamoisé LC LC
+Nymphalidae Erebia gorgone Boisduval, 1833 Moiré pyrénéen LC LC
+Nymphalidae Erebia ligea (Linnaeus, 1758) Moiré blanc-fascié LC LC
+Nymphalidae Erebia manto (Denis & Schiffermüller, 1775) Moiré variable LC LC
+Nymphalidae Erebia medusa (Denis & Schiffermüller, 1775) Moiré franconien LC LC
+Nymphalidae Erebia melampus (Fuessly, 1775) Moiré des pâturins LC LC
+Nymphalidae Erebia meolans (de Prunner, 1798) Moiré des fétuques LC LC
+Nymphalidae Erebia mnestra (Hübner, 1804) Moiré fauve LC LC
+Nymphalidae Erebia montana (de Prunner, 1798) Moiré striolé LC LC
+Nymphalidae Erebia neoridas (Boisduval, 1828) Moiré automnal LC LC
+Nymphalidae Erebia oeme (Hübner, 1804) Moiré des luzules LC LC
+Nymphalidae Erebia ottomana Herrich-Schäffer, 1847 Moiré ottoman LC LC
+Nymphalidae Erebia pandrose (Borkhausen, 1788) Moiré cendré LC LC
+Nymphalidae Erebia pharte (Hübner, 1804) Moiré aveuglé LC LC
+Nymphalidae Erebia pluto (de Prunner, 1798) Moiré velouté LC LC
+Nymphalidae Erebia pronoe (Esper, 1780) Moiré fontinal LC LC
+Nymphalidae Erebia rondoui Oberthur, 1908 Moiré de Rondou LC LC
+Nymphalidae Erebia sthennyo Graslin, 1850 Moiré andorran LC LC
+Nymphalidae Erebia sudetica Staudinger, 1861 Moiré des Sudètes LC VU
+Nymphalidae Erebia triarius (de Prunner, 1798) Moiré printanier LC LC
+Nymphalidae Euphydryas aurinia (Rottemburg, 1775) Damier de la succise LC LC
+Nymphalidae Euphydryas cynthia (Denis & Schiffermüller, 1775) Damier de l'alchémille LC LC
+Nymphalidae Hipparchia alcyone (Denis & Schiffermüller, 1775) Petit Sylvandre LC NE
+Nymphalidae Hipparchia aristaeus (Bonelli, 1826) Agreste flamboyant LC LC
+Nymphalidae Hipparchia fagi (Scopoli, 1763) Sylvandre LC NT
+Nymphalidae Hipparchia fidia (Linnaeus, 1767) Chevron blanc LC LC
+Nymphalidae Hipparchia genava (Fruhstorfer, 1908) Sylvandre helvète LC NE
+Nymphalidae Hipparchia neomiris (Godart, 1822) Mercure tyrrhénien LC LC
+Nymphalidae Hipparchia semele (Linnaeus, 1758) Agreste LC LC
+Nymphalidae Hipparchia statilinus (Hufnagel, 1766) Faune LC NT
+Nymphalidae Hyponephele lycaon (Rottemburg, 1775) Misis LC LC
+Nymphalidae Issoria lathonia (Linnaeus, 1758) Petit Nacré LC LC
+Nymphalidae Lasiommata maera (Linnaeus, 1758) Némusien LC LC
+Nymphalidae Lasiommata megera (Linnaeus, 1767) Mégère LC LC
+Nymphalidae Lasiommata paramegaera (Hübner, 1824) Satyre tyrrhénien LC LC
+Nymphalidae Lasiommata petropolitana (Fabricius, 1787) Gorgone LC LC
+Nymphalidae Libythea celtis (Laicharting, 1782) Échancré LC LC
+Nymphalidae Limenitis camilla (Linnaeus, 1764) Petit Sylvain LC LC
+Nymphalidae Limenitis reducta Staudinger, 1901 Sylvain azuré LC LC
+Nymphalidae Maniola jurtina (Linnaeus, 1758) Myrtil LC LC
+Nymphalidae Melanargia galathea (Linnaeus, 1758) Demi-deuil LC LC
+Nymphalidae Melanargia lachesis (Hübner, 1790) Echiquier d'Ibérie LC LC
+Nymphalidae Melanargia occitanica (Esper, 1793) Echiquier d'Occitanie LC LC
+Nymphalidae Melanargia russiae (Esper, 1783) Echiquier de Russie LC LC
+Nymphalidae Melitaea athalia (Rottemburg, 1775) Mélitée du mélampyre LC LC
+Nymphalidae Melitaea cinxia (Linnaeus, 1758) Mélitée du plantain LC LC
+Nymphalidae Melitaea deione (Geyer, 1832) Mélitée des linaires LC LC
+Nymphalidae Melitaea diamina (Lang, 1789) Mélitée noirâtre LC LC
+Nymphalidae Melitaea didyma (Esper, 1778) Mélitée orangée LC LC
+Nymphalidae Melitaea parthenoides Keferstein, 1851 Mélitée de la lancéole LC LC
+Nymphalidae Melitaea phoebe (Denis & Schiffermüller, 1775) Mélitée des centaurées LC LC
+Nymphalidae Melitaea varia Meyer-Dür, 1851 Mélitée de la gentiane LC LC
+Nymphalidae Minois dryas (Scopoli, 1763) Grand Nègre des bois LC LC
+Nymphalidae Nymphalis antiopa (Linnaeus, 1758) Morio LC LC
+Nymphalidae Nymphalis polychloros (Linnaeus, 1758) Grande Tortue LC LC
+Nymphalidae Oenis glacialis (Moll, 1783) Chamoisé des glaciers LC LC
+Nymphalidae Pararge aegeria (Linnaeus, 1758) Tircis LC LC
+Nymphalidae Polygonia c-album (Linnaeus, 1758) Robert-le-Diable LC LC
+Nymphalidae Pyronia bathseba (Fabricius, 1793) Ocellé rubané LC LC
+Nymphalidae Pyronia cecilia (Vallantin, 1894) Ocellé de la canche LC LC
+Nymphalidae Pyronia tithonus (Linnaeus, 1771) Amaryllis LC LC
+Nymphalidae Satyrus actaea (Esper, 1781) Petite Coronide LC LC
+Nymphalidae Satyrus ferula (Fabricius, 1793) Grande Coronide LC LC
+Nymphalidae Vanessa atalanta (Linnaeus, 1758) Vulcain LC LC
+Nymphalidae Vanessa cardui (Linnaeus, 1758) Belle Dame LC LC
+Lycaenidae Plebejides trappi (Verity, 1927) Azuré zéphyr DD NT
+Nymphalidae Erebia tyndarus (Esper, 1781) Moiré cuivré DD LC
+Nymphalidae Melitaea telona Fruhstorfer, 1908 Mélitée égéenne DD DD

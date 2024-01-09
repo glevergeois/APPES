@@ -1,0 +1,211 @@
+Calanoida Diaptomidae Copidodiaptomus numidicus (Gurney, 1909) VU
+Calanoida Diaptomidae Diaptomus castaneti Burckhardt, 1920 VU
+Calanoida Diaptomidae Hemidiaptomus amblyodon (Marenzeller, 1883) VU
+Calanoida Diaptomidae Hemidiaptomus ingens (Gurney, 1909) VU
+Calanoida Diaptomidae Hemidiaptomus roubaui (Richard, 1888) VU
+Calanoida Diaptomidae Spelaeodiaptomus rouchi Dussart, 1970 X VU
+Cyclopoida Cyclopidae Acanthocyclops hispanicus Kiefer, 1937 VU
+Cyclopoida Cyclopidae Acanthocyclops venustus (Norman & Scott, 1906) VU
+Cyclopoida Cyclopidae Diacyclops paolae Pesce & Galassi, 1987 VU
+Cyclopoida Cyclopidae Diacyclops zschokkei (Graeter, 1910) VU
+Cyclopoida Cyclopidae Graeteriella bertrandi Lescher-Moutoué, 1974 X VU
+Cyclopoida Cyclopidae Graeteriella boui Lescher-Moutoué, 1974 X VU
+Cyclopoida Cyclopidae Graeteriella brehmi Lescher-Moutoué, 1968 X VU
+Cyclopoida Cyclopidae Graeteriella gelyensis Lescher-Moutoué, 1978 X VU
+Cyclopoida Cyclopidae Graeteriella laisi (Kiefer, 1936) VU
+Cyclopoida Cyclopidae Graeteriella rouchi Lescher-Moutoué, 1968 X VU
+Cyclopoida Cyclopidae Graeteriella vandeli Lescher-Moutoué, 1969 X VU
+Cyclopoida Cyclopidae Kieferiella delamarei (Lescher-Moutoué, 1971) X VU
+Cyclopoida Cyclopidae Megacyclops brachypus Kiefer, 1954 VU
+Cyclopoida Cyclopidae Speocyclops anomalus Chappuis & Kiefer, 1952 X VU
+Cyclopoida Cyclopidae Speocyclops arregladensis Chappuis & Kiefer, 1952 X VU
+Cyclopoida Cyclopidae Speocyclops castereti Lindberg, 1954 X VU
+Cyclopoida Cyclopidae Speocyclops gallicus Chappuis & Kiefer, 1952 X VU
+Cyclopoida Cyclopidae Speocyclops kieferi Lescher-Moutoué, 1968 X VU
+Cyclopoida Cyclopidae Speocyclops orcinus Kiefer, 1937 X VU
+Cyclopoida Cyclopidae Speocyclops proserpinae Kiefer, 1937 VU
+Cyclopoida Cyclopidae Speocyclops sisyphus Kiefer, 1937 X VU
+Gelyelloida Gelyellidae Gelyella droguei Rouch & Lescher-Moutoué, 1977 X VU
+Harpacticoida Ameiridae Nitocrella beatricis Cottarelli & Bruno, 1993 VU
+Harpacticoida Ameiridae Nitocrella delayi Rouch, 1970 X VU
+Harpacticoida Ameiridae Nitocrella dussarti Chappuis & Rouch, 1959 X VU
+Harpacticoida Ameiridae Nitocrella gracilis Chappuis, 1955 X VU
+Harpacticoida Ameiridae Nitocrella omega Hertzog, 1936 VU
+Harpacticoida Ameiridae Nitocrellopsis elegans (Chappuis & Rouch, 1959) X VU
+Harpacticoida Canthocamptidae Antrocamptus catherinae Chappuis & Rouch, 1960 X VU
+Harpacticoida Canthocamptidae Antrocamptus chappuisi Rouch, 1970 X VU
+Harpacticoida Canthocamptidae Antrocamptus coiffaiti Chappuis, 1956 X VU
+Harpacticoida Canthocamptidae Antrocamptus longifurcatus Rouch, 1970 X VU
+Harpacticoida Canthocamptidae Antrocamptus stygius Rouch, 1980 X VU
+Harpacticoida Canthocamptidae Bryocamptus alosensis Apostolov, 1998 X VU
+Harpacticoida Canthocamptidae Bryocamptus dentatus Chappuis, 1937 VU
+Harpacticoida Canthocamptidae Bryocamptus hoferi (Van Douwe, 1907) VU
+Harpacticoida Canthocamptidae Bryocamptus unisaetosus Kiefer, 1930 VU
+Harpacticoida Canthocamptidae Ceuthonectes boui Apostolov, 2002 X VU
+Harpacticoida Canthocamptidae Ceuthonectes bulbiseta Apostolov, 2002 X VU
+Harpacticoida Canthocamptidae Ceuthonectes chappuisi Rouch, 1980 X VU
+Harpacticoida Canthocamptidae Ceuthonectes serbicus Chappuis, 1924 VU
+Harpacticoida Canthocamptidae Ceuthonectes vievilleae Rouch, 1980 X VU
+Harpacticoida Canthocamptidae Elaphoidella boui Rouch, 1988 X VU
+Harpacticoida Canthocamptidae Elaphoidella bouilloni Rouch, 1964 X VU
+Harpacticoida Canthocamptidae Elaphoidella brehieri Apostolov, 2001 X VU
+Harpacticoida Canthocamptidae Elaphoidella brevicaudata Apostolov, 2002 X VU
+Harpacticoida Canthocamptidae Elaphoidella calypsonis Chappuis & Rouch, 1959 X VU
+Harpacticoida Canthocamptidae Elaphoidella cavatica Chappuis, 1957 VU
+Harpacticoida Canthocamptidae Elaphoidella claudboui Apostolov, 2001 X VU
+Harpacticoida Canthocamptidae Elaphoidella coiffaiti Chappuis & Kiefer, 1952 VU
+Harpacticoida Canthocamptidae Elaphoidella elaphoides (Chappuis, 1924) VU
+Harpacticoida Canthocamptidae Elaphoidella federicae Pesce & Galassi, 1988 X VU
+Harpacticoida Canthocamptidae Elaphoidella garbetensis Rouch, 1980 X VU
+Harpacticoida Canthocamptidae Elaphoidella infernalis Rouch, 1970 X VU
+Harpacticoida Canthocamptidae Elaphoidella longifurcata Chappuis & Kiefer, 1952 X VU
+Harpacticoida Canthocamptidae Elaphoidella madiracensis Apostolov, 1998 X VU
+Harpacticoida Canthocamptidae Elaphoidella mauro Chappuis, 1956 X VU
+Harpacticoida Canthocamptidae Elaphoidella pyrenaica Rouch, 1970 X VU
+Harpacticoida Canthocamptidae Elaphoidella reducta Rouch, 1964 X VU
+Harpacticoida Canthocamptidae Elaphoidella vandeli Chappuis & Rouch, 1958 X VU
+Harpacticoida Canthocamptidae Elaphoidella vasconica Rouch, 1970 X VU
+Harpacticoida Canthocamptidae Moraria catalana Chappuis & Kiefer, 1952 X VU
+Harpacticoida Ectinosomatidae Pseudectinosoma janineae Galassi, Dole & De Laurentiis, 1999 X VU
+Harpacticoida Ectinosomatidae Pseudectinosoma vandeli (Rouch, 1969) X VU
+Harpacticoida Parastenocarididae Michelicaris micheli (Chappuis & Rouch, 1959) X VU
+Harpacticoida Parastenocarididae Parastenocaris dentulatus Chappuis & Rouch, 1959 X VU
+Harpacticoida Parastenocarididae Parastenocaris mangini Rouch, 1992 X VU
+Harpacticoida Parastenocarididae Parastenocaris vandeli Rouch, 1988 X VU
+Harpacticoida Parastenocarididae Stammericaris stammeri (Chappuis, 1937) VU
+Calanoida Diaptomidae Diaptomus cyaneus Gurney, 1909 NT
+Harpacticoida Parastenocarididae Parastenocaris dianae Chappuis, 1955 X NT
+Calanoida Diaptomidae Acanthodiaptomus denticornis (Wierzejski, 1887) LC
+Calanoida Diaptomidae Arctodiaptomus alpinus (Imhof, 1885) LC
+Calanoida Diaptomidae Arctodiaptomus bacillifer (Koelbel, 1885) LC
+Calanoida Diaptomidae Arctodiaptomus wierzejskii (Richard, 1888) LC
+Calanoida Diaptomidae Diaptomus castor (Jurine, 1820) LC
+Calanoida Diaptomidae Eudiaptomus gracilis (Sars G.O., 1862) LC
+Calanoida Diaptomidae Eudiaptomus vulgaris (Schmeil, 1898) LC
+Calanoida Diaptomidae Mixodiaptomus kupelwieseri (Brehm, 1907) LC
+Calanoida Pseudodiaptomidae Calanipeda aquaedulcis Kritchagin, 1873 LC
+Calanoida Temoridae Heterocope saliens (Lilljeborg, 1862) LC
+Cyclopoida Cyclopidae Acanthocyclops einslei Mirabdullayev & Defaye, 2004 LC
+Cyclopoida Cyclopidae Acanthocyclops rhenanus Kiefer, 1936 LC
+Cyclopoida Cyclopidae Acanthocyclops sensitivus (Graeter & Chappuis, 1914) LC
+Cyclopoida Cyclopidae Acanthocyclops trajani Mirabdullayev & Defaye, 2004 LC
+Cyclopoida Cyclopidae Acanthocyclops vernalis (Fischer, 1853) LC
+Cyclopoida Cyclopidae Cryptocyclops bicolor (Sars, 1863) LC
+Cyclopoida Cyclopidae Cyclops abyssorum Sars G.O., 1863 LC
+Cyclopoida Cyclopidae Cyclops bohater Kozminski, 1933 LC
+Cyclopoida Cyclopidae Cyclops strenuus Fischer, 1851 LC
+Cyclopoida Cyclopidae Cyclops vicinus Ulianine, 1875 LC
+Cyclopoida Cyclopidae Diacyclops bicuspidatus (Claus, 1857) LC
+Cyclopoida Cyclopidae Diacyclops bisetosus (Rehberg, 1880) LC
+Cyclopoida Cyclopidae Diacyclops clandestinus (Kiefer, 1926) LC
+Cyclopoida Cyclopidae Diacyclops crassicaudis (Sars, 1863) LC
+Cyclopoida Cyclopidae Diacyclops languidoides (Lilljeborg, 1901) LC
+Cyclopoida Cyclopidae Diacyclops languidus (Sars, 1863) LC
+Cyclopoida Cyclopidae Ectocyclops phaleratus (Koch, 1838) LC
+Cyclopoida Cyclopidae Eucyclops macruroides (Lilljeborg, 1901) LC
+Cyclopoida Cyclopidae Eucyclops macrurus (Sars, 1863) LC
+Cyclopoida Cyclopidae Eucyclops serrulatus (Fischer, 1851) LC
+Cyclopoida Cyclopidae Eucyclops speratus (Lilljeborg, 1901) LC
+Cyclopoida Cyclopidae Eucyclops subterraneus (Graeter, 1907) LC
+Cyclopoida Cyclopidae Graeteriella unisetigera (Graeter, 1908) LC
+Cyclopoida Cyclopidae Macrocyclops albidus (Jurine, 1820) LC
+Cyclopoida Cyclopidae Macrocyclops distinctus (Richard, 1887) LC
+Cyclopoida Cyclopidae Macrocyclops fuscus (Jurine, 1820) LC
+Cyclopoida Cyclopidae Megacyclops gigas (Claus, 1857) LC
+Cyclopoida Cyclopidae Megacyclops latipes (Lowndes, 1927) LC
+Cyclopoida Cyclopidae Megacyclops viridis (Jurine, 1820) LC
+Cyclopoida Cyclopidae Mesocyclops leuckarti (Claus, 1857) LC
+Cyclopoida Cyclopidae Metacyclops gracilis (Lilljeborg, 1853) LC
+Cyclopoida Cyclopidae Metacyclops minutus (Claus, 1863) LC
+Cyclopoida Cyclopidae Microcyclops rubellus (Lilljeborg, 1901) LC
+Cyclopoida Cyclopidae Microcyclops varicans (Sars, 1863) LC
+Cyclopoida Cyclopidae Paracyclops affinis (Sars, 1863) LC
+Cyclopoida Cyclopidae Paracyclops chiltoni (Thomson, 1882) LC
+Cyclopoida Cyclopidae Paracyclops fimbriatus (Fischer, 1853) LC
+Cyclopoida Cyclopidae Paracyclops poppei (Rehberg, 1880) LC
+Cyclopoida Cyclopidae Speocyclops racovitzai (Chappuis, 1923) LC
+Cyclopoida Cyclopidae Thermocyclops crassus (Fischer, 1853) LC
+Cyclopoida Cyclopidae Thermocyclops dybowskii (Landé, 1890) LC
+Cyclopoida Cyclopidae Tropocyclops prasinus (Fischer, 1860) LC
+Cyclopoida Ergasilidae Ergasilus sieboldi Nordmann, 1832 LC
+Harpacticoida Ameiridae Nitokra hibernica (Brady, 1880) LC
+Harpacticoida Ameiridae Nitokra lacustris (Schmankevitch, 1875) LC
+Harpacticoida Ameiridae Nitokra spinipes Boeck, 1864 LC
+Harpacticoida Ameiridae Parapseudoleptomesochra subterranea (Chappuis, 1928) LC
+Harpacticoida Canthocamptidae Attheyella crassa (Sars, 1863) LC
+Harpacticoida Canthocamptidae Attheyella dentata (Poggenpol, 1874) LC
+Harpacticoida Canthocamptidae Attheyella trispinosa (Brady, 1880) LC
+Harpacticoida Canthocamptidae Attheyella wierzejskii (Mrázek, 1893) LC
+Harpacticoida Canthocamptidae Attheyella wulmeri De Kerhervé, 1914 LC
+Harpacticoida Canthocamptidae Bryocamptus bryobates (Monard, 1928) LC
+Harpacticoida Canthocamptidae Bryocamptus cuspidatus (Schmeil, 1893) LC
+Harpacticoida Canthocamptidae Bryocamptus echinatus (Mrázek, 1893) LC
+Harpacticoida Canthocamptidae Bryocamptus minutus (Claus, 1863) LC
+Harpacticoida Canthocamptidae Bryocamptus pygmaeus (Sars G.O., 1863) LC
+Harpacticoida Canthocamptidae Bryocamptus pyrenaicus (Chappuis, 1923) LC
+Harpacticoida Canthocamptidae Bryocamptus rhaeticus (Schmeil, 1893) LC
+Harpacticoida Canthocamptidae Bryocamptus typhlops (Mrázek, 1893) LC
+Harpacticoida Canthocamptidae Bryocamptus vejdovskyi (Mrázek, 1893) LC
+Harpacticoida Canthocamptidae Bryocamptus zschokkei (Schmeil, 1893) LC
+Harpacticoida Canthocamptidae Canthocamptus microstaphylinus Wolf, 1905 LC
+Harpacticoida Canthocamptidae Canthocamptus staphylinus (Jurine, 1820) LC
+Harpacticoida Canthocamptidae Ceuthonectes gallicus Chappuis, 1928 X LC
+Harpacticoida Canthocamptidae Elaphoidella bidens (Schmeil, 1894) LC
+Harpacticoida Canthocamptidae Epactophanes richardi Mrázek, 1893 LC
+Harpacticoida Canthocamptidae Maraenobiotus insignipes (Lilljeborg, 1902) LC
+Harpacticoida Canthocamptidae Maraenobiotus vejdovskyi Mrázek, 1893 LC
+Harpacticoida Canthocamptidae Moraria brevipes (Sars, 1863) LC
+Harpacticoida Canthocamptidae Moraria pectinata Thiébaud & Pelosse, 1928 LC
+Harpacticoida Canthocamptidae Moraria poppei (Mrázek, 1893) LC
+Harpacticoida Canthocamptidae Moraria varica (Graeter, 1911) LC
+Harpacticoida Canthocamptidae Pesceus schmeili (Mrázek, 1893) LC
+Harpacticoida Laophontidae Onychocamptus mohammed (Blanchard & Richard, 1891) LC
+Harpacticoida Nannopodidae Nannopus palustris Brady, 1880 LC
+Harpacticoida Parastenocarididae Fontinalicaris fontinalis (Chappuis & Schnitter, 1915) LC
+Harpacticoida Phyllognathopodidae Phyllognathopus viguieri (Maupas, 1892) LC
+Harpacticoida Tachidiidae Tachidius discipes Giesbrecht, 1882 LC
+Siphonostomatoida Lernaeidae Lernaea cyprinacea Linnaeus, 1758 LC
+Siphonostomatoida Lernaeopodidae Tracheliastes polycolpus Nordmann, 1832 LC
+Calanoida Diaptomidae Arctodiaptomus salinus (Daday, 1885) DD
+Calanoida Diaptomidae Eudiaptomus graciloides (Lilljeborg, 1888) DD
+Calanoida Diaptomidae Hemidiaptomus superbus (Schmeil, 1895) DD
+Calanoida Diaptomidae Mixodiaptomus incrassatus (Sars, 1903) DD
+Calanoida Diaptomidae Mixodiaptomus laciniatus (Lilljeborg, 1889) DD
+Calanoida Diaptomidae Mixodiaptomus lilljeborgi (Guerne & Richard, 1888) DD
+Cyclopoida Cyclopidae Cyclops furcifer Claus, 1857 DD
+Cyclopoida Cyclopidae Cyclops heberti Einsle, 1996 DD
+Cyclopoida Cyclopidae Cyclops insignis Claus, 1857 DD
+Cyclopoida Cyclopidae Cyclops lacustris Sars, 1863 DD
+Cyclopoida Cyclopidae Diacyclops hypnicola (Gurney, 1927) DD
+Cyclopoida Cyclopidae Diacyclops nanus (Sars, 1863) DD
+Cyclopoida Cyclopidae Eucyclops denticulatus (Graeter, 1903) DD
+Cyclopoida Cyclopidae Paracyclops imminutus Kiefer, 1929 DD
+Cyclopoida Cyclopidae Speocyclops demetiensis (Scourfield, 1932) DD
+Cyclopoida Cyclopidae Thermocyclops oithonoides (Sars, 1863) DD
+Cyclopoida Ergasilidae Ergasilus gibbus Nordmann, 1832 DD
+Cyclopoida Ergasilidae Ergasilus lizae Kroyer, 1863 DD
+Cyclopoida Ergasilidae Thersitina gasterostei (Pagenstecher, 1861) DD
+Harpacticoida Ameiridae Nitocrellopsis rouchi Galassi, de Laurentiis & Dole-Olivier,
+1999 X DD
+Harpacticoida Canthocamptidae Bryocamptus alpestris (Vogt, 1845) DD
+Harpacticoida Canthocamptidae Bryocamptus laccophilus (Kessler, 1914) DD
+Harpacticoida Canthocamptidae Bryocamptus vandouwei (Kessler, 1914) DD
+Harpacticoida Canthocamptidae Bryocamptus weberi (Kessler, 1914) DD
+Harpacticoida Canthocamptidae Elaphoidella gracilis (Sars, 1863) DD
+Harpacticoida Canthocamptidae Elaphoidella leruthi Chappuis, 1937 DD
+Harpacticoida Canthocamptidae Hypocamptus brehmi (Van Douwe, 1922) DD
+Harpacticoida Canthocamptidae Moraria mrazeki Scott, 1903 DD
+Harpacticoida Ectinosomatidae Halectinosoma abrau (Kritchagin, 1877) DD
+Harpacticoida Miraciidae Schizopera jugurtha (Blanchard & Richard, 1891) DD
+Harpacticoida Parastenocarididae Fontinalicaris meridionalis (Rouch, 1990) X DD
+Harpacticoida Parastenocarididae Parastenocaris aberrans Apostolov, 2004 X DD
+Harpacticoida Parastenocarididae Parastenocaris boulouensis Apostolov, 2005 X DD
+Harpacticoida Parastenocarididae Parastenocaris corsica Cottarelli, Bruno & Berera, 2000 X DD
+Harpacticoida Parastenocarididae Parastenocaris douellensis Apostolov, 2005 X DD
+Harpacticoida Parastenocarididae Parastenocaris glareola Hertzog, 1936 DD
+Harpacticoida Parastenocarididae Parastenocaris nertensis Rouch, 1990 X DD
+Harpacticoida Parastenocarididae Parastenocaris nicolasi Rouch, 1996 X DD
+Harpacticoida Parastenocarididae Parastenocaris psammica Songeur, 1961 X DD
+Harpacticoida Parastenocarididae Parastenocaris silvana Cottarelli, Bruno & Berera, 2000 X DD
+Harpacticoida Parastenocarididae Simplicaris aedes (Hertzog, 1938) X DD
+Siphonostomatoida Lernaeidae Lamproglena pulchella Nordmann, 1832 DD

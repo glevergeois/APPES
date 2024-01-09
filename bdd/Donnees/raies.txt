@@ -1,0 +1,27 @@
+Rajidae Dipturus intermedia  CR NE
+Rajidae Rostroraja alba Raie blanche ? CR EN
+Myliobatidae Mobula mobular Mante de Méditerranée ? EN EN
+Rajidae Leucoraja naevus Raie fleurie  VU LC
+Rajidae Raja clavata Raie bouclée  VU NT
+Rajidae Dipturus oxyrinchus Pocheteau noir ? NT NT
+Dasyatidae Dasyatis pastinaca Raie pastenague ? LC DD
+Dasyatidae Pteroplatytrygon violacea Pastenague violette  LC LC
+Torpedinidae Torpedo marmorata Torpille marbrée  LC DD
+Arhynchobatidae Bathyraja pallida Raie pâle ? DD LC
+Arhynchobatidae Bathyraja richardsoni Raie de Richardson ? DD LC
+Dasyatidae Dasyatis centroura Pastenague épineuse ? DD LC
+Dasyatidae Dasyatis tortonesei Pastenague de Tortonese ? DD DD
+Gymnuridae Gymnura altavela Raie-papillon épineuse ? DD VU
+Myliobatidae Myliobatis aquila Aigle de mer commun ? DD DD
+Rajidae Dipturus batis Pocheteau gris ? DD NE
+Rajidae Leucoraja circularis Raie circulaire ? DD VU
+Rajidae Leucoraja fullonica Raie chardon ? DD NT
+Rajidae Raja asterias Raie étoilée ? DD LC
+Rajidae Raja brachyura Raie lisse ? DD NT
+Rajidae Raja microocellata Raie mêlée ? DD NT
+Rajidae Raja montagui Raie douce ? DD LC
+Rajidae Raja radula Raie râpe ? DD DD
+Rajidae Raja rondeleti Raie de Rondelet ? DD NE
+Rajidae Raja undulata Raie brunette ? DD EN
+Torpedinidae Torpedo nobiliana Torpille noire ? DD DD
+Torpedinidae Torpedo torpedo Torpille ocellée ? DD DD

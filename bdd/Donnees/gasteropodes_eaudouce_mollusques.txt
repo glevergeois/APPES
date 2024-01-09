@@ -1,0 +1,42 @@
+Bythinellidae Bythinella eutrepha Bythinelle du Lez X CR ? CR
+Hydrobiidae Mercuria corsensis Mercurie de Corse X CR* ? NE
+Lymnaeidae Myxas glutinosa Limnée cristalline EN  DD
+Planorbidae Gyraulus rossmaessleri Planorbine des mares EN  LC
+Amnicolidae Marstoniopsis armoricana Fausse-bythinelle bretonne X EN ? CR
+Amnicolidae Marstoniopsis insubrica Fausse-bythinelle italienne EN ? LC
+Hydrobiidae Alzoniella elliptica Alzonielle corne d'abondance X EN ? VU
+Hydrobiidae Alzoniella perrisii Alzonielle des Landes X EN ? VU
+Hydrobiidae Graziana trinitatis Alzonielle de la Trinité X EN  EN
+Hydrobiidae Mercuria meridionalis Mercurie méridionale X EN  EN
+Hydrobiidae Mercuria similis Mercurie de Draparnaud EN  LC
+Hydrobiidae Plagigeyeria deformata Hydrobie d'Avignon X EN ? EN
+Moitessieriidae Bythiospeum klemmi Petite bythiospée X EN ? EN
+Moitessieriidae Henrigirardia wienini Moitessierie trompette X EN ? CR
+Bythinellidae Bythinella cebennensis Bythinelle cévenole X VU ? VU
+Bythinellidae Bythinella eurystoma Bythinelle auriculée X VU ? VU
+Bythinellidae Bythinella navacellensis Bythinelle de Navacelles X VU ? VU
+Bythinellidae Bythinella padiraci Bythinelle de Padirac X VU ? NE
+Bythinellidae Bythinella rubiginosa Bythinelle d'Audinac X VU ? VU
+Hydrobiidae Avenionia berenguieri Hydrobie du puits d'Avignon X VU ? VU
+Hydrobiidae Belgrandia gfrast Belgrandie gfrast X VU ? NT
+Hydrobiidae Belgrandia gibba Petite belgrandie X VU ? VU
+Hydrobiidae Belgrandia marginata Belgrandie à varices X VU  NT
+Hydrobiidae Heraultiella exilis Planhydrobie de l'Hérault X VU  DD
+Hydrobiidae Islamia bomangiana Globhydrobie de l'Ardèche X VU  VU
+Hydrobiidae Islamia spirata Globhydrobie de Besançon X VU ? VU
+Hydrobiidae Palacanthilhiopsis margritae Hydrobie épineuse X VU ? VU
+Hydrobiidae Palacanthilhiopsis vervierii Hydrobie de l'Ardèche X VU ? VU
+Moitessieriidae Moitessieria juvenisanguis Moitessierie du Roussillon X VU ? VU
+Moitessieriidae Moitessieria massoti Moitessierie de Tautavel X VU ? VU
+Moitessieriidae Moitessieria nezi Moitessierie de Rébénacq X VU ? VU
+Moitessieriidae Paladilhia conica Bythiospée du Lez X VU ? VU
+Moitessieriidae Paladilhia jamblussensis Bythiospée de Jamblusse X VU ? LC
+Moitessieriidae Paladilhia pleurotoma Paladilhie méridionale X VU ? VU
+Moitessieriidae Paladilhia roselloi Bythiospée de Sanilhac X VU ? LC
+Moitessieriidae Paladilhia umbilicata Bythiospée de Mialet X VU ? VU
+Moitessieriidae Palaospeum bessoni Bythiospée d'Alçay X VU ? VU
+Lymnaeidae Omphiscola glabra Limnée étroite NT ? NT
+Planorbidae Anisus vorticulus Planorbe naine NT  DD
+Hydrobiidae Fissuria boui Planhydrobie de la Durance X NT ? NT
+Moitessieriidae Bythiospeum bourguignati Bythiospée méridionale X NT ? LC
+Moitessieriidae Sorholia lescherae Moitessierie décollée X NT ? LC

@@ -1,0 +1,35 @@
+Isopoda Asellidae Gallasellus heilyi (Legrand, 1956) X VU
+Isopoda Asellidae Proasellus aquaecalidae (Racovitza, 1922) X VU
+Isopoda Asellidae Proasellus burgundus Henry & Magniez, 1969 X VU
+Isopoda Asellidae Proasellus chauvini Henry & Magniez, 1978 X VU
+Isopoda Asellidae Proasellus claudei Henry & Magniez, 1996 X VU
+Isopoda Asellidae Proasellus racovitzai Henry & Magniez, 1972 X VU
+Isopoda Asellidae Proasellus rouchi Henry, 1980 X VU
+Isopoda Asellidae Proasellus slavus (Remy, 1948) VU
+Isopoda Asellidae Proasellus spelaeus (Racovitza, 1922) VU
+Isopoda Asellidae Proasellus vandeli Magniez & Henry, 1969 X VU
+Isopoda Microparasellidae Microcharon angelieri Coineau, 1963 X VU
+Isopoda Microparasellidae Microcharon boui Coineau, 1968 X VU
+Isopoda Microparasellidae Microcharon doueti Coineau, 1968 X VU
+Isopoda Microparasellidae Microcharon juberthiei Coineau, 1968 X VU
+Isopoda Microparasellidae Microcharon sisyphus Chappuis & Delamare Deboutteville, 1954 X VU
+Isopoda Asellidae Proasellus beroni Henry & Magniez, 1968 X NT
+Isopoda Asellidae Proasellus boui Henry & Magniez, 1969 X NT
+Isopoda Asellidae Proasellus coiffaiti Henry & Magniez, 1972 X NT
+Isopoda Cirolanidae Sphaeromides raymondi Dollfus, 1897 X NT
+Isopoda Stenasellidae Stenasellus buili Remy, 1949 X NT
+Isopoda Asellidae Proasellus albigensis (Magniez, 1965) X LC
+Isopoda Asellidae Proasellus cavaticus (Leydig, 1871) LC
+Isopoda Asellidae Proasellus coxalis (Dollfus, 1892) LC
+Isopoda Asellidae Proasellus meridianus (Racovitza, 1919) LC
+Isopoda Asellidae Proasellus strouhali (Karaman, 1955) LC
+Isopoda Asellidae Proasellus synaselloides (Henry, 1963) X LC
+Isopoda Asellidae Proasellus valdensis (Chappuis, 1948) LC
+Isopoda Asellidae Proasellus walteri (Chappuis, 1948) LC
+Isopoda Cirolanidae Faucheria faucheri (Dollfus & Viré, 1900) X LC
+Isopoda Microparasellidae Microcharon reginae Dole & Coineau, 1988 X LC
+Isopoda Microparasellidae Microcharon rouchi Coineau, 1968 X LC
+Isopoda Sphaeromatidae Caecosphaeroma burgundum Dollfus, 1898 X LC
+Isopoda Sphaeromatidae Caecosphaeroma virei Dollfus, 1896 X LC
+Isopoda Stenasellidae Stenasellus racovitzai Razzauti, 1925 LC
+Isopoda Stenasellidae Stenasellus virei Dollfus, 1898 DD

@@ -1,0 +1,38 @@
+Lacertidae Iberolacerta aranica Lézard du Val d'Aran  EN EN
+Lacertidae Iberolacerta aurelioi Lézard d'Aurelio  EN EN
+Viperidae Vipera ursinii Vipère d'Orsini  EN VU
+Geoemydidae Mauremys leprosa Émyde lépreuse ? VU NE
+Testudinidae Testudo hermanni Tortue d'Hermann  VU NT
+Lacertidae Iberolacerta bonnali Lézard de Bonnal  VU NT
+Lacertidae Timon lepidus Lézard ocellé  VU NT
+Viperidae Vipera berus Vipère péliade  VU NE
+Viperidae Vipera seoanei Vipère de Seoane  VU LC
+Lacertidae Archaeolacerta bedriagae Lézard de Bedriaga  NT NT
+Lacertidae Lacerta agilis Lézard des souches  NT LC
+Lacertidae Psammodromus edwarsianus Psammodrome d'Edwards  NT LC
+Natricidae Natrix maura Couleuvre vipérine  NT LC
+Emydidae Emys orbicularis Cistude d'Europe  LC NT
+Anguidae Anguis fragilis Orvet fragile  LC NE
+Gekkonidae Hemidactylus turcicus Hémidactyle verruqueux  LC LC
+Lacertidae Algyroides fitzingeri Algyroïde de Fitzinger  LC LC
+Lacertidae Lacerta bilineata Lézard vert occidental  LC LC
+Lacertidae Podarcis liolepis Lézard catalan  LC LC
+Lacertidae Podarcis muralis Lézard des murailles  LC LC
+Lacertidae Podarcis tiliguerta Lézard tyrrhénien  LC LC
+Lacertidae Psammodromus algirus Psammodrome algire  LC LC
+Lacertidae Zootoca vivipara Lézard vivipare  LC LC
+Phyllodactylidae Tarentola mauritanica Tarente de Maurétanie  LC LC
+Psammophiidae Malpolon monspessulanus Couleuvre de Montpellier  LC LC
+Scincidae Chalcides striatus Seps strié  LC LC
+Sphaerodactylidae Euleptes europaea Phyllodactyle d'Europe  LC NT
+Colubridae Coronella austriaca Coronelle lisse ? LC NE
+Colubridae Coronella girondica Coronelle girondine ? LC LC
+Colubridae Hierophis viridiflavus Couleuvre verte et jaune  LC LC
+Colubridae Rhinechis scalaris Couleuvre à échelons  LC LC
+Colubridae Zamenis longissimus Couleuvre d'Esculape  LC LC
+Natricidae Natrix natrix Couleuvre à collier  LC LC
+Viperidae Vipera aspis Vipère aspic  LC LC
+Cheloniidae Caretta caretta Tortue caouanne ? DD EN
+Cheloniidae Lepidochelys kempii Tortue de Kemp ? DD CR
+Dermochelyidae Dermochelys coriacea Tortue Luth ? DD VU
+Anguidae Anguis veronensis Orvet de Vérone ? DD NE

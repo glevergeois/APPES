@@ -1,0 +1,59 @@
+Clausiliidae Charpentieria dyodon Perlée du Guil RE LC
+Hygromiidae Perforatella bidentata Veloutée orientale RE LC
+Aciculidae Platyla foliniana Grande aiguillette X CR* ? VU
+Aciculidae Renea bourguignatiana Aiguillette de Menton CR* ? CR
+Aciculidae Renea elegantissima Aiguillette méditerranéenne CR* ? DD
+Canariellidae Montserratina becasis Veloutée du Canigou X CR* ? CR
+Clausiliidae Fusulus interruptus Fuseau interrompu CR ? LC
+Clausiliidae Leucostigma candidescens Clausilie romaine CR ? LC
+Geomitridae Helicopsis striata Hélicette de Bohème CR* ? LC
+Helicidae Tyrrhenaria ceratina Hélix de Corse X CR  CR
+Lauriidae Leiostyla anglica Maillot des Anglais CR* ? LC
+Aciculidae Renea gormonti Aiguillette de Gorbio X EN ? VU
+Clausiliidae Cochlodina triloba Fuseau de Lure EN ? LC
+Gastrodontidae Retinella olivetorum EN ? LC
+Geomitridae Cochlicella conoidea Cornet des dunes EN ? NE
+Geomitridae Xerosecta explanata Caragouille des dunes EN ? EN
+Pristilomatidae Vitrea pseudotrolli Cristalline des Alpes-Maritimes EN ? NT
+Vertiginidae Vertigo genesii Vertigo édenté EN ? LC
+Aciculidae Platyla callostoma Aiguillette des Pyrénées VU ? LC
+Aciculidae Renea paillona Aiguillette du Paillon VU ? VU
+Megalomastomatidae Cochlostoma acutum Cochlostome de la Giandola X VU ? VU
+Chondrinidae Abida gittenbergeri Maillot élancé VU ? NT
+Chondrinidae Chondrina gerhardi Maillot du Queyras X VU ? VU
+Chondrinidae Solatopupa psarolena Maillot de Saorge VU ? VU
+Clausiliidae Macrogastra badia Massue à large côtes VU ? LC
+Clausiliidae Ruthenica filograna Clausilie aiguillette VU ? LC
+Helicidae Arianta xatartii Hélice de Gérona VU ? VU
+Helicidae Chilostoma frigidum Hélicon du Marguareis VU ? LC
+Helicidae Corneola crombezi Hélicon de Vésubie X VU ? NE
+Helicidae Macularia saintivesi Marbrée des pélites X VU ? VU
+Helicidae Marmorana muralis Marbrée des murailles VU ? LC
+Hygromiidae Hygromia tassyi Hélice du Montcalm VU ? VU
+Hygromiidae Urticicola suberinus Fausse-veloutée des chênes-liège X VU ? DD
+Oxychilidae Mediterranea depressa Luisant épars VU ? LC
+Aciculidae Renea moutonii Aiguillette de Grasse X NT ? NT
+Megalomastomatidae Cochlostoma subalpinum Cochlostome subalpin NT ? LC
+Ellobiidae Zospeum bellesi Troglotin basque NT ? LC
+Pomatiidae Tudorella sulcata Élégante des calanques NT ? NE
+Argnidae Argna biplicata Pagoduline italienne NT ? LC
+Argnidae Argna ferrari Pagoduline élancée NT ? LC
+Arionidae Arion euthymeanus Loche des Maures NT ? DD
+Azecidae Cryptazeca monodonta Brillante minuscule X NT ? EN
+Chondrinidae Chondrina falkneri Maillot isérois X NT ? NT
+Chondrinidae Solatopupa cianensis Maillot des pélites X NT ? VU
+Chondrinidae Solatopupa guidoni Maillot corse NT  DD
+Clausiliidae Cochlodina orthostoma Fuseau strié NT  LC
+Enidae Chondrula tridens Bulime trois-dents NT  NE
+Helicidae Chilostoma cingulatum Hélicon des gorges NT ? DD
+Helicidae Chilostoma millieri Hélicon du Mercantour X NT ? LC
+Helicidae Corneola acrotricha Hélicon hirsute NT ? NE
+Helicidae Corneola desmoulinsii Hélicon des Pyrénées NT ? NE
+Helicidae Delphinatia glacialis Hélicon des glaciers NT ? NE
+Helicidae Tacheocampylaea raspailii Escargot de Raspail X NT  VU
+Hygromiidae Urticicola mounierensis Fausse-veloutée du Mercantour X NT  NT
+Oxychilidae Daudebardia brevipes Petite hélicolimace NT ? NE
+Oxychilidae Daudebardia rufa Hélicolimace alsacienne NT ? NE
+Truncatellinidae Truncatellina monodon Maillotin des Alpes NT ? LC
+Vertiginidae Vertigo lilljeborgi Vertigo des aulnes NT ? NT
+Vitrinidae Hessemilimax kotulae Semilimace alpine NT ? NE

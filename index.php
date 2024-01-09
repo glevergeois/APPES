@@ -14,10 +14,8 @@ $username = 'root';
 $password = '';
 $database = 'appes';
 
-// On établit la connexion
 $conn = new mysqli($servername, $username, $password, $database);
 
-// On vérifie la connexion
 if($conn->connect_error){
     die('Erreur : ' .$conn->connect_error);
 } else {
@@ -26,10 +24,8 @@ if($conn->connect_error){
     $json_file = 'fishes.json';
     $json_data = file_get_contents($json_file);
 
-    // Convertir le JSON en tableau PHP
     $data_array = json_decode($json_data, true);
 
-    // Extraire les données du tableau
     foreach ($data_array as $record) {
 
         $scientific_name = $conn->real_escape_string($record['Nom scientifique']);
@@ -73,11 +69,9 @@ if($conn->connect_error){
                 break;
         }
 
-        // Construire et afficher la requête d'insertion (pour le débogage)
         $sql = "INSERT INTO `species` (`id`, `name`, `scientific_name`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) 
                 VALUES (NULL, '$name', '$scientific_name', NULL, NULL, NULL, NULL, NULL, 'downa', '$clrf', '$clrm', '$danger_level_id', '11');";
 
-        // Exécuter la requête d'insertion
         $result = $conn->query($sql);
 
         if (!$result) {

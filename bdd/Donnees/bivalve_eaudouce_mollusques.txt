@@ -1,0 +1,12 @@
+Margaritiferidae Pseudunio auricularius Grande mulette CR  CR
+Sphaeriidae Euglesa pseudosphaerium Pisidie des marais EN  NE
+Sphaeriidae Sphaerium rivicola Grande cyclade EN  VU
+Sphaeriidae Sphaerium solidum Cyclade des fleuves EN  NT
+Margaritiferidae Margaritifera margaritifera Mulette perlière EN  EN
+Unionidae Potomida littoralis Mulette des rivières EN  EN
+Unionidae Pseudanodonta complanata Anodonte comprimée EN  VU
+Sphaeriidae Odhneripisidium conventus Pisidie arctique VU  NE
+Unionidae Anodonta anatina Anodonte des rivières VU  LC
+Unionidae Anodonta cygnea Anodonte des étangs VU  LC
+Sphaeriidae Euglesa lilljeborgii Pisidie des lacs NT ? NE
+Unionidae Unio tumidus Mulette renflée NT  LC

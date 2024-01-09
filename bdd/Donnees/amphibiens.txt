@@ -1,0 +1,35 @@
+Pelobatidae Pelobates fuscus Pélobate brun  EN LC
+Ranidae Rana arvalis Grenouille des champs  EN LC
+Ranidae Rana pyrenaica Grenouille des Pyrénées  EN EN
+Salamandridae Calotriton asper Calotriton des Pyrénées  VU NT
+Salamandridae Salamandra atra Salamandre noire  VU LC
+Bombinatoridae Bombina variegata Sonneur à ventre jaune  VU LC
+Hylidae Hyla molleri Rainette ibérique  VU NE
+Pelobatidae Pelobates cultripes Pélobate cultripède  VU NT
+Salamandridae Lissotriton vulgaris Triton ponctué  NT LC
+Salamandridae Salamandra corsica Salamandre de Corse  NT LC
+Salamandridae Salamandra lanzai Salamandre de Lanza  NT VU
+Salamandridae Triturus cristatus Triton crêté  NT LC
+Salamandridae Triturus marmoratus Triton marbré  NT LC
+Alytidae Discoglossus montalentii Discoglosse corse ? NT NT
+Bufonidae Bufotes viridis Crapaud vert  NT LC
+Hylidae Hyla arborea Rainette verte  NT LC
+Ranidae Pelophylax kl. esculentus Grenouille commune  NT LC
+Ranidae Pelophylax kl. grafi Grenouille de Graf  NT NE
+Ranidae Pelophylax lessonae Grenouille de Lessona  NT LC
+Ranidae Pelophylax perezi Grenouille de Pérez  NT LC
+Plethodontidae Speleomantes strinatii Spélerpès de Strinati  LC NT
+Salamandridae Euproctus montanus Euprocte de Corse  LC LC
+Salamandridae Ichthyosaura alpestris Triton alpestre  LC LC
+Salamandridae Lissotriton helveticus Triton palmé  LC LC
+Salamandridae Salamandra salamandra Salamandre tachetée  LC LC
+Alytidae Alytes obstetricans Alyte accoucheur  LC LC
+Alytidae Discoglossus sardus Discoglosse sarde  LC LC
+Bufonidae Bufo bufo Crapaud commun  LC LC
+Bufonidae Epidalea calamita Crapaud calamite  LC LC
+Hylidae Hyla meridionalis Rainette méridionale  LC LC
+Hylidae Hyla sarda Rainette sarde  LC LC
+Pelodytidae Pelodytes punctatus Pélodyte ponctué  LC LC
+Ranidae Pelophylax ridibundus Grenouille rieuse ? LC LC
+Ranidae Rana dalmatina Grenouille agile  LC LC
+Ranidae Rana temporaria Grenouille rousse  LC LC

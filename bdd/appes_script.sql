@@ -63,9 +63,9 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Species` (
   `Danger_Level_id` INT NOT NULL,
   `Diet_id` INT NOT NULL,
   PRIMARY KEY (`id`, `Danger_Level_id`, `Diet_id`),
-  UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE,
-  INDEX `fk_Species_Danger_Level1_idx` (`Danger_Level_id` ASC) VISIBLE,
-  INDEX `fk_Species_Diet1_idx` (`Diet_id` ASC) VISIBLE,
+  UNIQUE INDEX `name_UNIQUE` (`name` ASC),
+  INDEX `fk_Species_Danger_Level1_idx` (`Danger_Level_id` ASC),
+  INDEX `fk_Species_Diet1_idx` (`Diet_id` ASC),
   CONSTRAINT `fk_Species_Danger_Level1`
     FOREIGN KEY (`Danger_Level_id`)
     REFERENCES `APPES`.`Danger_Level` (`id`)
@@ -89,7 +89,7 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Regions` (
   `name` VARCHAR(100) NOT NULL,
   `description` VARCHAR(255) NULL,
   PRIMARY KEY (`id`),
-  UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE)
+  UNIQUE INDEX `name_UNIQUE` (`name` ASC))
 ENGINE = InnoDB;
 
 
@@ -103,8 +103,8 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Departments` (
   `name` VARCHAR(45) NOT NULL,
   `Regions_id` INT NOT NULL,
   PRIMARY KEY (`id`, `Regions_id`),
-  UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE,
-  INDEX `fk_Departments_Regions1_idx` (`Regions_id` ASC) VISIBLE,
+  UNIQUE INDEX `name_UNIQUE` (`name` ASC),
+  INDEX `fk_Departments_Regions1_idx` (`Regions_id` ASC),
   CONSTRAINT `fk_Departments_Regions1`
     FOREIGN KEY (`Regions_id`)
     REFERENCES `APPES`.`Regions` (`id`)
@@ -129,7 +129,7 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Associations` (
   `url` VARCHAR(255) NULL,
   `description` VARCHAR(255) NULL,
   PRIMARY KEY (`id`),
-  UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE)
+  UNIQUE INDEX `name_UNIQUE` (`name` ASC))
 ENGINE = InnoDB;
 
 
@@ -143,7 +143,7 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Categories` (
   `name` VARCHAR(45) NOT NULL,
   `description` VARCHAR(255) NULL,
   PRIMARY KEY (`id`),
-  UNIQUE INDEX `name_UNIQUE` (`name` ASC) VISIBLE)
+  UNIQUE INDEX `name_UNIQUE` (`name` ASC))
 ENGINE = InnoDB;
 
 
@@ -156,8 +156,8 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Species_has_Departments` (
   `Species_id` INT NOT NULL,
   `Departments_id` INT NOT NULL,
   PRIMARY KEY (`Species_id`, `Departments_id`),
-  INDEX `fk_Species_has_Departments_Departments1_idx` (`Departments_id` ASC) VISIBLE,
-  INDEX `fk_Species_has_Departments_Species_idx` (`Species_id` ASC) VISIBLE,
+  INDEX `fk_Species_has_Departments_Departments1_idx` (`Departments_id` ASC),
+  INDEX `fk_Species_has_Departments_Species_idx` (`Species_id` ASC),
   CONSTRAINT `fk_Species_has_Departments_Species`
     FOREIGN KEY (`Species_id`)
     REFERENCES `APPES`.`Species` (`id`)
@@ -180,8 +180,8 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Categories_has_Species` (
   `Categories_id` INT NOT NULL,
   `Species_id` INT NOT NULL,
   PRIMARY KEY (`Categories_id`, `Species_id`),
-  INDEX `fk_Categories_has_Species_Species1_idx` (`Species_id` ASC) VISIBLE,
-  INDEX `fk_Categories_has_Species_Categories1_idx` (`Categories_id` ASC) VISIBLE,
+  INDEX `fk_Categories_has_Species_Species1_idx` (`Species_id` ASC),
+  INDEX `fk_Categories_has_Species_Categories1_idx` (`Categories_id` ASC),
   CONSTRAINT `fk_Categories_has_Species_Categories1`
     FOREIGN KEY (`Categories_id`)
     REFERENCES `APPES`.`Categories` (`id`)
@@ -204,8 +204,8 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Associations_has_Species` (
   `Associations_id` INT NOT NULL,
   `Species_id` INT NOT NULL,
   PRIMARY KEY (`Associations_id`, `Species_id`),
-  INDEX `fk_Associations_has_Species_Species1_idx` (`Species_id` ASC) VISIBLE,
-  INDEX `fk_Associations_has_Species_Associations1_idx` (`Associations_id` ASC) VISIBLE,
+  INDEX `fk_Associations_has_Species_Species1_idx` (`Species_id` ASC),
+  INDEX `fk_Associations_has_Species_Associations1_idx` (`Associations_id` ASC),
   CONSTRAINT `fk_Associations_has_Species_Associations1`
     FOREIGN KEY (`Associations_id`)
     REFERENCES `APPES`.`Associations` (`id`)
@@ -228,8 +228,8 @@ CREATE TABLE IF NOT EXISTS `APPES`.`Associations_has_Departments` (
   `Associations_id` INT NOT NULL,
   `Departments_id` INT NOT NULL,
   PRIMARY KEY (`Associations_id`, `Departments_id`),
-  INDEX `fk_Associations_has_Departments_Departments1_idx` (`Departments_id` ASC) VISIBLE,
-  INDEX `fk_Associations_has_Departments_Associations1_idx` (`Associations_id` ASC) VISIBLE,
+  INDEX `fk_Associations_has_Departments_Departments1_idx` (`Departments_id` ASC),
+  INDEX `fk_Associations_has_Departments_Associations1_idx` (`Associations_id` ASC),
   CONSTRAINT `fk_Associations_has_Departments_Associations1`
     FOREIGN KEY (`Associations_id`)
     REFERENCES `APPES`.`Associations` (`id`)

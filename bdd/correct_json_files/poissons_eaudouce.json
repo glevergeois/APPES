@@ -7,6 +7,8 @@
     "Categorie Liste rouge France":"Ex",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Ex",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":"X"
   },
   {
@@ -17,6 +19,8 @@
     "Categorie Liste rouge France":"Ex",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Ex",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -27,6 +31,8 @@
     "Categorie Liste rouge France":"Ex",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Ex",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -37,6 +43,8 @@
     "Categorie Liste rouge France":"Re",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Nt",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -47,6 +55,8 @@
     "Categorie Liste rouge France":"Re",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"En",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -57,6 +67,8 @@
     "Categorie Liste rouge France":"Re",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Cr",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -67,6 +79,8 @@
     "Categorie Liste rouge France":"Cr",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Cr",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -77,6 +91,8 @@
     "Categorie Liste rouge France":"Cr",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -87,6 +103,8 @@
     "Categorie Liste rouge France":"Cr",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Cr",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -97,6 +115,8 @@
     "Categorie Liste rouge France":"Cr",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Vu",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":"X"
   },
   {
@@ -107,6 +127,8 @@
     "Categorie Liste rouge France":"En",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Ne",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":"X"
   },
   {
@@ -117,6 +139,8 @@
     "Categorie Liste rouge France":"En",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -127,6 +151,8 @@
     "Categorie Liste rouge France":"En",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -137,6 +163,8 @@
     "Categorie Liste rouge France":"En",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -147,6 +175,8 @@
     "Categorie Liste rouge France":"En",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -157,6 +187,8 @@
     "Categorie Liste rouge France":"En",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Cr",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -167,6 +199,8 @@
     "Categorie Liste rouge France":"Vu",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Ne",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":"X"
   },
   {
@@ -177,26 +211,32 @@
     "Categorie Liste rouge France":"Vu",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
     "Index":19,
     "Ordre":"Petromyzontiformes",
     "Nom scientifique":"Lampetra_fluviatilis",
-    "Nom commun":"Lamproie_de_rivi\u00e8re",
+    "Nom commun":"Lamproie_de_riviere",
     "Categorie Liste rouge France":"Vu",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
     "Index":20,
     "Ordre":"Gadiformes",
     "Nom scientifique":"Lota_lota",
-    "Nom commun":"Lote_de_rivi\u00e8re",
+    "Nom commun":"Lote_de_riviere",
     "Categorie Liste rouge France":"Vu",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -207,6 +247,8 @@
     "Categorie Liste rouge France":"Vu",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -217,6 +259,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"Stilla",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -227,6 +271,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -237,6 +283,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -247,6 +295,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Nt",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -257,6 +307,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -267,6 +319,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -277,6 +331,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -287,6 +343,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -297,6 +355,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -307,6 +367,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":"X"
   },
   {
@@ -317,6 +379,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":"X"
   },
   {
@@ -327,6 +391,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -337,6 +403,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Vu",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -347,6 +415,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -357,6 +427,8 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Ne",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":"X"
   },
   {
@@ -367,16 +439,20 @@
     "Categorie Liste rouge France":"Nt",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
     "Index":38,
     "Ordre":"Cypriniformes",
     "Nom scientifique":"Abramis_brama",
-    "Nom commun":"Br\u00e8me_commune",
+    "Nom commun":"Breme_commune",
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -387,6 +463,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Uppera",
     "Categorie Liste rouge mondiale":"Ne",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -397,6 +475,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -407,6 +487,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Stilla",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -417,6 +499,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Stilla",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -427,6 +511,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Stilla",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -437,16 +523,20 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Stilla",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
     "Index":45,
     "Ordre":"Cypriniformes",
     "Nom scientifique":"Blicca_bjoerkna",
-    "Nom commun":"Br\u00e8me_bordeli\u00e8re",
+    "Nom commun":"Breme_bordeliere",
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -457,6 +547,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Uppera",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -466,7 +558,9 @@
     "Nom commun":"Lc",
     "Categorie Liste rouge France":"Downa",
     "Tendance":"Lc",
-    "Categorie Liste rouge mondiale":null,
+    "Categorie Liste rouge mondiale":"poisson",
+    "Categorie":"poisson_eau_douce",
+    "Sous-Categorie":null,
     "Statut d'endemisme*":null
   },
   {
@@ -477,6 +571,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -487,6 +583,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Uppera",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -497,6 +595,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"?",
     "Categorie Liste rouge mondiale":"Vu",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -507,6 +607,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Downa",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   },
   {
@@ -517,6 +619,8 @@
     "Categorie Liste rouge France":"Lc",
     "Tendance":"Stilla",
     "Categorie Liste rouge mondiale":"Lc",
+    "Categorie":"poisson",
+    "Sous-Categorie":"poisson_eau_douce",
     "Statut d'endemisme*":null
   }
 ]

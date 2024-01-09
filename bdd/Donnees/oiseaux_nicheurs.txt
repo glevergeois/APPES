@@ -1,0 +1,140 @@
+Anseriformes Marmaronetta angustirostris Sarcelle marbrée RE VU
+Anseriformes Oxyura leucocephala Erismature à tête blanche RE EN
+Otidiformes Otis tarda Outarde barbue, Grande Outarde RE VU
+Charadriiformes Eudromias morinellus Pluvier guignard RE LC
+Passeriformes Oenanthe leucura Traquet rieur RE LC
+Anseriformes Mergus serrator Harle huppé CR  LC
+Anseriformes Somateria mollissima Eider à duvet CR ? NT
+Podicipediformes Podiceps grisegena Grèbe jougris CR  LC
+Accipitriformes Haliaeetus albicilla Pygargue à queue blanche CR  LC
+Gruiformes Porzana parva Marouette poussin CR ? LC
+Gruiformes Porzana pusilla Marouette de Baillon CR ? LC
+Gruiformes Grus grus Grue cendrée CR  LC
+Charadriiformes Gallinago gallinago Bécassine des marais CR  LC
+Charadriiformes Sterna dougallii Sterne de Dougall CR  LC
+Charadriiformes Sterna paradisaea Sterne arctique CR ? LC
+Charadriiformes Alca torda Pingouin torda CR ? NT
+Charadriiformes Fratercula arctica Macareux moine CR  VU
+Pterocliformes Pterocles alchata Ganga cata CR  LC
+Piciformes Picoides tridactylus Pic tridactyle CR ? LC
+Passeriformes Remiz pendulinus Rémiz penduline, Mésange rémiz CR ? LC
+Passeriformes Lanius minor Pie-grièche à poitrine rose CR  LC
+Procellariiformes Puffinus puffinus Puffin des anglais EN  LC
+Procellariiformes Puffinus yelkouan Puffin yelkouan EN  VU
+Pelecaniformes Ixobrychus minutus Blongios nain, Butor blongios EN  LC
+Pelecaniformes Ciconia nigra Cigogne noire EN  LC
+Accipitriformes Aegypius monachus Vautour moine EN  NT
+Accipitriformes Aquila fasciata Aigle de Bonelli EN  LC
+Accipitriformes Gypaetus barbatus Gypaète barbu EN  NT
+Accipitriformes Neophron percnopterus Vautour percnoptère EN  EN
+Gruiformes Crex crex Râle des genêts EN  LC
+Otidiformes Tetrax tetrax Outarde canepetière EN  NT
+Charadriiformes Chlidonias niger Guifette noire EN  LC
+Charadriiformes Glareola pratincola Glaréole à collier EN ? LC
+Charadriiformes Ichthyaetus audouinii Goéland d'Audouin EN  LC
+Charadriiformes Larus canus Goéland cendré EN  LC
+Charadriiformes Uria aalge Guillemot de Troïl EN  LC
+Piciformes Picus canus Pic cendré EN  LC
+Passeriformes Calandrella brachydactyla Alouette calandrelle EN  LC
+Passeriformes Galerida theklae Cochevis de Thékla EN  LC
+Passeriformes Melanocorypha calandra Alouette calandre EN  LC
+Passeriformes Oenanthe hispanica Traquet oreillard EN  LC
+Passeriformes Locustella luscinioides Locustelle luscinioïde EN  LC
+Passeriformes Acrocephalus melanopogon Lusciniole à moustaches EN  LC
+Passeriformes Sylvia conspicillata Fauvette à lunettes EN  LC
+Passeriformes Sylvia undata Fauvette pitchou EN  NT
+Passeriformes Phylloscopus ibericus Pouillot ibérique EN  LC
+Passeriformes Lanius excubitor Pie-grièche grise EN  NE1
+Passeriformes Lanius meridionalis Pie-grièche méridionale EN  NE2
+Passeriformes Passer montanus Moineau friquet EN  LC
+Passeriformes Emberiza hortulana Bruant ortolan EN  LC
+Passeriformes Emberiza schoeniclus Bruant des roseaux EN  LC
+Anseriformes Anas crecca Sarcelle d'hiver VU ? LC
+Anseriformes Anser anser Oie cendrée VU  LC
+Anseriformes Aythya ferina Fuligule milouin VU  VU
+Anseriformes Spatula querquedula Sarcelle d'été VU  LC
+Galliformes Tetrao urogallus Grand Tétras VU  LC
+Procellariiformes Calonectris diomedea Puffin cendré VU  LC
+Procellariiformes Hydrobates pelagicus Océanite tempête, Pétrel tempête VU ? LC
+Pelecaniformes Botaurus stellaris Butor étoilé VU  LC
+Phoenicopteriformes Phoenicopterus roseus Flamant rose VU  LC
+Accipitriformes Aquila chrysaetos Aigle royal VU  LC
+Accipitriformes Elanus caeruleus Elanion blanc VU  LC
+Accipitriformes Milvus milvus Milan royal VU  NT
+Accipitriformes Pandion haliaetus Balbuzard pêcheur VU  LC
+Falconiformes Falco naumanni Faucon crécerellette VU  LC
+Gruiformes Porphyrio porphyrio Talève sultane, Poule sultane VU  LC
+Gruiformes Porzana porzana Marouette ponctuée VU ? LC
+Charadriiformes Charadrius hiaticula Grand Gravelot VU  LC
+Charadriiformes Charadrius alexandrinus Gravelot à collier interrompu VU  LC
+Charadriiformes Limosa limosa Barge à queue noire VU  NT
+Charadriiformes Numenius arquata Courlis cendré VU  NT
+Charadriiformes Chlidonias hybrida Guifette moustac VU  LC
+Charadriiformes Chroicocephalus genei Goéland railleur VU  LC
+Charadriiformes Gelochelidon nilotica Sterne hansel VU  LC
+Charadriiformes Rissa tridactyla Mouette tridactyle VU  LC
+Columbiformes Streptopelia turtur Tourterelle des bois VU  VU
+Strigiformes Asio flammeus Hibou des marais VU ? LC
+Coraciiformes Alcedo atthis Martin-pêcheur d'Europe VU  LC
+Piciformes Dendrocopos leucotos Pic à dos blanc VU  LC
+Piciformes Dendrocopos minor Pic épeichette VU  LC
+Passeriformes Cecropis daurica Hirondelle rousseline VU  LC
+Passeriformes Anthus pratensis Pipit farlouse VU  NT
+Passeriformes Ficedula hypoleuca Gobemouche noir VU ? LC
+Passeriformes Saxicola rubetra Tarier des prés, Traquet tarier VU  LC
+Passeriformes Cisticola juncidis Cisticole des joncs VU  LC
+Passeriformes Acrocephalus arundinaceus Rousserolle turdoïde VU  LC
+Passeriformes Hippolais icterina Hypolaïs ictérine VU  LC
+Passeriformes Poecile montanus Mésange boréale VU  LC
+Passeriformes Sitta whiteheadi Sittelle corse VU  VU
+Passeriformes Lanius senator Pie-grièche à tête rousse VU  LC
+Passeriformes Carduelis cannabina Linotte mélodieuse VU  LC
+Passeriformes Carduelis carduelis Chardonneret élégant VU  LC
+Passeriformes Carduelis chloris Verdier d'Europe VU  LC
+Passeriformes Carduelis flammea Sizerin flammé VU  NE1
+Passeriformes Pyrrhula pyrrhula Bouvreuil pivoine VU  LC
+Passeriformes Serinus serinus Serin cini VU  LC
+Passeriformes Emberiza citrinella Bruant jaune VU  LC
+Anseriformes Mergus merganser Harle bièvre NT  LC
+Galliformes Alectoris graeca Perdrix bartavelle NT ? NT
+Galliformes Bonasa bonasia Gélinotte des bois NT  LC
+Galliformes Lagopus muta Lagopède alpin NT  LC
+Galliformes Lyrurus tetrix Tétras lyre NT  LC
+Procellariiformes Fulmarus glacialis Fulmar boréal, Pétrel fulmar NT  LC
+Pelecaniformes Morus bassanus Fou de Bassan NT  LC
+Pelecaniformes Ardea alba Grande Aigrette NT  LC
+Pelecaniformes Nycticorax nycticorax Bihoreau gris, Héron bihoreau NT ? LC
+Pelecaniformes Platalea leucorodia Spatule blanche NT  LC
+Pelecaniformes Plegadis falcinellus Ibis falcinelle NT  LC
+Accipitriformes Circus aeruginosus Busard des roseaux NT  LC
+Accipitriformes Circus pygargus Busard cendré NT  LC
+Accipitriformes Hieraaetus pennatus Aigle botté NT ? LC
+Falconiformes Falco tinnunculus Faucon crécerelle NT  LC
+Gruiformes Rallus aquaticus Râle d'eau NT ? LC
+Charadriiformes Vanellus vanellus Vanneau huppé NT  NT
+Charadriiformes Actitis hypoleucos Chevalier guignette NT ? LC
+Charadriiformes Chroicocephalus ridibundus Mouette rieuse NT  LC
+Charadriiformes Larus argentatus Goéland argenté NT  LC
+Charadriiformes Thalasseus sandvicensis Sterne caugek NT  LC
+Strigiformes Glaucidium passerinum Chevêchette d'Europe NT ? LC
+Caprimulgiformes Apus apus Martinet noir NT  LC
+Coraciiformes Coracias garrulus Rollier d'Europe NT  LC
+Passeriformes Alauda arvensis Alouette des champs NT  LC
+Passeriformes Delichon urbicum Hirondelle de fenêtre NT  LC
+Passeriformes Hirundo rustica Hirondelle rustique, Hirondelle de cheminée NT  LC
+Passeriformes Anthus petrosus Pipit maritime NT  LC
+Passeriformes Ficedula albicollis Gobemouche à collier NT ? LC
+Passeriformes Monticola saxatilis Monticole de roche, Merle de roche NT  LC
+Passeriformes Muscicapa striata Gobemouche gris NT  LC
+Passeriformes Oenanthe oenanthe Traquet motteux NT  LC
+Passeriformes Saxicola rubicola Tarier pâtre, Traquet pâtre NT  NE2
+Passeriformes Cettia cetti Bouscarle de Cetti NT  LC
+Passeriformes Locustella naevia Locustelle tachetée NT  LC
+Passeriformes Sylvia borin Fauvette des jardins NT  LC
+Passeriformes Sylvia melanocephala Fauvette mélanocéphale NT  LC
+Passeriformes Phylloscopus sibilatrix Pouillot siffleur NT  LC
+Passeriformes Phylloscopus trochilus Pouillot fitis NT  LC
+Passeriformes Regulus regulus Roitelet huppé NT  LC
+Passeriformes Tichodroma muraria Tichodrome échelette NT ? LC
+Passeriformes Lanius collurio Pie-grièche écorcheur NT  LC
+Passeriformes Carduelis citrinella Venturon montagnard NT  LC

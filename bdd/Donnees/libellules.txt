@@ -1,0 +1,89 @@
+Lestidae Sympecma paedisca (Brauer, 1877) Leste enfant RE LC
+Libellulidae Leucorrhinia rubicunda (Linnaeus, 1758) Leucorrhine rubiconde RE LC
+Coenagrionidae Nehalennia speciosa (Charpentier, 1840) Déesse précieuse ? CR NT
+Lestidae Lestes macrostigma (Eversmann, 1836) Leste à grands ptérostigmas ? EN VU
+Coenagrionidae Coenagrion caerulescens (Boyer de Fonscolombe, 1838) Agrion bleuissant ? EN NT
+Libellulidae Sympetrum depressiusculum (Selys, 1841) Sympétrum déprimé ? EN VU
+Coenagrionidae Coenagrion hastulatum (Charpentier, 1825) Agrion à fer de lance  VU LC
+Coenagrionidae Coenagrion lunulatum (Charpentier, 1840) Agrion à lunules  VU LC
+Coenagrionidae Coenagrion pulchellum (Vander Linden, 1825) Agrion joli  VU LC
+Coenagrionidae Ischnura graellsii (Rambur, 1842) Agrion de Graells ? VU LC
+Aeshnidae Aeshna caerulea (Ström, 1783) Aeschne azurée  VU LC
+Macromiidae Macromia splendens (Pictet, 1843) Cordulie splendide  VU VU
+Libellulidae Sympetrum danae (Sulzer, 1776) Sympétrum noir  VU LC
+Lestidae Lestes sponsa (Hansemann, 1823) Leste fiancé ? NT LC
+Coenagrionidae Coenagrion ornatum (Selys, 1850) Agrion orné ? NT NT
+Aeshnidae Aeshna juncea (Linnaeus, 1758) Aeschne des joncs  NT LC
+Aeshnidae Aeshna subarctica Walker, 1908 Aeschne subarctique  NT NE
+Corduliidae Somatochlora alpestris (Selys, 1840) Cordulie alpestre  NT LC
+Corduliidae Somatochlora arctica (Zetterstedt, 1840) Cordulie arctique ? NT LC
+Corduliidae Somatochlora meridionalis Nielsen, 1935 Cordulie méridionale ? NT LC
+Libellulidae Leucorrhinia albifrons (Burmeister, 1839) Leucorrhine à front blanc ? NT LC
+Libellulidae Leucorrhinia dubia (Vander Linden, 1825) Leucorrhine douteuse  NT LC
+Libellulidae Leucorrhinia pectoralis (Charpentier, 1825) Leucorrhine à gros thorax ? NT LC
+Libellulidae Sympetrum flaveolum (Linnaeus, 1758) Sympétrum jaune d'or ? NT LC
+Libellulidae Sympetrum pedemontanum (O. F. Müller in Allioni, 1766) Sympétrum du Piémont  NT LC
+Libellulidae Sympetrum vulgatum (Linnaeus, 1758) Sympétrum vulgaire  NT LC
+Lestidae Chalcolestes viridis (Vander Linden, 1825) Leste vert occidental  LC LC
+Lestidae Lestes barbarus (Fabricius, 1798) Leste sauvage  LC LC
+Lestidae Lestes dryas Kirby, 1890 Leste des bois ? LC LC
+Lestidae Lestes virens (Charpentier, 1825) Leste verdoyant  LC LC
+Lestidae Sympecma fusca (Vander Linden, 1820) Leste brun  LC LC
+Calopterygidae Calopteryx haemorrhoidalis (Vander Linden, 1825) Caloptéryx hémorroïdal  LC LC
+Calopterygidae Calopteryx splendens (Harris, 1780) Caloptéryx éclatant  LC LC
+Calopterygidae Calopteryx virgo (Linnaeus, 1758) Caloptéryx vierge  LC LC
+Calopterygidae Calopteryx xanthostoma (Charpentier, 1825) Caloptéryx occitan  LC LC
+Platycnemididae Platycnemis acutipennis Selys, 1841 Agrion orangé  LC LC
+Platycnemididae Platycnemis latipes Rambur, 1842 Agrion blanchâtre  LC LC
+Platycnemididae Platycnemis pennipes (Pallas, 1771) Agrion à larges pattes  LC LC
+Coenagrionidae Ceriagrion tenellum (Villers, 1789) Agrion délicat  LC LC
+Coenagrionidae Coenagrion mercuriale (Charpentier, 1840) Agrion de Mercure ? LC NT
+Coenagrionidae Coenagrion puella (Linnaeus, 1758) Agrion jouvencelle  LC LC
+Coenagrionidae Coenagrion scitulum (Rambur, 1842) Agrion mignon  LC LC
+Coenagrionidae Enallagma cyathigerum (Charpentier, 1840) Agrion porte-coupe  LC LC
+Coenagrionidae Erythromma lindenii (Selys, 1840) Naïade de Vander Linden  LC LC
+Coenagrionidae Erythromma najas (Hansemann, 1823) Naïade aux yeux rouges  LC LC
+Coenagrionidae Erythromma viridulum (Charpentier, 1840) Naïade au corps vert  LC LC
+Coenagrionidae Ischnura elegans (Vander Linden, 1820) Agrion élégant  LC LC
+Coenagrionidae Ischnura genei (Rambur, 1842) Agrion de Gené  LC LC
+Coenagrionidae Ischnura pumilio (Charpentier, 1825) Agrion nain ? LC LC
+Coenagrionidae Pyrrhosoma nymphula (Sulzer, 1776) Petite nymphe au corps de feu  LC LC
+Aeshnidae Aeshna affinis Vander Linden, 1820 Aeschne affine  LC LC
+Aeshnidae Aeshna cyanea (O. F. Müller, 1764) Aeschne bleue  LC LC
+Aeshnidae Aeshna grandis (Linnaeus, 1758) Grande aeschne ? LC LC
+Aeshnidae Aeshna isoceles (O. F. Müller, 1767) Aeschne isocèle ? LC LC
+Aeshnidae Aeshna mixta Latreille, 1805 Aeschne mixte  LC LC
+Aeshnidae Anax imperator Leach, 1815 Anax empereur  LC LC
+Aeshnidae Anax parthenope (Selys, 1839) Anax napolitain  LC LC
+Aeshnidae Boyeria irene (Boyer de Fonscolombe, 1838) Aeschne paisible  LC LC
+Aeshnidae Brachytron pratense (O. F. Müller, 1764) Aeschne printanière  LC LC
+Gomphidae Gomphus flavipes (Charpentier, 1825) Gomphe à pattes jaunes  LC LC
+Gomphidae Gomphus graslinii Rambur, 1842 Gomphe de Graslin  LC NT
+Gomphidae Gomphus pulchellus Selys, 1840 Gomphe joli  LC LC
+Gomphidae Gomphus simillimus Selys, 1840 Gomphe semblable ? LC NT
+Gomphidae Gomphus vulgatissimus (Linnaeus, 1758) Gomphe vulgaire  LC LC
+Gomphidae Onychogomphus forcipatus (Linnaeus, 1758) Gomphe à forceps  LC NE
+Gomphidae Onychogomphus uncatus (Charpentier, 1840) Gomphe à crochets  LC LC
+Gomphidae Ophiogomphus cecilia (Geoffroy in Fourcroy, 1785) Gomphe serpentin  LC LC
+Cordulegastridae Cordulegaster bidentata Selys, 1843 Cordulégastre bidenté ? LC NT
+Cordulegastridae Cordulegaster boltonii (Donovan, 1807) Cordulégastre annelé  LC LC
+Incertae sedis Oxygastra curtisii (Dale, 1834) Cordulie à corps fin  LC NT
+Corduliidae Cordulia aenea (Linnaeus, 1758) Cordulie bronzée  LC LC
+Corduliidae Epitheca bimaculata (Charpentier, 1825) Epithèque bimaculée ? LC LC
+Corduliidae Somatochlora flavomaculata (Vander Linden, 1825) Cordulie à taches jaunes  LC LC
+Corduliidae Somatochlora metallica (Vander Linden, 1825) Cordulie métallique  LC LC
+Libellulidae Crocothemis erythraea (Brullé, 1832) Crocothémis écarlate  LC LC
+Libellulidae Leucorrhinia caudalis (Charpentier, 1840) Leucorrhine à large queue  LC LC
+Libellulidae Libellula depressa Linnaeus, 1758 Libellule déprimée  LC LC
+Libellulidae Libellula fulva O. F. Müller, 1764 Libellule fauve  LC LC
+Libellulidae Libellula quadrimaculata Linnaeus, 1758 Libellule quadrimaculée  LC LC
+Libellulidae Orthetrum albistylum (Selys, 1848) Orthétrum à stylets blancs  LC LC
+Libellulidae Orthetrum brunneum (Boyer de Fonscolombe, 1837) Orthétrum brun  LC LC
+Libellulidae Orthetrum cancellatum (Linnaeus, 1758) Orthétrum réticulé  LC LC
+Libellulidae Orthetrum coerulescens (Fabricius, 1798) Orthétrum bleuissant ? LC LC
+Libellulidae Sympetrum fonscolombii (Selys, 1840) Sympétrum de Fonscolombe  LC LC
+Libellulidae Sympetrum meridionale (Selys, 1841) Sympétrum méridional  LC LC
+Libellulidae Sympetrum sanguineum (O. F. Müller, 1764) Sympétrum sanguin  LC LC
+Libellulidae Sympetrum striolatum (Charpentier, 1840) Sympétrum fascié  LC LC
+Libellulidae Trithemis annulata (Palisot de Beauvois, 1807) Trithémis annelé  LC LC
+Lestidae Chalcolestes parvidens (Artobolevskij, 1929) Leste vert oriental ? DD LC

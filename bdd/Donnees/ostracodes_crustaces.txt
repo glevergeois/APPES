@@ -1,0 +1,146 @@
+Podocopida Candonidae Candonopsis boui Danielopol, 1978 X VU
+Podocopida Candonidae Mixtacandona coineauae Rogulj & Danielopol, 1993 X VU
+Podocopida Candonidae Mixtacandona juberthieae Danielopol, 1978 X VU
+Podocopida Candonidae Pseudocandona delamarei Danielopol, 1978 X VU
+Podocopida Candonidae Pseudocandona marmonieri Namiotko & Danielopol, 2004 X VU
+Podocopida Candonidae Pseudocandona rouchi Danielopol, 1973 X VU
+Podocopida Candonidae Schellencandona simililampadis (Danielopol, 1978) X VU
+Podocopida Cyprididae Psychrodromus betharrami Baltanas, Danielopol, Roca, Marmonier, 1993 VU
+Podocopida Cytherideidae Cytherissa lacustris (Sars, 1863) VU
+Podocopida Entocytheridae Sphaeromicola cebennica Remy, 1948 X VU
+Podocopida Entocytheridae Sphaeromicola hamigera Remy, 1946 X VU
+Podocopida Ilyocyprididae Ilyocypris lacustris Kaufmann, 1900 VU
+Podocopida Limnocytheridae Dolekiella europaea Gido, Artheau, Colin, Danielopol &
+Marmonier, 2007 X VU
+Podocopida Candonidae Candona candida (O.F. Müller, 1776) LC
+Podocopida Candonidae Candona neglecta Sars, 1887 LC
+Podocopida Candonidae Candonopsis kingsleii (Brady & Robertson, 1870) LC
+Podocopida Candonidae Cryptocandona kieferi (Klié, 1938) LC
+Podocopida Candonidae Cryptocandona vavrai Kaufmann, 1900 LC
+Podocopida Candonidae Cyclocypris laevis (O.F. Müller, 1776) LC
+Podocopida Candonidae Cyclocypris ovum (Jurine, 1820) LC
+Podocopida Candonidae Cypria ophthalmica (Jurine, 1820) LC
+Podocopida Candonidae Fabaeformiscandona breuili (Paris, 1920) LC
+Podocopida Candonidae Fabaeformiscandona fabaeformis (Fischer, 1851) LC
+Podocopida Candonidae Fabaeformiscandona hyalina (Brady & Robertson, 1870) LC
+Podocopida Candonidae Fabaeformiscandona wegelini (Petkovski, 1962) LC
+Podocopida Candonidae Pseudocandona albicans (Brady, 1864) LC
+Podocopida Candonidae Pseudocandona compressa (Koch, 1838) LC
+Podocopida Candonidae Pseudocandona lobipes (Hartwig, 1900) LC
+Podocopida Candonidae Pseudocandona marchica (Hartwig, 1899) LC
+Podocopida Candonidae Pseudocandona pratensis (Hartwig, 1901) LC
+Podocopida Candonidae Pseudocandona rostrata (Brady & Norman, 1889) LC
+Podocopida Candonidae Pseudocandona sarsi (Hartwig, 1899) LC
+Podocopida Candonidae Pseudocandona zschokkei (Wolf, 1920) LC
+Podocopida Candonidae Schellencandona triquetra (Klié, 1936) LC
+Podocopida Cyprididae Bradleycypris obliqua (Brady, 1868) LC
+Podocopida Cyprididae Bradleystrandesia fuscata (Jurine, 1820) LC
+Podocopida Cyprididae Bradleystrandesia reticulata (Zaddach, 1844) LC
+Podocopida Cyprididae Cavernocypris subterranea (Wolf, 1920) LC
+Podocopida Cyprididae Cypridopsis vidua (O.F. Müller, 1776) LC
+Podocopida Cyprididae Cypris bispinosa Lucas, 1849 LC
+Podocopida Cyprididae Cypris pubera O.F. Müller, 1776 LC
+Podocopida Cyprididae Eucypris pigra (Fischer, 1851) LC
+Podocopida Cyprididae Eucypris virens (Jurine, 1820) LC
+Podocopida Cyprididae Herpetocypris chevreuxi (Sars, 1896) LC
+Podocopida Cyprididae Herpetocypris reptans (Baird, 1835) LC
+Podocopida Cyprididae Heterocypris incongruens (Ramdohr, 1808) LC
+Podocopida Cyprididae Heterocypris salina (Brady, 1968) LC
+Podocopida Cyprididae Isocypris beauchampi (Paris, 1920) LC
+Podocopida Cyprididae Plesiocypridopsis newtoni (Brady & Robertson, 1870) LC
+Podocopida Cyprididae Potamocypris fulva (Brady, 1868) LC
+Podocopida Cyprididae Potamocypris pallida Alm, 1914 LC
+Podocopida Cyprididae Potamocypris similis G. W. Müller, 1912 LC
+Podocopida Cyprididae Potamocypris variegata (Brady & Norman, 1889) LC
+Podocopida Cyprididae Potamocypris villosa (Jurine, 1820) LC
+Podocopida Cyprididae Potamocypris zschokkei (Kaufmann, 1900) LC
+Podocopida Cyprididae Prionocypris zenkeri (Chyzer & Toth, 1858) LC
+Podocopida Cyprididae Psychrodromus fontinalis (Wolf, 1919) LC
+Podocopida Cyprididae Psychrodromus olivaceus (Brady & Norman, 1889) LC
+Podocopida Cyprididae Sarscypridopsis aculeata (Costa, 1847) LC
+Podocopida Cyprididae Tonnacypris lutaria (Koch, 1838) LC
+Podocopida Darwinulidae Darwinula stevensoni (Brady & Robertson, 1870) LC
+Podocopida Entocytheridae Sphaeromicola topsenti Paris, 1916 X LC
+Podocopida Ilyocyprididae Ilyocypris bradyi Sars, 1890 LC
+Podocopida Ilyocyprididae Ilyocypris gibba (Ramdohr, 1808) LC
+Podocopida Ilyocyprididae Ilyocypris monstrifica (Norman, 1862) LC
+Podocopida Limnocytheridae Limnocythere inopinata (Baird, 1843) LC
+Podocopida Limnocytheridae Metacypris cordata Brady & Robertson, 1870 LC
+Podocopida Notodromadidae Cyprois marginata (Straus, 1821) LC
+Podocopida Notodromadidae Notodromas monacha (O.F. Müller, 1776) LC
+Podocopida Notodromadidae Notodromas persica Gurney, 1921 LC
+Podocopida Candonidae Candona angulata G. W. Müller, 1900 DD
+Podocopida Candonidae Candona weltneri Hartwig, 1899 DD
+Podocopida Candonidae Cryptocandona reducta (Alm, 1914) DD
+Podocopida Candonidae Cyclocypris globosa (Sars, 1863) DD
+Podocopida Candonidae Cyclocypris mediosetosa Meisch, 1987 DD
+Podocopida Candonidae Cyclocypris serena (Koch, 1838) DD
+Podocopida Candonidae Cypria exsculpta (Fischer, 1855) DD
+Podocopida Candonidae Fabaeformiscandona acuminata (Fischer, 1854) DD
+Podocopida Candonidae Fabaeformiscandona caudata (Kaufmann, 1900) DD
+Podocopida Candonidae Mixtacandona laisi (Klié, 1938) DD
+Podocopida Candonidae Physocypria kraepelini G. W. Müller, 1903 DD
+Podocopida Candonidae Pseudocandona hartwigi (G. W. Müller, 1900) DD
+Podocopida Candonidae Schellencandona belgica (Klié, 1937) DD
+Podocopida Candonidae Schellencandona insueta (Klié, 1938) DD
+Podocopida Candonidae Schellencandona schellenbergi (Klié, 1934) DD
+Podocopida Cyprididae Cypretta seurati Gauthier, 1929 DD
+Podocopida Cyprididae Cypridopsis hartwigi G. W. Müller, 1900 DD
+Podocopida Cyprididae Cypridopsis lusatica Schäfer, 1943 DD
+Podocopida Cyprididae Dolerocypris fasciata (O.F. Müller, 1776) DD
+Podocopida Cyprididae Dolerocypris sinensis Sars, 1903 DD
+Podocopida Cyprididae Eucypris crassa (O.F. Müller, 1785) DD
+Podocopida Cyprididae Eucypris elliptica (Baird, 1846) DD
+Podocopida Cyprididae Eucypris lilljeborgi (G. W. Müller, 1900) DD
+Podocopida Cyprididae Herpetocypris brevicaudata Kaufmann, 1900 DD
+Podocopida Cyprididae Herpetocypris intermedia Kaufmann, 1900 DD
+Podocopida Cyprididae Heterocypris barbara (Gauthier & Brehm, 1928) DD
+Podocopida Cyprididae Heterocypris reptans (Kaufmann, 1900) DD
+Podocopida Cyprididae Koencypris ornata (O.F. Müller, 1776) DD
+Podocopida Cyprididae Potamocypris arcuata (Sars, 1903) DD
+Podocopida Cyprididae Potamocypris fallax Fox, 1967 DD
+Podocopida Cyprididae Potamocypris producta (Sars, 1924) DD
+Podocopida Cyprididae Potamocypris smaragdina (Varva, 1891) DD
+Podocopida Cyprididae Potamocypris unicaudata Schäfer, 1943 DD
+Podocopida Cyprididae Stenocypria fischeri (Lilljeborg, 1883) DD
+Podocopida Cyprididae Trajancypris clavata (Baird, 1838) DD
+Podocopida Cyprididae Trajancypris serrata (G. W. Müller, 1900) DD
+Podocopida Darwinulidae Microdarwinula zimmeri (Menzel, 1916) DD
+Podocopida Darwinulidae Penthesilenula brasiliensis (Pinto & Kotzian, 1961) DD
+Podocopida Darwinulidae Vestalenula carveli Artheau, 2007 X DD
+Podocopida Ilyocyprididae Ilyocypris biplicata (Koch, 1838) DD
+Podocopida Ilyocyprididae Ilyocypris decipiens Masi, 1905 DD
+Podocopida Ilyocyprididae Ilyocypris inermis Kaufmann, 1900 DD
+Podocopida Limnocytheridae Limnocythere stationis Vavra, 1891 DD
+Podocopida Limnocytheridae Limnocytherina sanctipatricii (Brady & Robertson, 1869) DD
+Podocopida Limnocytheridae Paralimnocythere psammophila (Floessner, 1965) DD
+Podocopida Limnocytheridae Paralimnocythere relicta (Lilljeborg, 1863) DD
+Branchiopoda Anostraca Artemiidae Artemia franciscana Kellogg, 1906 NA
+Branchiopoda Diplostraca Chydoridae Disparalona hamata (Birge, 1879) NA
+Branchiopoda Diplostraca Daphniidae Daphnia ambigua Scourfield, 1946 NA
+Branchiopoda Diplostraca Moinidae Moina affinis Birge, 1893 NA
+Malacostraca Amphipoda Corophiidae Chelicorophium curvispinum (G.O. Sars, 1895) NA
+Malacostraca Amphipoda Corophiidae Chelicorophium robustum (G.O. Sars, 1895) NA
+Malacostraca Amphipoda Crangonyctidae Crangonyx pseudogracilis Bousfield, 1958 NA
+Malacostraca Amphipoda Gammaridae Echinogammarus ischnus (Stebbing, 1899) NA
+Malacostraca Amphipoda Gammaridae Echinogammarus trichiatus (Martynov, 1932) NA
+Malacostraca Amphipoda Gammaridae Gammarus roeselii Gervais, 1835 NA
+Malacostraca Amphipoda Gammaridae Gammarus tigrinus Sexton, 1939 NA
+Malacostraca Amphipoda Pontogammaridae Dikerogammarus bispinosus Martynov, 1925 NA
+Malacostraca Amphipoda Pontogammaridae Dikerogammarus haemobaphes (Eichwald, 1841) NA
+Malacostraca Amphipoda Pontogammaridae Dikerogammarus villosus (Sowinski, 1894) NA
+Malacostraca Amphipoda Talitridae Talitroides alluaudi (Chevreux, 1896) NA
+Malacostraca Isopoda Asellidae Asellus aquaticus (Linnaeus, 1758) NA
+Malacostraca Isopoda Janiridae Jaera sarsi Valkanov, 1936 NA
+Malacostraca Decapoda Astacidae Astacus leptodactylus Eschscholtz, 1823 Écrevisse à pattes grêles NA
+Malacostraca Decapoda Astacidae Pacifastacus leniusculus (Dana, 1852) Écrevisse signal NA
+Malacostraca Decapoda Cambaridae Orconectes juvenilis (Hagen, 1870) Écrevisse couleur rouille NA
+Malacostraca Decapoda Cambaridae Orconectes limosus (Rafinesque, 1817) Écrevisse américaine NA
+Malacostraca Decapoda Cambaridae Procambarus clarkii (Girard, 1852) Écrevisse de Louisiane NA
+Malacostraca Decapoda Potamidae Potamon ibericum (Bieberstein, 1809) Crabe turc NA
+Malacostraca Decapoda Varunidae Eriocheir sinensis H. Milne-Edwards, 1853 Crabe chinois à mitaines NA
+Maxillopoda Arguloida Argulidae Argulus japonicus Thiele, 1900 NA
+Maxillopoda Cyclopoida Ergasilidae Neoergasilus japonicus (Harada, 1930) NA
+Maxillopoda Podocopida Cyprididae Stenocypris major (Baird, 1859) NA
+Maxillopoda Podocopida Cyprididae Strandesia bicuspis (Claus, 1892) NA
+Maxillopoda Podocopida Cyprididae Strandesia reticulata (Daday, 1898) NA
