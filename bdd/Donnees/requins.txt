@@ -1,50 +1,50 @@
-Squatinidae Squatina squatina Ange de mer commun ? CR CR
-Centrophoridae Centrophorus granulosus Requin-chagrin ? EN VU
-Centrophoridae Centrophorus squamosus Squale-chagrin de l'Atlantique ? EN VU
-Lamnidae Lamna nasus Requin-taupe commun ? EN VU
-Squalidae Squalus acanthias Aiguillat commun ? EN VU
-Cetorhinidae Cetorhinus maximus Requin-pèlerin ? VU VU
-Carcharhinidae Prionace glauca Requin peau bleue  NT NT
-Etmopteridae Centroscyllium fabricii Aiguillat noir ? NT LC
-Scyliorhinidae Galeus melastomus Chien espagnol  LC LC
-Scyliorhinidae Scyliorhinus canicula Petite roussette  LC LC
-Scyliorhinidae Scyliorhinus stellaris Grande roussette  LC NT
-Alopiidae Alopias vulpinus Requin-renard commun ? DD VU
-Carcharhinidae Carcharhinus brachyurus Requin cuivré ? DD NT
-Carcharhinidae Carcharhinus brevipinna Requin-tisserand ? DD NT
-Carcharhinidae Carcharhinus limbatus Requin bordé ? DD NT
-Carcharhinidae Carcharhinus plumbeus Requin gris ? DD VU
-Centrophoridae Deania calcea Squale-savate ? DD LC
-Chlamydoselachidae Chlamydoselachus anguineus Requin-lézard ? DD NT
-Dalatiidae Centroscymnus coelolepis Pailona commun ? DD NT
-Dalatiidae Dalatias licha Squale-liche ? DD NT
-Dalatiidae Scymnodon ringens Squale-grogneur commun ? DD DD
-Dalatiidae Squaliolus laticaudus Squale nain ? DD LC
-Echinorhinidae Echinorhinus brucus Squale bouclé ? DD DD
-Etmopteridae Etmopterus princeps Sagre rude ? DD DD
-Etmopteridae Etmopterus spinax Sagre commun ? DD LC
-Hexanchidae Heptranchias perlo Perlon ? DD NT
-Hexanchidae Hexanchus griseus Griset ? DD NT
-Lamnidae Carcharodon carcharias Grand requin blanc ? DD VU
-Mitsukurinidae Mitsukurina owstoni Requin-lutin ? DD LC
-Odontaspididae Carcharias taurus Requin-taureau ? DD VU
-Odontaspididae Odontaspis ferox Requin-féroce ? DD VU
-Oxynotidae Oxynotus centrina Centrine commune ? DD VU
-Oxynotidae Oxynotus paradoxus Humantin ? DD DD
-Pseudotriakidae Pseudotriakis microdon Requin à longue dorsale ? DD DD
-Scyliorhinidae Apristurus melanoasper Holbiche noire ? DD DD
-Somniosidae Centroselachus crepidater Pailona à long nez ? DD LC
-Somniosidae Somniosus microcephalus Laimargue du Groenland ? DD NT
-Somniosidae Somniosus rostratus Laimargue de Méditerranée ? DD DD
-Somniosidae Zameus squamulosus Squale-grogneur velouté ? DD DD
-Sphyrnidae Sphyrna lewini Requin-marteau halicorne ? DD EN
-Sphyrnidae Sphyrna mokarran Grand requin-marteau ? DD EN
-Sphyrnidae Sphyrna zygaena Requin-marteau commun ? DD VU
-Squalidae Squalus blainville Aiguillat-coq ? DD DD
-Squalidae Squalus uyato Petit squale-chagrin ? DD DD
-Squatinidae Squatina aculeata Ange de mer épineux ? DD CR
-Squatinidae Squatina oculata Ange de mer ocellé ? DD CR
-Triakidae Galeorhinus galeus Requin hâ ? DD VU
-Triakidae Mustelus asterias Émissole tachetée ? DD LC
-Triakidae Mustelus mustelus Émissole lisse ? DD VU
-Triakidae Mustelus punctulatus Émissole pointillée ? DD DD
+Squatinidae Squatina squatina Ange de mer commun CR ? CR
+Centrophoridae Centrophorus granulosus Requin-chagrin EN ? VU
+Centrophoridae Centrophorus squamosus Squale-chagrin de l'Atlantique EN ? VU
+Lamnidae Lamna nasus Requin-taupe commun EN ? VU
+Squalidae Squalus acanthias Aiguillat commun EN ? VU
+Cetorhinidae Cetorhinus maximus Requin-pèlerin VU ? VU
+Carcharhinidae Prionace glauca Requin peau bleue NT  NT
+Etmopteridae Centroscyllium fabricii Aiguillat noire NT ? LC
+Scyliorhinidae Galeus melastomus Chien espagnol LC  LC
+Scyliorhinidae Scyliorhinus canicula Petite roussette LC  LC
+Scyliorhinidae Scyliorhinus stellaris Grande roussette LC  NT
+Alopiidae Alopias vulpinus Requin-renard commun DD ? VU
+Carcharhinidae Carcharhinus brachyurus Requin cuivré DD ? NT
+Carcharhinidae Carcharhinus brevipinna Requin-tisserand DD ? NT
+Carcharhinidae Carcharhinus limbatus Requin bordé DD ? NT
+Carcharhinidae Carcharhinus plumbeus Requin gris DD ? VU
+Centrophoridae Deania calcea Squale-savate DD ? LC
+Chlamydoselachidae Chlamydoselachus anguineus Requin-lézard DD ? NT
+Dalatiidae Centroscymnus coelolepis Pailona commun DD ? NT
+Dalatiidae Dalatias licha Squale-liche DD ? NT
+Dalatiidae Scymnodon ringens Squale-grogneur commun DD ? DD
+Dalatiidae Squaliolus laticaudus Squale nain DD ? LC
+Echinorhinidae Echinorhinus brucus Squale bouclé DD ? DD
+Etmopteridae Etmopterus princeps Sagre rude DD ? DD
+Etmopteridae Etmopterus spinax Sagre commun DD ? LC
+Hexanchidae Heptranchias perlo Perlon DD ? NT
+Hexanchidae Hexanchus griseus Griset DD ? NT
+Lamnidae Carcharodon carcharias Grand requin blanc DD ? VU
+Mitsukurinidae Mitsukurina owstoni Requin-lutin DD ? LC
+Odontaspididae Carcharias taurus Requin-taureau DD ? VU
+Odontaspididae Odontaspis ferox Requin-féroce DD ? VU
+Oxynotidae Oxynotus centrina Centrine commune DD ? VU
+Oxynotidae Oxynotus paradoxus Humantin DD ? DD
+Pseudotriakidae Pseudotriakis microdon Requin à longue dorsale DD ? DD
+Scyliorhinidae Apristurus melanoasper Holbiche noire DD ? DD
+Somniosidae Centroselachus crepidater Pailona à long nez DD ? LC
+Somniosidae Somniosus microcephalus Laimargue du Groenland DD ? NT
+Somniosidae Somniosus rostratus Laimargue de Méditerranée DD ? DD
+Somniosidae Zameus squamulosus Squale-grogneur velouté DD ? DD
+Sphyrnidae Sphyrna lewini Requin-marteau halicorne DD ? EN
+Sphyrnidae Sphyrna mokarran Grand requin-marteau DD ? EN
+Sphyrnidae Sphyrna zygaena Requin-marteau commun DD ? VU
+Squalidae Squalus blainville Aiguillat-coq DD ? DD
+Squalidae Squalus uyato Petit squale-chagrin DD ? DD
+Squatinidae Squatina aculeata Ange de mer épineux DD ? CR
+Squatinidae Squatina oculata Ange de mer ocellé DD ? CR
+Triakidae Galeorhinus galeus Requin hâ DD ? VU
+Triakidae Mustelus asterias Émissole tachetée DD ? LC
+Triakidae Mustelus mustelus Émissole lisse DD ? VU
+Triakidae Mustelus punctulatus Émissole pointillée DD ? DD

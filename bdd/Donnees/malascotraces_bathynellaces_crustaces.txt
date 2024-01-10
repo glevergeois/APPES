@@ -1,24 +1,20 @@
-Bathynellacea Bathynellidae Bathynella pyrenaica Delamare Deboutteville & Chappuis,
-1954 X VU
-Bathynellacea Bathynellidae Delamareibathynella debouttevillei Serban, 1989 X VU
-Bathynellacea Bathynellidae Delamareibathynella motasi Serban, 1992 X VU
-Bathynellacea Bathynellidae Gallobathynella boui Serban, Coineau & Delamare Deboutteville, 1971 X VU
-Bathynellacea Bathynellidae Gallobathynella delayi Serban, Coineau & Delamare Deboutteville, 1971 X VU
-Bathynellacea Bathynellidae Gallobathynella juberthiae Serban, Coineau & Delamare Deboutteville, 1971 X VU
-Bathynellacea Bathynellidae Meridiobathynella rouchi Serban, Coineau & Delamare Deboutteville, 1971 X VU
-Bathynellacea Bathynellidae Parameridiobathynella gardensis Serban & Leclerc, 1984 X VU
-Bathynellacea Bathynellidae Pseudobathynella magniezi Serban, Coineau & Delamare Deboutteville, 1971 X VU
-Bathynellacea Bathynellidae Vandelibathynella vandeli (Delamare Deboutteville & Chappuis,
-1954) X VU
-Bathynellacea Bathynellidae Vejdovskybathynella balazuci Serban & Leclerc, 1984 X VU
-Bathynellacea Bathynellidae Vejdovskybathynella espattyensis Serban & Leclerc, 1984 X VU
-Bathynellacea Bathynellidae Vejdovskybathynella leclerci Serban, 1989 X VU
-Bathynellacea Parabathynellidae Hexabathynella knoepffleri (Coineau, 1965) X VU
-Bathynellacea Parabathynellidae Paraiberobathynella fagei (Delamare Deboutteville & Angelier,
-1950) X VU
-Bathynellacea Bathynellidae Gallobathynella coiffaiti (Delamare Deboutteville, 1961) X NT
-Bathynellacea Bathynellidae Gallobathynella tarissei Serban, Coineau & Delamare Deboutteville, 1971 X NT
-Bathynellacea Bathynellidae Bathynella gallica Delamare Deboutteville & Chappuis,
-1954 X DD
-Bathynellacea Bathynellidae Bathynella natans Vejdovsky, 1882 DD
-Bathynellacea Parabathynellidae Parabathynella stygia Chappuis, 1926 DD
+Bathynellacea Bathynellidae Bathynella pyrenaica X VU
+Bathynellacea Bathynellidae Delamareibathynella debouttevillei X VU
+Bathynellacea Bathynellidae Delamareibathynella motasi X VU
+Bathynellacea Bathynellidae Gallobathynella boui X VU
+Bathynellacea Bathynellidae Gallobathynella delayi X VU
+Bathynellacea Bathynellidae Gallobathynella juberthiae X VU
+Bathynellacea Bathynellidae Meridiobathynella rouchi X VU
+Bathynellacea Bathynellidae Parameridiobathynella gardensis X VU
+Bathynellacea Bathynellidae Pseudobathynella magniezi X VU
+Bathynellacea Bathynellidae Vandelibathynella vandeli X VU
+Bathynellacea Bathynellidae Vejdovskybathynella balazuci X VU
+Bathynellacea Bathynellidae Vejdovskybathynella espattyensis X VU
+Bathynellacea Bathynellidae Vejdovskybathynella leclerci X VU
+Bathynellacea Parabathynellidae Hexabathynella knoepffleri X VU
+Bathynellacea Parabathynellidae Paraiberobathynella fagei X VU
+Bathynellacea Bathynellidae Gallobathynella coiffaiti X NT
+Bathynellacea Bathynellidae Gallobathynella tarissei X NT
+Bathynellacea Bathynellidae Bathynella gallica Delamare X DD
+Bathynellacea Bathynellidae Bathynella natans DD
+Bathynellacea Parabathynellidae Parabathynella stygia DD
