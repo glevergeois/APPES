@@ -1,103 +1,18 @@
-data = """
-Index\tOrdre\tNom scientifique\tNom commun\tCategorie Liste rouge France\tTendance\tCategorie Liste rouge mondiale\tCategorie\tSous-Categorie\tStatut d'endemisme*
-1012\tFabaceae\tGenista_linifolia\tGenêt_à_feuilles_de_lin\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1013\tGentianaceae\tGentiana_utriculosa\tGentiane_à_calice_renfle\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1014\tGentianaceae\tGentianella_ramosa\tGentianelle_ramifiee\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1015\tGeraniaceae\tGeranium_divaricatum\tGeranium_divarique\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1016\tGeraniaceae\tGeranium_endressii\tGeranium_d'Endress\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1017\tAsteraceae\tGeropogon_hybridus\tSalsifis_hybride\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1018\tIridaceae\tGladiolus_palustris\tGlaïeul_des_marais\tVu\tDowna\tDd\tvegetaux\tNULL\tNULL
-1019\tOrchidaceae\tGymnadenia_odoratissima\tGymnadenie_odorante\tVu\tDowna\tLc\tvegetaux\tNULL\tNULL
-1020\tFabaceae\tHedysarum_glomeratum\tSainfoin_à_têtes\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1021\tCistaceae\tHelianthemum_lunulatum\tHeliantheme_à_lunules\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1022\tPoaceae\tHelictotrichon_cantabricum\tAvoine_cantabrique\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1023\tOrchidaceae\tHerminium_monorchis\tOrchis_musc\tVu\tDowna\tDd\tvegetaux\tNULL\tNULL
-1024\tAsteraceae\tHieracium_axiflorum\tEperviere\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1025\tAsteraceae\tHieracium_burnatii\tEperviere_de_Burnat\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1026\tAsteraceae\tHieracium_caerulaceum\tNULL\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1027\tAsteraceae\tHieracium_canescens\tEperviere_du_mont\tCenis\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1028\tAsteraceae\tHieracium_cenisium\tEperviere_du_mont\tCenis\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1029\tAsteraceae\tHieracium_chaboissaei\tEperviere_de_Chaboissau\tVu\t?\tNe\tvegetaux\tNULL\tX
-1030\tAsteraceae\tHieracium_compositum\tEperviere\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1031\tAsteraceae\tHieracium_favratii\tEperviere_à_feuilles_de_Consoude\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1032\tAsteraceae\tHieracium_isolanum\tEperviere\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1033\tAsteraceae\tHieracium_lychnioides\tEperviere_faux\tLychnis\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1034\tAsteraceae\tHieracium_muellerianum\tEperviere\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1035\tAsteraceae\tHieracium_oligocephalum\tEperviere\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1036\tAsteraceae\tHieracium_rhaeticum\tNULL\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1037\tAsteraceae\tHieracium_sarretoides\tEperviere\tVu\t?\tNe\tvegetaux\tNULL\tX
-1038\tAsteraceae\tHieracium_speluncarum\tEperviere\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1039\tAsteraceae\tHieracium_thapsifolium\tEperviere_à_feuilles_de_Molene\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1040\tAsteraceae\tHieracium_tomentellum\tEperviere\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1041\tAsteraceae\tHieracium_viride\tEperviere_verte\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1042\tFabaceae\tHippocrepis_multisiliquosa\tFer-à-cheval_à_fruits_nombreux\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1043\tBrassicaceae\tHormathophylla_pyrenaica\tAlysson_des_Pyrenees\tVu\tStilla\tVu\tvegetaux\tNULL\tX
-1044\tAsteraceae\tHyoseris_scabra\tChicoree_scabre\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1045\tBrassicaceae\tIberis_timeroyi\tIberis_de_Timeroy\tVu\tUppera\tNe\tvegetaux\tNULL\tX
-1046\tIridaceae\tIris_sibirica\tIris_de_Siberie\tVu\t?\tNt\tvegetaux\tNULL\tNULL
-1047\tIsoetaceae\tIsoëtes_echinospora\tIsoete_à_spores_spinuleuses\tVu\tDowna\tLc\tvegetaux\tNULL\tNULL
-1048\tIsoetaceae\tIsoëtes_setacea\tIsoete_grêle\tVu\tStilla\tNt\tvegetaux\tNULL\tNULL
-1049\tAsteraceae\tJacobaea_uniflora\tSeneçon_de_Haller\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1050\tAsteraceae\tKlasea_lycopifolia\tSerratule_à_feuilles_de_Chanvre_d'eau\tVu\tDowna\tDd\tvegetaux\tNULL\tNULL
-1051\tLamiaceae\tLamium_gevorense\tNULL\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1052\tApiaceae\tLaser_trilobum\tLaser_à_feuilles_à_trois_lobes\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1053\tAsteraceae\tLeucanthemum_crassifolium\tNULL\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1054\tAsteraceae\tLeucanthemum_meridionale\tMarguerite_du_Midi\tVu\tStilla\tNe\tvegetaux\tNULL\tX
-1055\tPlumbaginaceae\tLimonium_humile\tStatice_humble\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1056\tPlumbaginaceae\tLimonium_lambinonii\tSaladelle_du_Cap\tPatrimoniu\tX\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1057\tPlumbaginaceae\tLimonium_patrimoniense\tSaladelle_du_Cap\tPatrimoniu\tX\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1058\tPlumbaginaceae\tLimonium_strictissimum\tStatice_à_rameaux_raides\tVu\tStilla\tEn\tvegetaux\tNULL\tNULL
-1059\tCaprifoliaceae\tLinnaea_borealis\tLinnee_boreale\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1060\tCaryophyllaceae\tLoeflingia_hispanica\tLoeflingie_d'Espagne\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1061\tLycopodiaceae\tLycopodium_issleri\tLycopode_d'Issler\tVu\tStilla\tNt\tvegetaux\tNULL\tNULL
-1062\tLycopodiaceae\tLycopodium_oellgaardii\tLycopode_d'Øllgaard\tVu\tStilla\tNt\tvegetaux\tNULL\tNULL
-1063\tLycopodiaceae\tLycopodium_zeilleri\tLycopode_de_Zeiller\tVu\tStilla\tNt\tvegetaux\tNULL\tNULL
-1064\tPrimulaceae\tLysimachia_thyrsiflora\tLysimaque_à_fleurs_en_epi\tVu\tDowna\tLc\tvegetaux\tNULL\tNULL
-1065\tBrassicaceae\tMalcolmia_africana\tMalcolmie_d'Afrique\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1066\tBrassicaceae\tMaresia_nana\tMalcolmie_naine\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1067\tOnocleaceae\tMatteuccia_struthiopteris\tFougere_à_plumes_d'autruche\tVu\tStilla\tLc\tvegetaux\tNULL\tNULL
-1068\tFabaceae\tMedicago_ciliaris\tLuzerne_ciliee\tVu\tDowna\tLc\tvegetaux\tNULL\tNULL
-1069\tFabaceae\tMedicago_tenoreana\tLuzerne_de_Tenore\tVu\tDowna\tLc\tvegetaux\tNULL\tNULL
-1070\tFabaceae\tMelilotus_messanensis\tMelilot_de_Sicile\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1071\tCaryophyllaceae\tMinuartia_montana\tAlsine_de_montagnes\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1072\tCaryophyllaceae\tMinuartia_viscosa\tMinuartie_visqueuse\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1073\tCaryophyllaceae\tMoehringia_lebrunii\tSabline_de_Le\tBrun\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1074\tBrassicaceae\tMurbeckiella_zanonii\tNULL\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1075\tPlumbaginaceae\tMyriolimon_diffusum\tLimonium_diffus\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1076\tOrchidaceae\tNeotinea_conica\tOrchis_conique\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1077\tNymphaeaceae\tNuphar_pumila\tNenuphar_nain\tVu\tDowna\tLc\tvegetaux\tNULL\tNULL
-1078\tOrobanchaceae\tOdontites_cebennensis\tOdontite_des_Causses\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1079\tApiaceae\tOenanthe_fluviatilis\tOenanthe_des_fleuves\tVu\tDowna\tNt\tvegetaux\tNULL\tNULL
-1080\tFabaceae\tOnonis_diffusa\tBugrane_diffuse\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1081\tFabaceae\tOnonis_viscosa\tBugrane_visqueux\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1082\tOrchidaceae\tOphrys_philippei\tOphrys_du_Gapeau\tVu\tStilla\tNe\tvegetaux\tNULL\tX
-1083\tOrchidaceae\tOphrys_tenthredinifera\tOphrys_tenthrede\tVu\tDowna\tLc\tvegetaux\tNULL\tNULL
-1084\tOrchidaceae\tOrchis_langei\tOrchis_de_Lange\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1085\tOrchidaceae\tOrchis_pauciflora\tOrchis_à_fleurs_peu_nombreuses\tVu\tStilla\tLc\tvegetaux\tNULL\tNULL
-1086\tAsparagaceae\tOrnithogalum_exscapum\tNULL\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1087\tOrobanchaceae\tOrobanche_bartlingii\tOrobanche_de_Bartling\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1088\tOrobanchaceae\tOrobanche_flava\tOrobanche_jaune_clair\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1089\tOrobanchaceae\tOrobanche_montserratii\tOrobanche\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1090\tOrobanchaceae\tOrobanche_pubescens\tOrobanche_pubescente\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1091\tOrobanchaceae\tOrobanche_serbica\tOrobanche\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1092\tPaeoniaceae\tPaeonia_mascula\tPivoine_mâle\tVu\tStilla\tLc\tvegetaux\tNULL\tNULL
-1093\tOrobanchaceae\tPedicularis_recutita\tPediculaire_tronquee\tVu\tDowna\tNe\tvegetaux\tNULL\tNULL
-1094\tPoaceae\tPhalaris_brachystachys\tAlpiste_à_epi_court\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1095\tOrobanchaceae\tPhelipanche_cernua\tOrobanche_inattendue\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1096\tOrobanchaceae\tPhelipanche_lavandulacea\tOrobanche_couleur_de_Lavande\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1097\tPoaceae\tPhleum_subulatum\tPhleole_subulee\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1098\tCampanulaceae\tPhyteuma_cordatum\tRaiponce_en_forme_de_cœur\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1099\tAsteraceae\tPicris_rhagadioloides\tPicride_tres_elevee\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1100\tMarsileaceae\tPilularia_minuta\tPilulaire_delicate\tVu\tStilla\tEn\tvegetaux\tNULL\tNULL
-1101\tApiaceae\tPimpinella_lutea\tPimpinelle_jaune\tVu\tStilla\tNe\tvegetaux\tNULL\tNULL
-1102\tApiaceae\tPimpinella_siifolia\tPimpinelle_à_feuilles_de_Sium\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-1103\tLentibulariaceae\tPinguicula_reichenbachiana\tGrassette_de_Reichenbach\tVu\tStilla\tLc\tvegetaux\tNULL\tNULL
-1104\tPlantaginaceae\tPlantago_cornutii\tPlantain_de_Cornut\tVu\t?\tNe\tvegetaux\tNULL\tNULL
-"""
+import json
 
-lines = data.split('\n')
+# Chemin vers votre fichier JSON
+chemin_fichier_json = 'erreur.json'
 
-for index, line in enumerate(lines):
-    tab_count = line.count('\t')
-    if tab_count != 9:
-        print(f"Index {index + 1}: {tab_count} occurrences de '\\t'")
+# Charger le fichier JSON
+with open(chemin_fichier_json, 'r') as fichier:
+    data = json.load(fichier)
+
+# Ajouter 38 à la valeur de l'index
+for element in data:
+    element['Index'] += 39
+
+# Enregistrer les modifications dans le fichier JSON
+with open('votre_fichier_modifie.json', 'w') as fichier_modifie:
+    json.dump(data, fichier_modifie, indent=2)
+
+print('La valeur de l\'index a été mise à jour avec succès.')
