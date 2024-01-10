@@ -1,797 +1,783 @@
-Asteraceae Filago neglecta (Soy.-Will.) DC. Cotonnière négligée EX NE
-Violaceae Viola cryana Gillot Violette de Cry X EX EX
-Orchidaceae Anacamptis collina (Banks & Sol. ex Russell)
-R.M.Bateman, Pridgeon & M.W.Chase Orchis à bourse RE LC
-Ophioglossaceae Botrychium lanceolatum (S.G.Gmel.) Ångstr. Botrychium lancéolé RE VU
-Poaceae Bromus grossus Desf. ex DC. Brome à fleurs nombreuses RE DD
-Brassicaceae Camelina alyssum (Mill.) Thell. Caméline alysson RE DD
-Asteraceae Carlina gummifera (L.) Less. Carline à gomme RE NE
-Ericaceae Chimaphila umbellata (L.) W.P.C.Barton Pyrole en ombelle RE VU
-Geraniaceae Erodium salzmannii Delile Erodium de Salzmann RE NE
-Cyperaceae Fimbristylis bisumbellata (Forssk.) Bubani Fimbristylis à deux ombelles RE LC
-Poaceae Gastridium scabrum C.Presl Gastridie rude RE NE
-Asteraceae Hieracium sandozianum Zahn Epervière de Sandoz RE NE
-Plantaginaceae Linaria chalepensis (L.) Mill. Linaire d'Alep RE NE
-Poaceae Lolium remotum Schrank Ivraie du lin RE NE
-Lycopodiaceae Lycopodium complanatum L. Lycopode aplati RE LC
-Lythraceae Lythrum virgatum L. Lythrum en forme de baguette RE LC
-Caryophyllaceae Minuartia stricta (Sw.) Hiern Minuartie dressée RE NE
-Boraginaceae Myosotis rehsteineri Wartm. RE EN
-Orobanchaceae Odontites litoralis (Fr.) Fr. RE NE
-Potamogetonaceae Potamogeton rutilus Wolfg. Potamot rougeâtre RE NT
-Polygonaceae Rumex tuberosus L. Oseille tubéreuse RE NE
-Cyperaceae Scirpus radicans Schkuhr Scirpe radicant RE DD
-Caprifoliaceae Succisella inflexa (Kluk) Beck Succiselle infléchie RE NE
-Asteraceae Taraxacum balticiforme Dahlst. Pissenlit de Neudorf RE NE
-Cyperaceae Cyperus laevigatus L. Souchet à deux épis CR* ? NE
-Asteraceae Filago carpetana (Lange) Chrtek & Holub Evax à fruits hirsutes CR* ? NE
-Asteraceae Helichrysum arenarium (L.) Moench Immortelle des sables CR* ? NT
-Fabaceae Lathyrus inconspicuus L. Gesse à petites fleurs CR* ? NE
-Plantaginaceae Linaria triphylla (L.) Mill. Linaire à feuilles par trois CR* ? NE
-Fabaceae Lotus tetragonolobus L. Lotier pourpre CR* ? NE
-Apiaceae Ridolfia segetum (Guss.) Moris Aneth des moissons CR* ? NE
-Saxifragaceae Saxifraga seguieri Spreng. Saxifrage de Séguier CR* ? NE
-Ophioglossaceae Sceptridium multifidum (S.G.Gmel.) Tagawa Botryche à feuilles de rue CR* ? LC
-Amaryllidaceae Allium suaveolens Jacq. Ail odorant CR ? LC
-Amaryllidaceae Allium tenuiflorum Ten. Ail à petites fleurs CR  NE
-Aristolochiaceae Aristolochia clusii Lojac. Aristoloche de l'Escluse CR  NE
-Plumbaginaceae Armeria belgenciensis Donad. ex Kerguélen Armérie de Belgentier X CR  NE
-Asteraceae Artemisia insipida Vill. Armoise insipide X CR ? CR
-Aspleniaceae Asplenium cuneifolium Viv. Doradille cunéiformes CR  NE
-Asparagaceae Bellevalia ciliata (Cirillo) Nees Bellevalia ciliée CR ? NE
-Fabaceae Biserrula epiglottis (L.) P.Coulot, P.Rabaute &
-J.-M.Tison Astragale épiglotte CR ? NE
-Brassicaceae Brassica elongata Ehrh. Chou allongé CR  DD
-Cyperaceae Carex glacialis Mack. Laîche des glaciers CR  NE
-Gentianaceae Centaurium chloodes (Brot.) Samp. Petite centaurée à fleurs serrées CR ? NE
-Cyperaceae Cyperus flavidus Retz. Souchet jaune CR ? NE
-Orchidaceae Dactylorhiza brennensis (E.Nelson) D.Tyteca &
-Gathoye Orchis de la Brenne X CR  NE
-Dryopteridaceae Dryopteris pallida (Bory) Maire & Petitm. Dryoptéris pâle CR  LC
-Apiaceae Eryngium pusillum L. Panicaut de Barrelier CR  NE
-Apiaceae Eryngium viviparum J.Gay Panicaut vivipare CR  EN
-Rosaceae Geum heterocarpum Boiss. Benoîte à fruits divers CR  NE
-Asteraceae Hieracium issleri Touton & Zahn CR ? NE
-Convolvulaceae Ipomoea sagittata Poir. Ipomée sagittée CR  VU
-Iridaceae Iris xiphium L. Iris à feuilles en forme de glaive CR  DD
-Asteraceae Jacobaea persoonii (De Not.) Pelser Séneçon de Persoon CR ? NE
-Apiaceae Kadenia dubia (Schkuhr) Lavrova & V.N.Tikhom. Sélin douteux CR  NE
-Fabaceae Lathyrus amphicarpos L. Gesse à deux types de fruits CR ? NT
-Plumbaginaceae Limonium portovecchiense Erben Statice de Porto-Vecchio X CR  NE
-Poaceae Lolium temulentum L. Ivraie enivrante CR  LC
-Saxifragaceae Micranthes hieraciifolia (Waldst. & Kit. ex Willd.)
-Haw. Saxifrage à feuilles d'Épervière CR ? NE
-Ranunculaceae Nigella arvensis L. Nigelle des champs CR  NE
-Asteraceae Notobasis syriaca (L.) Cass. Notobasis de Syrie CR  NE
-Boraginaceae Onosma helvetica (A.DC.) Boiss. Orcanette vaudoise CR ? NE
-Orchidaceae Ophrys iricolor Desf. CR  NE
-Ranunculaceae Ranunculus sylviae Gamisans Renoncule de Sylvie X CR  NE
-Iridaceae Romulea ligustica Parl. Romulée de Ligurie CR  NE
-Saxifragaceae Saxifraga giziana Genty & Bouchard Saxifrage de Gizia X CR  NE
-Saxifragaceae Saxifraga hirculus L. Saxifrage œil-de-bouc CR  DD
-Saxifragaceae Saxifraga rosacea Moench Saxifrage trompeuse CR  NE
-Caryophyllaceae Silene muscipula L. Silène attrape-mouches CR  NE
-Asteraceae Taraxacum atrolivaceum Kirschner & Štěpánek X CR ? NE
-Asteraceae Taraxacum ferale Kirschner & Štěpánek X CR ? NE
-Asteraceae Taraxacum odiosum Kirschner & Štěpánek X CR  NE
-Plantaginaceae Veronica longifolia L. Véronique à longues feuilles CR  NE
-Violaceae Viola hispida Lam. Violette de Rouen X CR  CR
-Woodsiaceae Woodsia ilvensis (L.) R.Br. Woodsie d'Elbe CR ? LC
-Amaryllidaceae Acis nicaeensis (Ardoino) Lledó, A.P.Davis &
-M.B.Crespo Nivéole de Nice X EN  EN
-Poaceae Agropyron cristatum (L.) Gaertn. Chiendent pectiné EN  LC
-Amaryllidaceae Allium angulosum L. Ail à tige anguleuse EN  LC
-Amaryllidaceae Allium consimile Jord. ex Gren. Ail semblable EN ? NE
-Poaceae Antinoria agrostidea (DC.) Parl. Canche faux agrostis EN  NE
-Brassicaceae Arabis parvula L.M.Dufour EN ? NE
-Poaceae Arundo donaciformis (Loisel.) Hardion, Verlaque
-& B.Vila Canne de Pline EN  NE
-Rubiaceae Asperula arvensis L. Aspérule des champs EN  NE
-Rubiaceae Asperula capillacea (Lange) R.Vilm. Aspérule capillaire X EN ? NE
-Aspleniaceae Asplenium lepidum C.Presl Doradille élégante EN  NT
-Aspleniaceae Asplenium seelosii Leyb. Doradille de Seelos EN  NT
-Fabaceae Astragalus alopecuroides L. Astragale de Narbonne EN  NE
-Fabaceae Astragalus tragacantha L. Astragale de Marseille EN  NE
-Asparagaceae Bellevalia trifoliata (Ten.) Kunth Jacinthe à trois feuilles EN  NE
-Apiaceae Bifora testiculata (L.) Spreng. Bifora testiculé EN  NE
-Brassicaceae Biscutella divionensis Jord. Lunetière de Dijon X EN  NE
-Apiaceae Bupleurum subovatum Link ex Spreng. Buplèvre ovale EN  NE
-Poaceae Calamagrostis neglecta (Ehrh.) G.Gaertn., B.Mey.
-& Scherb. Calamagrostide négligée EN  NE
-Asteraceae Carduus fasciculiflorus Viv. Chardon à fleurs fasciculées EN ? NE
-Cyperaceae Carex chordorrhiza L.f. Laîche à longs rhizomes EN  LC
-Cyperaceae Carex fritschii Waisb. Laîche de Fritsch EN  NE
-Cyperaceae Carex heleonastes Ehrh. ex L.f. Etoile des marais EN  NE
-Cyperaceae Carex hordeistichos Vill. Laîche à épis d'orge EN  NE
-Cyperaceae Carex vaginata Tausch Laîche à feuilles engainantes EN ? NE
-Asteraceae Centaurea corymbosa Pourr. Centaurée de la Clape X EN  VU
-Gentianaceae Centaurium favargeri Zeltner Petite centaurée de Favarger EN ? NE
-Caprifoliaceae Centranthus trinervis (Viv.) Bég. Centranthe à trois nervures X EN  EN
-Caryophyllaceae Cerastium ligusticum Viv. Céraiste de Ligurie EN  NE
-Colchicaceae Colchicum filifolium (Cambess.) Stef. Mérendère à feuilles filiformes EN  NE
-Brassicaceae Conringia orientalis (L.) Dumort. Vélar d'Orient EN  NE
-Convolvulaceae Cuscuta monogyna Vahl Cuscute à un style EN ? NE
-Alismataceae Damasonium alisma Mill. Etoile d'eau EN  NT
-Ranunculaceae Delphinium ajacis L. Dauphinelle des jardins EN ? NE
-Caryophyllaceae Dianthus gyspergerae Rouy Oeillet fourchu de Gysperger X EN ? NE
-Brassicaceae Draba incana L. Drave blanchâtre EN  NE
-Dryopteridaceae Dryopteris cristata (L.) A.Gray Dryoptéris à crêtes EN  LC
-Elatinaceae Elatine hydropiper L. Elatine poivre-d'eau EN  LC
-Elatinaceae Elatine triandra Schkuhr Elatine à trois étamines EN ? LC
-Orchidaceae Epipactis fibri Scappat. & Robatsch Epipactis des castors X EN  NE
-Fabaceae Erinacea anthyllis Link Cytise hérisson EN  NE
-Geraniaceae Erodium laciniatum (Cav.) Willd. Erodium à feuilles découpées EN  NE
-Liliaceae Gagea pomeranica Ruthe Gagée de Poméranie EN  NE
-Rubiaceae Galium trifidum L. Gaillet trifide EN  NE
-Fabaceae Genista aetnensis (Biv.) DC. Genêt de l'Etna EN  LC
-Geraniaceae Geranium bohemicum L. Géranium de Bohême EN ? NE
-Iridaceae Gladiolus imbricatus L. Glaïeul imbriqué EN  NE
-Orchidaceae Hammarbya paludosa (L.) Kuntze Malaxis des tourbières EN  LC
-Apiaceae Helosciadium repens (Jacq.) W.D.J.Koch Ache rampante EN  NE
-Asteraceae Hieracium chaixianum Arv.-Touv. & Gaut. Epervière de Chaix X EN  NE
-Asteraceae Hieracium cichoriaceum Arv.-Touv. Epervière EN ? NE
-Asteraceae Hieracium gavellei de Retz Epervière X EN ? NE
-Asteraceae Hieracium leontodontoides Arv.-Touv. & Briq. Epervière fausse dent-de-lion EN ? NE
-Asteraceae Hieracium lychnitis Scheele Epervière EN ? NE
-Asteraceae Hieracium marsillyanum Arv.-Touv. X EN  NE
-Asteraceae Hieracium mollitum Arv.-Touv. Epervière EN  NE
-Asteraceae Hieracium oreiocephalum Zahn Epervière EN ? NE
-Asteraceae Hieracium plecophyllum Arv.-Touv. & Gaut. Epervière EN  NE
-Asteraceae Hieracium pulviscapum Arv.-Touv. X EN  NE
-Asteraceae Hieracium ravaudii Arv.-Touv. Epervière de Ravaud X EN  NE
-Asteraceae Hieracium sauzei (Arv.-Touv.) Arv.-Touv. Epervière de Sauze X EN  NE
-Asteraceae Hieracium segureum Arv.-Touv. Epervière de Ségure EN ? NE
-Hymenophyllaceae Hymenophyllum wilsonii Hook. Hyménophyllum de Wilson EN  LC
-Papaveraceae Hypecoum pendulum L. Cumin pendant EN  NE
-Asteraceae Inula helenioides DC. Inule faux-hélénium EN  NE
-Brassicaceae Isatis alpina Vill. Pastel des Alpes EN ? DD
-Isoetaceae Isoëtes boryana Durieu Isoète de Bory X EN  EN
-Juncaceae Juncus fontanesii J.Gay Jonc de Desfontaines EN  LC
-Malvaceae Kosteletzkya pentacarpos (L.) Ledeb. Kosteletzkya à cinq fruits EN  VU
-Asteraceae Lactuca quercina L. Laitue à feuilles de chêne EN ? LC
-Fabaceae Lathyrus nudicaulis (Wilk.) Amo Gesse des marais à tiges nues EN ? NE
-Fabaceae Lathyrus palustris L. Gesse des marais EN  NE
-Plumbaginaceae Limonium bonifaciense Arrigoni & Diana Statice de Bonifacio X EN  NE
-Plumbaginaceae Limonium florentinum Arrigoni & Diana Statice de Florence X EN  NE
-Plumbaginaceae Limonium tarcoense Arrigoni & Diana Saladelle de Tarco X EN  NE
-Linderniaceae Lindernia procumbens (Krock.) Philcox EN  LC
-Primulaceae Lysimachia tyrrhenia (Thore) U.Manns &
-Anderb. Mouron à feuilles charnues EN ? VU
-Lythraceae Lythrum thesioides M.Bieb. Salicaire faux-thésium EN ? EN
-Malvaceae Malva cretica Cav. Mauve de Crète EN  NE
-Marsileaceae Marsilea strigosa Willd. Marsilée pubescente EN ? VU
-Brassicaceae Matthiola valesiaca J.Gay ex Boiss. Matthiole du Valais EN  NE
-Caryophyllaceae Minuartia setacea (Thuill.) Hayek Alsine sétacée EN  NE
-Boraginaceae Myosotis speluncicola (Schott ex Boiss.) Rouy Myosotis des grottes EN  NE
-Ranunculaceae Nigella nigellastrum (L.) Willk. Garidelle fausse Nigelle EN  NE
-Boraginaceae Omphalodes linifolia (L.) Moench Omphalodès à feuilles de lin EN  NE
-Fabaceae Onobrychis arenaria (Kit. ex Willd.) DC. Sainfoin des sables EN  NE
-Boraginaceae Onosma arenaria Waldst. & Kit. Orcanette des sables EN  NE
-Orchidaceae Ophrys argensonensis Guérin & Merlet Ophrys de l'Argenson X EN  NE
-Orchidaceae Ophrys speculum Link Ophrys miroir EN ? LC
-Orobanchaceae Orobanche cyrnea Jeanm., Habashi & Manen Orobanche de Corse X EN  NE
-Orobanchaceae Orobanche salviae F.W.Schultz ex W.D.J.Koch Orobanche de la sauge EN  NE
-Orobanchaceae Orobanche staehelinae D.Pav., Michaud, Véla & J.-M.Tison Orobanche de la Staehéline X EN  NE
-Poaceae Parapholis marginata Runemark Parapholis marginé EN  NE
-Orobanchaceae Phelipanche camphorosmae Carlón, G.Gómez,
-M.Laínz, Moreno Mor., Ó.Sánchez & Schneew. Orobanche de la Camphorée EN  NE
-Orobanchaceae Phelipanche olbiensis (Coss.) Carlón, G.Gómez,
-M.Laínz, Moreno Mor. Ó.Sánchez & Schneew. Orobanche d'Hyères EN  NE
-Amaranthaceae Polycnemum arvense L. Petit polycnème EN ? NE
-Polygonaceae Polygonum romanum Jacq. Renouée de France EN ? LC
-Rosaceae Potentilla alsatica T.Gregor X EN  NE
-Rosaceae Potentilla heptaphylla L. Potentille à sept folioles EN ? NE
-Rosaceae Potentilla multifida L. Potentille à divisions nombreuses EN ? NE
-Primulaceae Primula halleri J.F.Gmel. Primevère de Haller EN ? NE
-Asteraceae Rhaponticoides alpina (L.) M.V.Agab. & Greuter Centaurée australe EN  NE
-Papaveraceae Roemeria hybrida (L.) DC. Roemérie hybride EN  NE
-Iridaceae Romulea arnaudii Moret Romulée d'Arnaud X EN ? NE
-Asparagaceae Ruscus hypoglossum L. EN  LC
-Asteraceae Scorzonera parviflora Jacq. Scorzonère à petites fleurs EN  NE
-Lamiaceae Scutellaria columnae All. Scutellaire de Colonna EN ? NE
-Crassulaceae Sedum nevadense Coss. Orpin de la Sierra Nevada EN  NE
-Crassulaceae Sedum pentandrum (DC.) Boreau EN  NE
-Asteraceae Senecio sarracenicus L. Séneçon des cours d'eau EN  NE
-Lamiaceae Sideritis littoralis Timb.-Lagr. Crapaudine des grèves X EN  NE
-Brassicaceae Sisymbrium polyceratium L. Sisymbre à nombreuses cornes EN  NE
-Caryophyllaceae Spergula diandra (Guss.) Murb. Spergulaire à deux étamines EN  NE
-Caryophyllaceae Spergula segetalis (L.) Vill. Spergulaire des moissons EN  NE
-Lamiaceae Stachys brachyclada Noë ex Coss. Epiaire à rameaux courts EN  NE
-Lamiaceae Stachys maritima Gouan Epiaire maritime EN  NE
-Lamiaceae Stachys salisii Jord. & Fourr. EN ? NE
-Amaryllidaceae Sternbergia colchiciflora Waldst. & Kit. Stenbergie à fleurs de colchique EN  LC
-Asteraceae Taraxacum irrigatum Kirschner & Štěpánek EN  NE
-Asteraceae Taraxacum pomposum Kirschner & Štěpánek X EN  NE
-Asteraceae Tephroseris palustris (L.) Fourr. Cinéraire des marais EN  NE
-Lamiaceae Teucrium aristatum Pérez Lara Germandrée aristée EN  NE
-Lamiaceae Teucrium fruticans L. Germandrée arbustive EN ? NE
-Lamiaceae Teucrium pseudochamaepitys L. Germandrée à allure de pin EN  NE
-Liliaceae Tulipa gesneriana L. Tulipe de Gesner EN  NE
-Apiaceae Turgenia latifolia (L.) Hoffm. Turgénie à larges feuilles EN  NE
-Caprifoliaceae Valerianella echinata (L.) DC. Mâche à piquants EN  NE
-Verbenaceae Verbena supina L. Verveine étalée EN ? NE
-Fabaceae Vicia glauca C.Presl Vesce glauque EN  NE
-Violaceae Viola elatior Fr. Violette élevée EN  NE
-Violaceae Viola persicifolia Schreb. Violette à feuilles de pêcher EN  NE
-Violaceae Viola pumila Chaix Petite violette EN  NE
-Blechnaceae Woodwardia radicans (L.) Sm. Woodwardia radicant EN  VU
-Amaryllidaceae Acis fabrei (Quézel & Girerd) Lledo, A.P.Davis &
-M.B.Crespo Nivéole de Fabre X VU  NE
-Ranunculaceae Adonis vernalis L. Grand Œil-de-bœuf VU  LC
-Brassicaceae Aethionema monospermum R.Br. VU  NE
-Brassicaceae Aethionema thomasianum J.Gay Aéthionème de Thomas VU ? NE
-Boraginaceae Alkanna lutea Moris Henné jaune VU ? NE
-Amaryllidaceae Allium corsicum Jauzein, J.-M.Tison, Deschâtres & H.Couderc Ail de Corse X VU ? CR
-Amaryllidaceae Allium cyrilli Ten. Ail de Cyrillo VU  DD
-Amaryllidaceae Allium nigrum L. Ail noir VU  LC
-Amaryllidaceae Allium strictum Schrad. Ail dressé VU  NE
-Pteridaceae Allosorus hispanicus (Mett.) Christenh. Cheilanthès d'Espagne VU  LC
-Poaceae Alopecurus arundinaceus Poir. Vulpin faux-roseau VU ? NE
-Brassicaceae Alyssum flexicaule Jord. X VU  NE
-Brassicaceae Alyssum rhodanense Jord. & Fourr. X VU  NE
-Orchidaceae Anacamptis palustris (Jacq.) R.M.Bateman,
-Pridgeon & M.W.Chase Orchis des marais VU  NE
-Plantaginaceae Anarrhinum laxiflorum Boiss. Muflier à fleurs lâches VU  NE
-Boraginaceae Anchusa crispa Viv. Buglosse crépue VU  EN
-Primulaceae Androsace elongata L. Androsace allongée VU  NE
-Primulaceae Androsace lactea L. Androsace couleur de lait VU  NE
-Asteraceae Andryala ragusina L. Andryale de Raguse VU  NE
-Ranunculaceae Anemone palmata L. Anémone palmée VU  NE
-Caryophyllaceae Arenaria ligericina Lecoq & Lamotte Sabline de Lozère VU ? NE
-Asteraceae Artemisia borealis Pall. Armoise septentrionale VU ? NE
-Asteraceae Artemisia molinieri Quézel, M.Barbero &
-R.J.Loisel Armoise de Molinier X VU ? VU
-Poaceae Arundo micrantha Lam. Canne de Pline VU ? NE
-Aspleniaceae Asplenium balearicum Shivas Doradille des Baléares VU  NT
-Fabaceae Astragalus glaux L. Astragale glaux VU  NE
-Fabaceae Astragalus leontinus Wulfen Astragale de Lienz VU  NE
-Asteraceae Atractylis cancellata L. Atractyle grillagé VU ? NE
-Brassicaceae Barbarea stricta Andrz. Barbarée stricte VU  LC
-Amaranthaceae Bassia laniflora (S.G.Gmel.) A.J.Scott Bassie à fleurs laineuses VU  NE
-Betulaceae Betula nana L. Bouleau nain VU  NE
-Brassicaceae Biscutella rotgesii Foucaud Lunetière de Rotgès X VU  NE
-Amaranthaceae Blitum virgatum L. Epinard-fraise en baguette VU ? NE
-Ophioglossaceae Botrychium matricariifolium (A.Braun ex Döll)
-W.D.J.Koch Botrychium à feuilles de Matricaire VU ? NT
-Ophioglossaceae Botrychium simplex E.Hitchc. Botryche simple VU ? EN
-Apiaceae Bupleurum gerardi All. Buplèvre de Gérard VU  NE
-Campanulaceae Campanula baumgartenii Becker Campanule de Baumgarten VU ? NE
-Campanulaceae Campanula cervicaria L. Campanule cervicaire VU  NE
-Campanulaceae Campanula jaubertiana Timb.-Lagr. Campanule de Jaubert VU  NE
-Cyperaceae Carex atrofusca Schkuhr Laîche brun-noirâtre VU ? NE
-Cyperaceae Carex dioica L. Laîche dioïque VU  NE
-Cyperaceae Carex melanostachya M.Bieb. ex Willd. Laîche à épi noir VU  NE
-Asteraceae Carpesium cernuum L. Carpésium penché VU  NE
-Asteraceae Centaurea dracunculifolia Dufour Centaurée à feuilles d'Estragon VU  NE
-Asteraceae Centaurea pseudocineraria (Fiori) Rouy Fausse Centaurée bleuâtre VU  NE
-Apiaceae Cicuta virosa L. Cigüe aquatique VU  LC
-Cistaceae Cistus inflatus Pourr. ex Demoly Ciste hirsute VU  NE
-Amaranthaceae Corispermum gallicum Iljin Corisperme de France X VU  NE
-Fabaceae Coronilla securidaca L. Sécurigère en hachette VU  NE
-Pteridaceae Cosentinia vellea (Aiton) Tod. Cosentinia velu VU  LC
-Rosaceae Cotoneaster delphinensis Chatenier Cotonéaster du Dauphiné VU  VU
-Asteraceae Crepis praemorsa (L.) Walther Crépide à rhizome VU  NE
-Iridaceae Crocus ligusticus Mariotti Crocus de Ligurie VU  NE
-Asteraceae Cynara cardunculus L. Cardon VU  LC
-Boraginaceae Cynoglossum pustulatum Boiss. Cynoglosse à pustules VU  NE
-Cynomoriaceae Cynomorium coccineum L. Cynomorium écarlate VU  NE
-Cyperaceae Cyperus serotinus Rottb. Souchet tardif VU  LC
-Orchidaceae Dactylorhiza sphagnicola (Höppner) Aver. Orchis des sphaignes VU  NE
-Alismataceae Damasonium polyspermum Coss. Etoile d'eau à nombreuses graines VU  VU
-Ranunculaceae Delphinium elatum L. Pied d'alouette élevé VU  NE
-Ranunculaceae Delphinium montanum DC. Pied d'alouette des Montagnes VU  NE
-Ranunculaceae Delphinium orientale J.Gay Pied-d'alouette d'Espagne VU ? NE
-Dryopteridaceae Dryopteris ardechensis Fraser-Jenk. Dryoptéris des Cévennes X VU  VU
-Dryopteridaceae Dryopteris tyrrhena Fraser-Jenk. & Reichst. Fougère chêne VU  NT
-Boraginaceae Echium montenielluense Delage Vipérine du Monte Niellu X VU ? NE
-Apiaceae Elaeoselinum meoides (Desf.) Koch ex DC. Eléosélin faux-baudremoine VU  NE
-Elatinaceae Elatine brochonii Clavaud Elatine de Brochon VU ? NE
-Orchidaceae Epipactis exilis P.Delforge Epipactis grêle VU  NE
-Ericaceae Erica erigena R.Ross Bruyère de l'ouest VU  NE
-Ericaceae Erica lusitanica Rudolphi Bruyère du Portugal VU  LC
-Cyperaceae Eriophorum gracile Koch ex Roth Linaigrette grêle VU  NT
-Geraniaceae Erodium lucidum Lapeyr. Erodium luisant VU  NE
-Geraniaceae Erodium rodiei (Braun-Blanq.) Poirion Erodium de Rodié X VU  NE
-Brassicaceae Erysimum incanum Kunze Vélar blanc VU  NE
-Caryophyllaceae Eudianthe coelirosa (L.) Rchb. Silène Rose-du-ciel VU ? NE
-Apiaceae Ferula arrigonii Bocchieri Férule d'Arrigoni VU  NE
-Poaceae Festuca amethystina L. Fétuque améthyste VU  NE
-Poaceae Festuca prudhommei Kerguélen & Plonka Fétuque de Prudhomme X VU ? NE
-Liliaceae Fritillaria moggridgei Baker Fritillaire de Moggridge VU ? NE
-Liliaceae Fritillaria montana Hoppe Fritillaire d'Orient VU  DD
-Liliaceae Gagea apulica Peruzzi & J.-M.Tison Gagée des Pouilles VU  NE
-Liliaceae Gagea luberonensis J.-M.Tison Gagée du Lubéron VU  NE
-Liliaceae Gagea polidorii J.-M.Tison Gagée de Polidori VU  NE
-Fabaceae Genista delphinensis Verl. Genêt ailé du Dauphiné VU  NE
-Fabaceae Genista horrida (Vahl) DC. Genêt-hérisson VU  NE
-Fabaceae Genista linifolia L. Genêt à feuilles de lin VU  NE
-Gentianaceae Gentiana utriculosa L. Gentiane à calice renflé VU  NE
-Gentianaceae Gentianella ramosa (Hegetschw.) Holub Gentianelle ramifiée VU  NE
-Geraniaceae Geranium divaricatum Ehrh. Géranium divariqué VU  NE
-Geraniaceae Geranium endressii J.Gay Géranium d'Endress VU  NE
-Asteraceae Geropogon hybridus (L.) Sch.Bip. Salsifis hybride VU ? NE
-Iridaceae Gladiolus palustris Gaudin Glaïeul des marais VU  DD
-Orchidaceae Gymnadenia odoratissima (L.) Rich. Gymnadenie odorante VU  LC
-Fabaceae Hedysarum glomeratum F.Dietr. Sainfoin à têtes VU  NE
-Cistaceae Helianthemum lunulatum (All.) DC. Hélianthème à lunules VU  NE
-Poaceae Helictotrichon cantabricum (Lag.) Gervais Avoine cantabrique VU  NE
-Orchidaceae Herminium monorchis (L.) R.Br. Orchis musc VU  DD
-Asteraceae Hieracium axiflorum Arv.-Touv. & Briq. Epervière VU  NE
-Asteraceae Hieracium burnatii Arv.-Touv. ex Burnat & Gremli Epervière de Burnat VU ? NE
-Asteraceae Hieracium caerulaceum Arv.-Touv. VU ? NE
-Asteraceae Hieracium canescens Link VU ? NE
-Asteraceae Hieracium cenisium Arv.-Touv. Epervière du mont Cenis VU ? NE
-Asteraceae Hieracium chaboissaei Arv.-Touv. Epervière de Chaboissau X VU ? NE
-Asteraceae Hieracium compositum Lapeyr. Epervière VU  NE
-Asteraceae Hieracium favratii Muret ex Gremli Epervière à feuilles de Consoude VU ? NE
-Asteraceae Hieracium isolanum (Besse & Zahn) Zahn Epervière VU  NE
-Asteraceae Hieracium lychnioides Arv.-Touv. Epervière faux Lychnis VU ? NE
-Asteraceae Hieracium muellerianum Arv.-Touv. & Gaut. VU  NE
-Asteraceae Hieracium oligocephalum Arv.-Touv. Epervière VU ? NE
-Asteraceae Hieracium rhaeticum Fr. VU  NE
-Asteraceae Hieracium sarretoides Arv.-Touv. & H.J.Coste Epervière X VU ? NE
-Asteraceae Hieracium speluncarum Arv.-Touv. Epervière VU  NE
-Asteraceae Hieracium thapsifolium Arv.-Touv. Epervière à feuilles de Molène VU ? NE
-Asteraceae Hieracium tomentellum Nägeli & Peter Epervière VU ? NE
-Asteraceae Hieracium viride Arv.-Touv. Epervière verte VU  NE
-Fabaceae Hippocrepis multisiliquosa L. Fer-à-cheval à fruits nombreux VU  NE
-Brassicaceae Hormathophylla pyrenaica (Lapeyr.) Dudley
-& Cullen Alysson des Pyrénées X VU  VU
-Asteraceae Hyoseris scabra L. Chicorée scabre VU ? NE
-Brassicaceae Iberis timeroyi Jord. Ibéris de Timeroy X VU  NE
-Iridaceae Iris sibirica L. Iris de Sibérie VU ? NT
-Isoetaceae Isoëtes echinospora Durieu Isoète à spores spinuleuses VU  LC
-Isoetaceae Isoëtes setacea Lam. Isoète grêle VU  NT
-Asteraceae Jacobaea uniflora (All.) Veldkamp Séneçon de Haller VU ? NE
-Asteraceae Klasea lycopifolia (Vill.) Á.Löve & D.Löve Serratule à feuilles de Chanvre d'eau VU  DD
-Lamiaceae Lamium gevorense (Gómez Hern.) Gómez
-Hern. & A.Pujadas VU ? NE
-Apiaceae Laser trilobum (L.) Borkh. ex G.Gaertn., B.Mey.
-& Scherb. Laser à feuilles à trois lobes VU  NE
-Asteraceae Leucanthemum crassifolium (Lange) Willk. VU ? NE
-Asteraceae Leucanthemum meridionale D.Legrand Marguerite du Midi X VU  NE
-Plumbaginaceae Limonium humile Mill. Statice humble VU  NE
-Plumbaginaceae Limonium lambinonii Erben X VU  NE
-Plumbaginaceae Limonium patrimoniense Arrigoni & Diana Saladelle du Cap Patrimoniu X VU  NE
-Plumbaginaceae Limonium strictissimum (Salzm.) Arrigoni Statice à rameaux raides VU  EN
-Caprifoliaceae Linnaea borealis L. Linnée boréale VU  NE
-Caryophyllaceae Loeflingia hispanica L. Loeflingie d'Espagne VU  NE
-Lycopodiaceae Lycopodium issleri (Rouy) Domin Lycopode d'Issler VU  NT
-Lycopodiaceae Lycopodium oellgaardii (Stoor, Boudrie,
-Jérôme, K.Horn & Bennert) B.Bock Lycopode d'Øllgaard VU  NT
-Lycopodiaceae Lycopodium zeilleri (Rouy) Greuter & Burdet Lycopode de Zeiller VU  NT
-Primulaceae Lysimachia thyrsiflora L. Lysimaque à fleurs en épi VU  LC
-Brassicaceae Malcolmia africana (L.) R.Br. Malcolmie d'Afrique VU ? NE
-Brassicaceae Maresia nana (DC.) Batt. Malcolmie naine VU  NE
-Onocleaceae Matteuccia struthiopteris (L.) Tod. Fougère à plumes d'autruche VU  LC
-Fabaceae Medicago ciliaris (L.) All. Luzerne ciliée VU  LC
-Fabaceae Medicago tenoreana Ser. Luzerne de Tenore VU  LC
-Fabaceae Melilotus messanensis (L.) All. Mélilot de Sicile VU  NE
-Caryophyllaceae Minuartia montana L. Alsine de montagnes VU  NE
-Caryophyllaceae Minuartia viscosa (Schreb.) Schinz & Thell. Minuartie visqueuse VU ? NE
-Caryophyllaceae Moehringia lebrunii Merxm. Sabline de Le Brun VU  NE
-Brassicaceae Murbeckiella zanonii (Ball) Rothm. VU ? NE
-Plumbaginaceae Myriolimon diffusum (Pourr.) Lledó, Erben &
-M.B.Crespo Limonium diffus VU  NE
-Orchidaceae Neotinea conica (Willd.) R.M.Bateman Orchis conique VU  NE
-Nymphaeaceae Nuphar pumila (Timm) DC. Nénuphar nain VU  LC
-Orobanchaceae Odontites cebennensis H.J.Coste & Soulié Odontite des Causses VU  NE
-Apiaceae Oenanthe fluviatilis (Bab.) Coleman Oenanthe des fleuves VU  NT
-Fabaceae Ononis diffusa Ten. Bugrane diffuse VU  NE
-Fabaceae Ononis viscosa L. Bugrane visqueux VU ? NE
-Orchidaceae Ophrys philippei Gren. Ophrys du Gapeau X VU  NE
-Orchidaceae Ophrys tenthredinifera Willd. Ophrys tenthrède VU  LC
-Orchidaceae Orchis langei K.Richt. Orchis de Lange VU  NE
-Orchidaceae Orchis pauciflora Ten. Orchis à fleurs peu nombreuses VU  LC
-Asparagaceae Ornithogalum exscapum Ten. VU  NE
-Orobanchaceae Orobanche bartlingii Griseb. Orobanche de Bartling VU  NE
-Orobanchaceae Orobanche flava Mart. ex F.W.Schultz Orobanche jaune clair VU  NE
-Orobanchaceae Orobanche montserratii A.Pujadas & D.Gómez VU  NE
-Orobanchaceae Orobanche pubescens d'Urv. Orobanche pubescente VU  NE
-Orobanchaceae Orobanche serbica Beck & Petrovic Orobanche VU  NE
-Paeoniaceae Paeonia mascula (L.) Mill. Pivoine mâle VU  LC
-Orobanchaceae Pedicularis recutita L. Pédiculaire tronquée VU  NE
-Poaceae Phalaris brachystachys Link Alpiste à épi court VU ? NE
-Orobanchaceae Phelipanche cernua (Loefl.) Pomel Orobanche inattendue VU ? NE
-Orobanchaceae Phelipanche lavandulacea (F.W.Schultz) Pomel Orobanche couleur de Lavande VU  NE
-Poaceae Phleum subulatum (Savi) Asch. & Graebn. Phléole subulée VU ? NE
-Campanulaceae Phyteuma cordatum Balb. Raiponce en forme de cœur VU  NE
-Asteraceae Picris rhagadioloides (L.) Desf. Picride très élevée VU  NE
-Marsileaceae Pilularia minuta Durieu Pilulaire délicate VU  EN
-Apiaceae Pimpinella lutea Desf. Pimpinelle jaune VU  NE
-Apiaceae Pimpinella siifolia Leresche Pimpinelle à feuilles de Sium VU ? NE
-Lentibulariaceae Pinguicula reichenbachiana Schindl. Grassette de Reichenbach VU  LC
-Plantaginaceae Plantago cornutii Gouan Plantain de Cornut VU ? NE
-Potamogetonaceae Potamogeton compressus L. Potamot à tige comprimée VU  DD
+Asteraceae Filago neglecta Cotonnière négligée EX NE
+Violaceae Viola cryana Violette de Cry X EX EX
+Orchidaceae Anacamptis collina Orchis à bourse RE LC
+Ophioglossaceae Botrychium lanceolatum Botrychium lancéolé RE VU
+Poaceae Bromus grossus Brome à fleurs nombreuses RE DD
+Brassicaceae Camelina alyssum Caméline alysson RE DD
+Asteraceae Carlina gummifera Carline à gomme RE NE
+Ericaceae Chimaphila umbellata Pyrole en ombelle RE VU
+Geraniaceae Erodium salzmannii Erodium de Salzmann RE NE
+Cyperaceae Fimbristylis bisumbellata Fimbristylis à deux ombelles RE LC
+Poaceae Gastridium scabrum Gastridie rude RE NE
+Asteraceae Hieracium sandozianum Epervière de Sandoz RE NE
+Plantaginaceae Linaria chalepensis Linaire d'Alep RE NE
+Poaceae Lolium remotum Ivraie du lin RE NE
+Lycopodiaceae Lycopodium complanatum Lycopode aplati RE LC
+Lythraceae Lythrum virgatum Lythrum en forme de baguette RE LC
+Caryophyllaceae Minuartia stricta Minuartie dressée RE NE
+Boraginaceae Myosotis rehsteineri NULL RE EN
+Orobanchaceae Odontites litoralis RE NE
+Potamogetonaceae Potamogeton rutilus Potamot rougeâtre RE NT
+Polygonaceae Rumex tuberosus Oseille tubéreuse RE NE
+Cyperaceae Scirpus radicans Scirpe radicant RE DD
+Caprifoliaceae Succisella inflexa Succiselle infléchie RE NE
+Asteraceae Taraxacum balticiforme Pissenlit de Neudorf RE NE
+Cyperaceae Cyperus laevigatus Souchet à deux épis CR ? NE
+Asteraceae Filago carpetana Evax à fruits hirsutes CR ? NE
+Asteraceae Helichrysum arenarium Immortelle des sables CR ? NT
+Fabaceae Lathyrus inconspicuus Gesse à petites fleurs CR ? NE
+Plantaginaceae Linaria triphylla Linaire à feuilles par trois CR ? NE
+Fabaceae Lotus tetragonolobus Lotier pourpre CR ? NE
+Apiaceae Ridolfia segetum Aneth des moissons CR ? NE
+Saxifragaceae Saxifraga seguieri Saxifrage de Seguier CR ? NE
+Ophioglossaceae Sceptridium multifidum Botryche à feuilles de rue CR ? LC
+Amaryllidaceae Allium suaveolens Ail odorant CR ? LC
+Amaryllidaceae Allium tenuiflorum Ail à petites fleurs CR ? NE
+Aristolochiaceae Aristolochia clusii Aristoloche de l'Escluse CR ? NE
+Plumbaginaceae Armeria belgenciensis Kerguélen Armérie de Belgentier X CR ? NE
+Asteraceae Artemisia insipida Armoise insipide X CR ? CR
+Aspleniaceae Asplenium cuneifolium Doradille cunéiformes CR ? NE
+Asparagaceae Bellevalia ciliata Bellevalia ciliée CR ? NE
+Fabaceae Biserrula epiglottis Astragale épiglotte CR ? NE
+Brassicaceae Brassica elongata Chou allongé CR ? DD
+Cyperaceae Carex glacialis Laîche des glaciers CR ? NE
+Gentianaceae Centaurium chloodes Petite centaurée à fleurs serrées CR ? NE
+Cyperaceae Cyperus flavidus Souchet jaune CR ? NE
+Orchidaceae Dactylorhiza brennensis Orchis de la Brenne X CR ? NE
+Dryopteridaceae Dryopteris pallida Dryoptéris pâle CR ? LC
+Apiaceae Eryngium pusillum Panicaut de Barrelier CR ? NE
+Apiaceae Eryngium viviparum Panicaut vivipare CR ? EN
+Rosaceae Geum heterocarpum Benoîte à fruits divers CR ? NE
+Asteraceae Hieracium issleri NULL CR ? NE
+Convolvulaceae Ipomoea sagittata Ipomée sagittée CR ? VU
+Iridaceae Iris xiphium Iris à feuilles en forme de glaive CR ? DD
+Asteraceae Jacobaea persoonii Séneçon de Persoon CR ? NE
+Apiaceae Kadenia dubia Lavrova Sélin douteux CR ? NE
+Fabaceae Lathyrus amphicarpos Gesse à deux types de fruits CR ? NT
+Plumbaginaceae Limonium portovecchiense Statice de Porto-Vecchio X CR ? NE
+Poaceae Lolium temulentum Ivraie enivrante CR ? LC
+Saxifragaceae Micranthes hieraciifolia Saxifrage à feuilles d'Épervière CR ? NE
+Ranunculaceae Nigella arvensis Nigelle des champs CR ? NE
+Asteraceae Notobasis syriaca Notobasis de Syrie CR ? NE
+Boraginaceae Onosma helvetica Orcanette vaudoise CR ? NE
+Orchidaceae Ophrys iricolor CR ? NE
+Ranunculaceae Ranunculus sylviae Renoncule de Sylvie X CR ? NE
+Iridaceae Romulea ligustica Romulée de Ligurie CR ? NE
+Saxifragaceae Saxifraga giziana Saxifrage de Gizia X CR ? NE
+Saxifragaceae Saxifraga hirculus Saxifrage œil-de-bouc CR ? DD
+Saxifragaceae Saxifraga rosacea Saxifrage trompeuse CR ? NE
+Caryophyllaceae Silene muscipula Silène attrape-mouches CR ? NE
+Asteraceae Taraxacum atrolivaceum NULL X CR ? NE
+Asteraceae Taraxacum ferale NULL X CR ? NE
+Asteraceae Taraxacum odiosum NULL X CR ? NE
+Plantaginaceae Veronica longifolia Véronique à longues feuilles CR ? NE
+Violaceae Viola hispida Violette de Rouen X CR ? CR
+Woodsiaceae Woodsia ilvensis Woodsie d'Elbe CR ? LC
+Amaryllidaceae Acis nicaeensis Nivéole de Nice X EN ? EN
+Poaceae Agropyron cristatum Chiendent pectiné EN ? LC
+Amaryllidaceae Allium angulosum Ail à tige anguleuse EN ? LC
+Amaryllidaceae Allium consimile Ail semblable EN ? NE
+Poaceae Antinoria agrostidea Canche faux agrostis EN ? NE
+Brassicaceae Arabis parvula NULL EN ? NE
+Poaceae Arundo donaciformis Canne de Pline EN ? NE
+Rubiaceae Asperula arvensis Aspérule des champs EN ? NE
+Rubiaceae Asperula capillacea Aspérule capillaire X EN ? NE
+Aspleniaceae Asplenium lepidum Doradille élégante EN ? NT
+Aspleniaceae Asplenium seelosii Doradille de Seelos EN ? NT
+Fabaceae Astragalus alopecuroides Astragale de Narbonne EN ? NE
+Fabaceae Astragalus tragacantha Astragale de Marseille EN ? NE
+Asparagaceae Bellevalia trifoliata Jacinthe à trois feuilles EN ? NE
+Apiaceae Bifora testiculata Bifora testiculé EN ? NE
+Brassicaceae Biscutella divionensis Lunetière de Dijon X EN ? NE
+Apiaceae Bupleurum subovatum Buplèvre ovale EN ? NE
+Poaceae Calamagrostis neglecta Calamagrostide négligée EN ? NE
+Asteraceae Carduus fasciculiflorus Chardon à fleurs fasciculées EN ? NE
+Cyperaceae Carex chordorrhiza Laîche à longs rhizomes EN  LC
+Cyperaceae Carex fritschii Laîche de Fritsch EN  NE
+Cyperaceae Carex heleonastes Étoile des marais EN  NE
+Cyperaceae Carex hordeistichos Laîche à épis d'orge EN  NE
+Cyperaceae Carex vaginata Laîche à feuilles engainantes EN ? NE
+Asteraceae Centaurea corymbosa Centaurée de la Clape X EN  VU
+
+
+Gentianaceae Centaurium favargeri Petite centaurée de Favarger EN ? NE
+Caprifoliaceae Centranthus trinervis Centranthe à trois nervures X EN  EN
+Caryophyllaceae Cerastium ligusticum Céraiste de Ligurie EN  NE
+Colchicaceae Colchicum filifolium Mérendère à feuilles filiformes EN  NE
+Brassicaceae Conringia orientalis Vélar d'Orient EN  NE
+Convolvulaceae Cuscuta monogyna Cuscute à un style EN ? NE
+Alismataceae Damasonium alisma Étoile d'eau EN  NT
+Ranunculaceae Delphinium ajacis Dauphinelle des jardins EN ? NE
+Caryophyllaceae Dianthus gyspergerae Œillet fourchu de Gysperger X EN ? NE
+Brassicaceae Draba incana Drave blanchâtre EN  NE
+Dryopteridaceae Dryopteris cristata Dryoptéris à crêtes EN  LC
+Elatinaceae Elatine hydropiper Élatine poivre-d'eau EN  LC
+Elatinaceae Elatine triandra Élatine à trois étamines EN ? LC
+Orchidaceae Epipactis fibri Épipactis des castors X EN  NE
+Fabaceae Erinacea anthyllis Cytise hérisson EN  NE
+Geraniaceae Erodium laciniatum Érodium à feuilles découpées EN  NE
+Liliaceae Gagea pomeranica Gagée de Poméranie EN  NE
+Rubiaceae Galium trifidum Gaillet trifide EN  NE
+Fabaceae Genista aetnensis Genêt de l'Etna EN  LC
+Geraniaceae Geranium bohemicum Géranium de Bohême EN ? NE
+Iridaceae Gladiolus imbricatus Glaïeul imbriqué EN  NE
+Orchidaceae Hammarbya paludosa Malaxis des tourbières EN  LC
+Apiaceae Helosciadium repens Ache rampante EN  NE
+Asteraceae Hieracium chaixianum Épervière de Chaix X EN  NE
+Asteraceae Hieracium cichoriaceum Épervière EN ? NE
+Asteraceae Hieracium gavellei de Retz Épervière X EN ? NE
+Asteraceae Hieracium leontodontoides Épervière fausse dent-de-lion EN ? NE
+Asteraceae Hieracium lychnitis Scheele Épervière EN ? NE
+Asteraceae Hieracium marsillyanum X EN  NE
+Asteraceae Hieracium mollitum Épervière EN  NE
+Asteraceae Hieracium oreiocephalum Zahn Épervière EN ? NE
+Asteraceae Hieracium plecophyllum Épervière EN  NE
+Asteraceae Hieracium pulviscapum X EN  NE
+Asteraceae Hieracium ravaudii Épervière de Ravaud X EN  NE
+Asteraceae Hieracium sauzei Épervière de Sauze X EN  NE
+Asteraceae Hieracium segureum Épervière de Ségure EN ? NE
+Hymenophyllaceae Hymenophyllum wilsonii Hyménophyllum de Wilson EN  LC
+Papaveraceae Hypecoum pendulum Cumin pendant EN  NE
+Asteraceae Inula helenioides Inule faux-hélénium EN  NE
+Brassicaceae Isatis alpina Pastel des Alpes EN ? DD
+Isoetaceae Isoëtes boryana Isoète de Bory X EN  EN
+Juncaceae Juncus fontanesii Jonc de Desfontaines EN  LC
+Malvaceae Kosteletzkya pentacarpos Kosteletzkya à cinq fruits EN  VU
+Asteraceae Lactuca quercina Laitue à feuilles de chêne EN ? LC
+Fabaceae Lathyrus nudicaulis Gesse des marais à tiges nues EN ? NE
+Fabaceae Lathyrus palustris Gesse des marais EN  NE
+Plumbaginaceae Limonium bonifaciense Statice de Bonifacio X EN  NE
+Plumbaginaceae Limonium florentinum Statice de Florence X EN  NE
+Plumbaginaceae Limonium tarcoense Saladelle de Tarco X EN  NE
+Linderniaceae Lindernia procumbens EN  LC
+Primulaceae Lysimachia tyrrhenia Mouron à feuilles charnues EN ? VU
+Lythraceae Lythrum thesioides Salicaire faux-thésium EN ? EN
+Malvaceae Malva cretica Mauve de Crète EN  NE
+Marsileaceae Marsilea strigosa Marsilée pubescente EN ? VU
+Brassicaceae Matthiola valesiaca Matthiole du Valais EN  NE
+Caryophyllaceae Minuartia setacea Alsine sétacée EN  NE
+Boraginaceae Myosotis speluncicola Myosotis des grottes EN  NE
+Ranunculaceae Nigella nigellastrum Garidelle fausse Nigelle EN  NE
+Boraginaceae Omphalodes linifolia Omphalodès à feuilles de lin EN  NE
+Fabaceae Onobrychis arenaria Sainfoin des sables EN  NE
+Boraginaceae Onosma arenaria Orcanette des sables EN  NE
+Orchidaceae Ophrys argensonensis Ophrys de l'Argenson X EN  NE
+Orchidaceae Ophrys speculum Ophrys miroir EN ? LC
+Orobanchaceae Orobanche cyrnea Orobanche de Corse X EN  NE
+Orobanchaceae Orobanche salviae Orobanche de la sauge EN  NE
+Orobanchaceae Orobanche staehelinae Orobanche de la Staehéline X EN  NE
+Poaceae Parapholis marginata Parapholis marginé EN  NE
+Orobanchaceae Phelipanche camphorosmae Orobanche de la Camphorée EN  NE
+Orobanchaceae Phelipanche olbiensis Orobanche d'Hyères EN  NE
+Amaranthaceae Polycnemum arvense Petit polycnème EN ? NE
+Polygonaceae Polygonum romanum Renouée de France EN ? LC
+Rosaceae Potentilla alsatica Potentille alsatique X EN  NE
+Rosaceae Potentilla heptaphylla Potentille à sept folioles EN ? NE
+Rosaceae Potentilla multifida Potentille à divisions nombreuses EN ? NE
+Primulaceae Primula halleri Primevère de Haller EN ? NE
+Asteraceae Rhaponticoides alpina Centaurée australe EN  NE
+Papaveraceae Roemeria hybrida Roemérie hybride EN  NE
+Iridaceae Romulea arnaudii Romulée d'Arnaud X EN ? NE
+Asparagaceae Ruscus hypoglossum EN  LC
+Asteraceae Scorzonera parviflora Scorzonère à petites fleurs EN  NE
+Lamiaceae Scutellaria columnae Scutellaire de Colonna EN ? NE
+Crassulaceae Sedum nevadense Orpin de la Sierra Nevada EN  NE
+Crassulaceae Sedum pentandrum EN  NE
+Asteraceae Senecio sarracenicus Séneçon des cours d'eau EN  NE
+Lamiaceae Sideritis littoralis Crapaudine des grèves X EN  NE
+Brassicaceae Sisymbrium polyceratium Sisymbre à nombreuses cornes EN  NE
+Caryophyllaceae Spergula diandra Spergulaire à deux étamines EN  NE
+Caryophyllaceae Spergula segetalis Spergulaire des moissons EN  NE
+Lamiaceae Stachys brachyclada Epiaire à rameaux courts EN  NE
+Lamiaceae Stachys maritima Epiaire maritime EN  NE
+Lamiaceae Stachys salisii EN ? NE
+Amaryllidaceae Sternbergia colchiciflora Stenbergie à fleurs de colchique EN  LC
+Asteraceae Taraxacum irrigatum EN  NE
+Asteraceae Taraxacum pomposum EN  NE
+Asteraceae Tephroseris palustris Cinéraire des marais EN  NE
+Lamiaceae Teucrium aristatum Germandrée aristée EN  NE
+Lamiaceae Teucrium fruticans Germandrée arbustive EN ? NE
+
+
+Lamiaceae Teucrium pseudochamaepitys Germandrée à allure de pin EN  NE
+Liliaceae Tulipa gesneriana Tulipe de Gesner EN  NE
+Apiaceae Turgenia latifolia Turgénie à larges feuilles EN  NE
+Caprifoliaceae Valerianella echinata Mâche à piquants EN  NE
+Verbenaceae Verbena supina Verveine étalée EN ? NE
+Fabaceae Vicia glauca Vesce glauque EN  NE
+Violaceae Viola elatior Violette élevée EN  NE
+Violaceae Viola persicifolia Violette à feuilles de pêcher EN  NE
+Violaceae Viola pumila Petite violette EN  NE
+Blechnaceae Woodwardia radicans Woodwardia radicant EN  VU
+Amaryllidaceae Acis fabrei Nivéole de Fabre X VU  NE
+Ranunculaceae Adonis vernalis Grand Œil-de-bœuf VU  LC
+Brassicaceae Aethionema monospermum Aéthionème de Thomas VU ? NE
+Brassicaceae Aethionema thomasianum Aéthionème de Thomas VU ? NE
+Boraginaceae Alkanna lutea Henné jaune VU ? NE
+Amaryllidaceae Allium corsicum Ail de Corse X VU ? CR
+Amaryllidaceae Allium cyrilli Ail de Cyrillo VU  DD
+Amaryllidaceae Allium nigrum Ail noir VU  LC
+Amaryllidaceae Allium strictum Ail dressé VU  NE
+Pteridaceae Allosorus hispanicus Cheilanthès d'Espagne VU  LC
+Poaceae Alopecurus arundinaceus Vulpin faux-roseau VU ? NE
+Brassicaceae Alyssum flexicaule X VU  NE
+Brassicaceae Alyssum rhodanense X VU  NE
+Orchidaceae Anacamptis palustris Orchis des marais VU  NE
+Plantaginaceae Anarrhinum laxiflorum Muflier à fleurs lâches VU  NE
+Boraginaceae Anchusa crispa Buglosse crépue VU  EN
+Primulaceae Androsace elongata Androsace allongée VU  NE
+Primulaceae Androsace lactea Androsace couleur de lait VU  NE
+Asteraceae Andryala ragusina Andryale de Raguse VU  NE
+Ranunculaceae Anemone palmata Anémone palmée VU  NE
+Caryophyllaceae Arenaria ligericina Sabline de Lozère VU ? NE
+Asteraceae Artemisia borealis Armoise septentrionale VU ? NE
+Asteraceae Artemisia molinieri Armoise de Molinier X VU ? VU
+Poaceae Arundo micrantha Canne de Pline VU ? NE
+Aspleniaceae Asplenium balearicum Doradille des Baléares VU  NT
+Fabaceae Astragalus glaux Astragale glaux VU  NE
+Fabaceae Astragalus leontinus Astragale de Lienz VU  NE
+Asteraceae Atractylis cancellata Atractyle grillagé VU ? NE
+Brassicaceae Barbarea stricta Barbarée stricte VU  LC
+Amaranthaceae Bassia laniflora Bassie à fleurs laineuses VU  NE
+Betulaceae Betula nana Bouleau nain VU  NE
+Brassicaceae Biscutella rotgesii Lunetière de Rotgès X VU  NE
+Amaranthaceae Blitum virgatum Epinard-fraise en baguette VU ? NE
+Ophioglossaceae Botrychium matricariifolium Botrychium à feuilles de Matricaire VU ? NT
+Ophioglossaceae Botrychium simplex Botryche simple VU ? EN
+Apiaceae Bupleurum gerardi Buplèvre de Gérard VU  NE
+Campanulaceae Campanula baumgartenii Campanule de Baumgarten VU ? NE
+Campanulaceae Campanula cervicaria Campanule cervicaire VU  NE
+Campanulaceae Campanula jaubertiana Campanule de Jaubert VU  NE
+Cyperaceae Carex atrofusca Laîche brun-noirâtre VU ? NE
+Cyperaceae Carex dioica Laîche dioïque VU  NE
+Cyperaceae Carex melanostachya Laîche à épi noir VU  NE
+Asteraceae Carpesium cernuum Carpésium penché VU  NE
+Asteraceae Centaurea dracunculifolia Centaurée à feuilles d'Estragon VU  NE
+Asteraceae Centaurea pseudocineraria Fausse Centaurée bleuâtre VU  NE
+Apiaceae Cicuta virosa Cigüe aquatique VU  LC
+Cistaceae Cistus inflatus Ciste hirsute VU  NE
+Amaranthaceae Corispermum gallicum Corisperme de France X VU  NE
+Fabaceae Coronilla securidaca Sécurigère en hachette VU  NE
+Pteridaceae Cosentinia vellea Cosentinia velu VU  LC
+Rosaceae Cotoneaster delphinensis Cotonéaster du Dauphiné VU  VU
+Asteraceae Crepis praemorsa Crépide à rhizome VU  NE
+Iridaceae Crocus ligusticus Crocus de Ligurie VU  NE
+Asteraceae Cynara cardunculus Cardon VU  LC
+Boraginaceae Cynoglossum pustulatum Cynoglosse à pustules VU  NE
+Cynomoriaceae Cynomorium coccineum Cynomorium écarlate VU  NE
+Cyperaceae Cyperus serotinus Souchet tardif VU  LC
+Orchidaceae Dactylorhiza sphagnicola Orchis des sphaignes VU  NE
+Alismataceae Damasonium polyspermum Etoile d'eau à nombreuses graines VU  VU
+Ranunculaceae Delphinium elatum Pied d'alouette élevé VU  NE
+Ranunculaceae Delphinium montanum Pied d'alouette des Montagnes VU  NE
+Ranunculaceae Delphinium orientale Pied-d'alouette d'Espagne VU ? NE
+Dryopteridaceae Dryopteris ardechensis Dryoptéris des Cévennes X VU  VU
+Dryopteridaceae Dryopteris tyrrhena Fougère chêne VU  NT
+Boraginaceae Echium montenielluense Vipérine du Monte Niellu X VU ? NE
+Apiaceae Elaeoselinum meoides Eléosélin faux-baudremoine VU  NE
+Elatinaceae Elatine brochonii Elatine de Brochon VU ? NE
+Orchidaceae Epipactis exilis Epipactis grêle VU  NE
+Ericaceae Erica erigena Bruyère de l'ouest VU  NE
+Ericaceae Erica lusitanica Bruyère du Portugal VU  LC
+Cyperaceae Eriophorum gracile Linaigrette grêle VU  NT
+Geraniaceae Erodium lucidum Erodium luisant VU  NE
+Geraniaceae Erodium rodiei Erodium de Rodié X VU  NE
+Brassicaceae Erysimum incanum Vélar blanc VU  NE
+Caryophyllaceae Eudianthe coelirosa Silène Rose-du-ciel VU ? NE
+Apiaceae Ferula arrigonii Férule d'Arrigoni VU  NE
+Poaceae Festuca amethystina Fétuque améthyste VU  NE
+Poaceae Festuca prudhommei Fétuque de Prudhomme X VU ? NE
+Liliaceae Fritillaria moggridgei Fritillaire de Moggridge VU ? NE
+Liliaceae Fritillaria montana Fritillaire d'Orient VU  DD
+Liliaceae Gagea apulica Gagée des Pouilles VU  NE
+Liliaceae Gagea luberonensis Gagée du Lubéron VU  NE
+Liliaceae Gagea polidorii Gagée de Polidori VU  NE
+Fabaceae Genista delphinensis Genêt ailé du Dauphiné VU  NE
+Fabaceae Genista horrida Genêt-hérisson VU  NE
+
+
+Fabaceae Genista linifolia Genêt à feuilles de lin VU  NE
+Gentianaceae Gentiana utriculosa Gentiane à calice renflé VU  NE
+Gentianaceae Gentianella ramosa Gentianelle ramifiée VU  NE
+Geraniaceae Geranium divaricatum Géranium divariqué VU  NE
+Geraniaceae Geranium endressii Géranium d'Endress VU  NE
+Asteraceae Geropogon hybridus Salsifis hybride VU ? NE
+Iridaceae Gladiolus palustris Glaïeul des marais VU  DD
+Orchidaceae Gymnadenia odoratissima Gymnadenie odorante VU  LC
+Fabaceae Hedysarum glomeratum Sainfoin à têtes VU  NE
+Cistaceae Helianthemum lunulatum Hélianthème à lunules VU  NE
+Poaceae Helictotrichon cantabricum Avoine cantabrique VU  NE
+Orchidaceae Herminium monorchis Orchis musc VU  DD
+Asteraceae Hieracium axiflorum Epervière VU  NE
+Asteraceae Hieracium burnatii Epervière de Burnat VU ? NE
+Asteraceae Hieracium caerulaceum NULL VU ? NE
+Asteraceae Hieracium canescens Epervière du mont Cenis VU ? NE
+Asteraceae Hieracium cenisium Epervière du mont Cenis VU ? NE
+Asteraceae Hieracium chaboissaei Epervière de Chaboissau X VU ? NE
+Asteraceae Hieracium compositum Epervière VU  NE
+Asteraceae Hieracium favratii Epervière à feuilles de Consoude VU ? NE
+Asteraceae Hieracium isolanum Epervière VU  NE
+Asteraceae Hieracium lychnioides Epervière faux Lychnis VU ? NE
+Asteraceae Hieracium muellerianum Epervière VU  NE
+Asteraceae Hieracium oligocephalum Epervière VU ? NE
+Asteraceae Hieracium rhaeticum NULL VU  NE
+Asteraceae Hieracium sarretoides Epervière X VU ? NE
+Asteraceae Hieracium speluncarum Epervière VU  NE
+Asteraceae Hieracium thapsifolium Epervière à feuilles de Molène VU ? NE
+Asteraceae Hieracium tomentellum Epervière VU ? NE
+Asteraceae Hieracium viride Epervière verte VU  NE
+Fabaceae Hippocrepis multisiliquosa Fer-à-cheval à fruits nombreux VU  NE
+Brassicaceae Hormathophylla pyrenaica Alysson des Pyrénées X VU  VU
+Asteraceae Hyoseris scabra Chicorée scabre VU ? NE
+Brassicaceae Iberis timeroyi Ibéris de Timeroy X VU  NE
+Iridaceae Iris sibirica Iris de Sibérie VU ? NT
+Isoetaceae Isoëtes echinospora Isoète à spores spinuleuses VU  LC
+Isoetaceae Isoëtes setacea Isoète grêle VU  NT
+Asteraceae Jacobaea uniflora Séneçon de Haller VU ? NE
+Asteraceae Klasea lycopifolia Serratule à feuilles de Chanvre d'eau VU  DD
+Lamiaceae Lamium gevorense NULL VU ? NE
+Apiaceae Laser trilobum Laser à feuilles à trois lobes VU  NE
+Asteraceae Leucanthemum crassifolium NULL VU ? NE
+Asteraceae Leucanthemum meridionale Marguerite du Midi X VU  NE
+Plumbaginaceae Limonium humile Statice humble VU  NE
+Plumbaginaceae Limonium lambinonii Saladelle du Cap Patrimoniu X VU  NE
+Plumbaginaceae Limonium patrimoniense Saladelle du Cap Patrimoniu X VU  NE
+Plumbaginaceae Limonium strictissimum Statice à rameaux raides VU  EN
+Caprifoliaceae Linnaea borealis Linnée boréale VU  NE
+Caryophyllaceae Loeflingia hispanica Loeflingie d'Espagne VU  NE
+Lycopodiaceae Lycopodium issleri Lycopode d'Issler VU  NT
+Lycopodiaceae Lycopodium oellgaardii Lycopode d'Øllgaard VU  NT
+Lycopodiaceae Lycopodium zeilleri Lycopode de Zeiller VU  NT
+Primulaceae Lysimachia thyrsiflora Lysimaque à fleurs en épi VU  LC
+Brassicaceae Malcolmia africana Malcolmie d'Afrique VU ? NE
+Brassicaceae Maresia nana Malcolmie naine VU  NE
+Onocleaceae Matteuccia struthiopteris Fougère à plumes d'autruche VU  LC
+Fabaceae Medicago ciliaris Luzerne ciliée VU  LC
+Fabaceae Medicago tenoreana Luzerne de Tenore VU  LC
+Fabaceae Melilotus messanensis Mélilot de Sicile VU  NE
+Caryophyllaceae Minuartia montana Alsine de montagnes VU  NE
+Caryophyllaceae Minuartia viscosa Minuartie visqueuse VU ? NE
+Caryophyllaceae Moehringia lebrunii Sabline de Le Brun VU  NE
+Brassicaceae Murbeckiella zanonii NULL VU ? NE
+Plumbaginaceae Myriolimon diffusum Limonium diffus VU  NE
+Orchidaceae Neotinea conica Orchis conique VU  NE
+Nymphaeaceae Nuphar pumila Nénuphar nain VU  LC
+Orobanchaceae Odontites cebennensis Odontite des Causses VU  NE
+Apiaceae Oenanthe fluviatilis Oenanthe des fleuves VU  NT
+Fabaceae Ononis diffusa Bugrane diffuse VU  NE
+Fabaceae Ononis viscosa Bugrane visqueux VU ? NE
+Orchidaceae Ophrys philippei Ophrys du Gapeau X VU  NE
+Orchidaceae Ophrys tenthredinifera Ophrys tenthrède VU  LC
+Orchidaceae Orchis langei Orchis de Lange VU  NE
+Orchidaceae Orchis pauciflora Orchis à fleurs peu nombreuses VU  LC
+Asparagaceae Ornithogalum exscapum NULL VU  NE
+Orobanchaceae Orobanche bartlingii Orobanche de Bartling VU  NE
+Orobanchaceae Orobanche flava Orobanche jaune clair VU  NE
+Orobanchaceae Orobanche montserratii Orobanche VU  NE
+Orobanchaceae Orobanche pubescens Orobanche pubescente VU  NE
+Orobanchaceae Orobanche serbica Orobanche VU  NE
+Paeoniaceae Paeonia mascula Pivoine mâle VU  LC
+Orobanchaceae Pedicularis recutita Pédiculaire tronquée VU  NE
+Poaceae Phalaris brachystachys Alpiste à épi court VU ? NE
+Orobanchaceae Phelipanche cernua Orobanche inattendue VU ? NE
+Orobanchaceae Phelipanche lavandulacea Orobanche couleur de Lavande VU  NE
+Poaceae Phleum subulatum Phléole subulée VU ? NE
+Campanulaceae Phyteuma cordatum Raiponce en forme de cœur VU  NE
+Asteraceae Picris rhagadioloides Picride très élevée VU  NE
+Marsileaceae Pilularia minuta Pilulaire délicate VU  EN
+Apiaceae Pimpinella lutea Pimpinelle jaune VU  NE
+Apiaceae Pimpinella siifolia Pimpinelle à feuilles de Sium VU ? NE
+Lentibulariaceae Pinguicula reichenbachiana Grassette de Reichenbach VU  LC
+Plantaginaceae Plantago cornutii Plantain de Cornut VU ? NE
+
+
+
+Potamogetonaceae Potamogeton compressus Potamot à tige comprimée VU  DD
 Potamogetonaceae Potamogeton praelongus Wulfen Potamot allongé VU  LC
-Rosaceae Potentilla nivea L. Potentille blanc de neige VU ? NE
-Rosaceae Prunus lusitanica L. Prunier du Portugal VU  VU
-Fagaceae Quercus crenata Lam. Faux chêne-liège VU  DD
-Ranunculaceae Ranunculus canutii Coss. ex Ardoino Renoncule du mont Gargano VU ? NE
-Ranunculaceae Ranunculus lateriflorus DC. Renoncule à fleurs latérales VU  LC
-Ranunculaceae Ranunculus lingua L. Grande douve, Renoncule Langue VU  LC
-Ranunculaceae Ranunculus rionii Lagger Renoncule de Rion VU  LC
-Ericaceae Rhododendron hirsutum L. Rhododendron poilu VU  LC
-Iridaceae Romulea assumptionis Font Quer Romulée de l'Assomption VU  NE
-Iridaceae Romulea corsica Jord. & Fourr. Romulée de Corse X VU  NE
-Iridaceae Romulea florentii Moret Romulée de Florent X VU  NE
-Apiaceae Rouya polygama (Desf.) Coincy Thapsie de Rouy VU  EN
-Polygonaceae Rumex aquaticus L. Grande Parelle VU  NE
-Caryophyllaceae Saponaria bellidifolia Sm. Saponaire à feuilles de pâquerette VU  NE
-Saxifragaceae Saxifraga adscendens L. Saxifrage à tige dressée VU ? NE
-Saxifragaceae Saxifraga lamottei Luizet Saxifrage de Lamotte X VU ? NE
-Saxifragaceae Saxifraga mutata L. Saxifrage variable VU  NE
-Caprifoliaceae Scabiosa canescens Waldst. & Kit. Scabieuse blanchâtre VU  NE
-Apiaceae Scandix stellata Banks & Sol. Scandix étoilé VU  NE
-Lamiaceae Scutellaria hastifolia L. Scutellaire à feuilles hastées VU  NE
-Crassulaceae Sempervivum fauconnetii Reut. VU ? NE
-Asteraceae Senecio rosinae Gamisans Séneçon de Rosine X VU  NE
-Asteraceae Senecio ruthenensis Mazuc & Timb.-Lagr. Séneçon du Rouergue X VU  NE
-Orchidaceae Serapias nurrica Corrias Sérapias de la Nurra VU  NT
-Poaceae Sesleria ovata (Hoppe) A.Kern. Seslérie ovale VU  NE
-Lamiaceae Sideritis endressii Willk. Crapaudine d'Endres VU  NE
-Caryophyllaceae Silene badaroi Breistr. Silène de Salzmann VU  NE
-Caryophyllaceae Silene borderei Jord. Silène de Bordère VU ? NE
-Caryophyllaceae Silene petrarchae Ferrarini & Cecchi Silène du Valais à feuilles de
-graminée X VU  NE
-Caryophyllaceae Silene sedoides Poir. Silène faux-orpin VU  NE
-Caryophyllaceae Silene velutina Pourr. ex Loisel. Silène velouté VU  NT
-Brassicaceae Sinapis pubescens L. Moutarde pubescente VU  LC
-Brassicaceae Sisymbrium strictissimum L. Sisymbre raide VU  NE
+Rosaceae Potentilla nivea Potentille blanc de neige VU ? NE
+Rosaceae Prunus lusitanica Prunier du Portugal VU  VU
+Fagaceae Quercus crenata Faux chêne-liège VU  DD
+Ranunculaceae Ranunculus canutii Renoncule du mont Gargano VU ? NE
+Ranunculaceae Ranunculus lateriflorus Renoncule à fleurs latérales VU  LC
+Ranunculaceae Ranunculus lingua Grande douve, Renoncule Langue VU  LC
+Ranunculaceae Ranunculus rionii Renoncule de Rion VU  LC
+Ericaceae Rhododendron hirsutum Rhododendron poilu VU  LC
+Iridaceae Romulea assumptionis Romulée de l'Assomption VU  NE
+Iridaceae Romulea corsica Romulée de Corse X VU  NE
+Iridaceae Romulea florentii Romulée de Florent X VU  NE
+Apiaceae Rouya polygama Thapsie de Rouy VU  EN
+Polygonaceae Rumex aquaticus Grande Parelle VU  NE
+Caryophyllaceae Saponaria bellidifolia Saponaire à feuilles de pâquerette VU  NE
+Saxifragaceae Saxifraga adscendens Saxifrage à tige dressée VU ? NE
+Saxifragaceae Saxifraga lamottei Saxifrage de Lamotte X VU ? NE
+Saxifragaceae Saxifraga mutata Saxifrage variable VU  NE
+Caprifoliaceae Scabiosa canescens Scabieuse blanchâtre VU  NE
+Apiaceae Scandix stellata Scandix étoilé VU  NE
+Lamiaceae Scutellaria hastifolia Scutellaire à feuilles hastées VU  NE
+Crassulaceae Sempervivum fauconnetii VU ? NE
+Asteraceae Senecio rosinae Séneçon de Rosine X VU  NE
+Asteraceae Senecio ruthenensis Séneçon du Rouergue X VU  NE
+Orchidaceae Serapias nurrica Sérapias de la Nurra VU  NT
+Poaceae Sesleria ovata Seslérie ovale VU  NE
+Lamiaceae Sideritis endressii Crapaudine d'Endres VU  NE
+Caryophyllaceae Silene badaroi Silène de Salzmann VU  NE
+Caryophyllaceae Silene borderei Silène de Bordère VU ? NE
+Caryophyllaceae Silene petrarchae Silène du Valais à feuilles de graminée X VU  NE
+Caryophyllaceae Silene sedoides Silène faux-orpin VU  NE
+Caryophyllaceae Silene velutina Silène velouté VU  NT
+Brassicaceae Sinapis pubescens Moutarde pubescente VU  LC
+Brassicaceae Sisymbrium strictissimum Sisymbre raide VU  NE
 Rosaceae Sorbus legrei Cornier VU  EN
 Rosaceae Sorbus remensis Cornier Alisier de Reims VU ? EN
-Orchidaceae Spiranthes aestivalis (Poir.) Rich. Spiranthe d'été VU  DD
-Lamiaceae Stachys ocymastrum (L.) Briq. Epiaire hérissée VU  NE
-Ranunculaceae Staphisagria macrosperma Spach Staphisaigre VU  LC
-Thelypteridaceae Stegnogramma pozoi (Lag.) K.Iwats. Stegnogramma de Pozo VU  LC
-Caryophyllaceae Stellaria palustris Ehrh. ex Hoffm. Stellaire des marais VU  NE
-Brassicaceae Subularia aquatica L. Subulaire aquatique VU ? LC
-Asteraceae Taraxacum aemulans Kirschner & Štěpánek X VU ? NE
-Asteraceae Taraxacum bessarabicum (Hornem.) Hand.-
-Mazz. Pissenlit de Bessarabie VU  NE
-Asteraceae Taraxacum castaneum Soest Pissenlit X VU ? NE
-Asteraceae Taraxacum cucullatiforme Soest Pissenlit à capuchon X VU  NE
-Asteraceae Taraxacum pyropappum Boiss. & Reut. Pissenlit tardif VU ? NE
-Santalaceae Thesium humile Vahl Thésium peu élevé VU  NE
-Fabaceae Trifolium pannonicum Jacq. Trèfle de Hongrie VU ? NE
-Poaceae Trisetum gracile (Moris) Boiss. Trisète grêle VU  NE
-Crassulaceae Umbilicus horizontalis (Guss.) DC. Nombril de Vénus à fleurs horizontales VU  NE
-Asparagaceae Urginea fugax (Moris) Steinh. Urginée fugace VU  NE
-Lentibulariaceae Utricularia intermedia Hayne Utriculaire intermédiaire VU  DD
-Lentibulariaceae Utricularia stygia G.Thor Utriculaire du Nord VU  DD
-Fabaceae Vicia argentea Lapeyr. Vesce argentée VU  NE
-Fabaceae Vicia cassubica L. Vesce de Poméranie VU ? NE
-Violaceae Viola arborescens L. Violette sous-arbustive VU  NE
-Violaceae Viola pseudomirabilis H.J.Coste Violette du Larzac X VU  NE
-Asteraceae Vogtia annua (L.) Oberpr. & Sonboli Tanaisie annuelle VU  NE
-Asteraceae Achillea ageratum L. Achillée visqueuse NT  NE
-Asteraceae Achillea atrata L. Achillée noirâtre NT  NE
-Ranunculaceae Adonis aestivalis L. Goutte de sang d'été NT  NE
-Ranunculaceae Adonis flammea Jacq. Adonis couleur de feu NT  NE
-Ranunculaceae Adonis pyrenaica DC. Adonis des Pyrénées NT  NE
-Poaceae Aegilops biuncialis Vis. Egilope à grosses arrêtes NT ? LC
-Rosaceae Alchemilla hoppeana (Rchb.) Dalla Torre Alchémille de Hoppe NT  NE
-Alismataceae Alisma gramineum Lej. Flûteau à feuilles de Graminée NT  LC
-Amaryllidaceae Allium moly L. Ail doré NT  LC
-Poaceae Alopecurus rendlei Eig Vulpin en outre NT  NE
+Orchidaceae Spiranthes aestivalis Spiranthe d'été VU  DD
+Lamiaceae Stachys ocymastrum Epiaire hérissée VU  NE
+Ranunculaceae Staphisagria macrosperma Staphisaigre VU  LC
+Thelypteridaceae Stegnogramma pozoi Stegnogramma de Pozo VU  LC
+Caryophyllaceae Stellaria palustris Stellaire des marais VU  NE
+Brassicaceae Subularia aquatica Subulaire aquatique VU ? LC
+Asteraceae Taraxacum aemulans Tanaisie annuelle VU  NE
+Asteraceae Taraxacum bessarabicum Pissenlit de Bessarabie VU  NE
+Asteraceae Taraxacum castaneum Pissenlit X VU ? NE
+Asteraceae Taraxacum cucullatiforme Pissenlit à capuchon X VU  NE
+Asteraceae Taraxacum pyropappum Pissenlit tardif VU ? NE
+Santalaceae Thesium humile Thésium peu élevé VU  NE
+Fabaceae Trifolium pannonicum Trèfle de Hongrie VU ? NE
+Poaceae Trisetum gracile Trisète grêle VU  NE
+Crassulaceae Umbilicus horizontalis Nombril de Vénus à fleurs horizontales VU  NE
+Asparagaceae Urginea fugax Urginée fugace VU  NE
+Lentibulariaceae Utricularia intermedia Utriculaire intermédiaire VU  DD
+Lentibulariaceae Utricularia stygia Utriculaire du Nord VU  DD
+Fabaceae Vicia argentea Vesce argentée VU  NE
+Fabaceae Vicia cassubica Vesce de Poméranie VU ? NE
+Violaceae Viola arborescens Violette sous-arbustive VU  NE
+Violaceae Viola pseudomirabilis Violette du Larzac X VU  NE
+Asteraceae Vogtia annua Tanaisie annuelle VU  NE
+Asteraceae Achillea ageratum Achillée visqueuse NT  NE
+Asteraceae Achillea atrata Achillée noirâtre NT  NE
+Ranunculaceae Adonis aestivalis Goutte de sang d'été NT  NE
+Ranunculaceae Adonis flammea Adonis couleur de feu NT  NE
+Ranunculaceae Adonis pyrenaica Adonis des Pyrénées NT  NE
+Poaceae Aegilops biuncialis Egilope à grosses arrêtes NT ? LC
+Rosaceae Alchemilla hoppeana Alchémille de Hoppe NT  NE
+Alismataceae Alisma gramineum Flûteau à feuilles de Graminée NT  LC
+Amaryllidaceae Allium moly Ail doré NT  LC
+Poaceae Alopecurus rendlei Vulpin en outre NT  NE
 Potamogetonaceae Althenia filiformis Petit Althénie filiforme NT  DD
-Brassicaceae Alyssum cacuminum Španiel, Marhold & Lihová NT ? NE
-Brassicaceae Alyssum loiseleurii P.Fourn. Corbeille-d'or des sables X NT  NE
-Orchidaceae Anacamptis coriophora (L.) R.M.Bateman,
-Pridgeon & M.W.Chase Orchis punaise NT  LC
-Boraginaceae Anchusa undulata L. Buglosse ondulée NT  NE
-Primulaceae Androsace ciliata DC. Androsace ciliée NT  NE
-Ranunculaceae Anemone montana Hoppe Pulsatille des montagnes NT  NE
-Ranunculaceae Anemone sylvestris L. Anémone sauvage NT  NE
-Ranunculaceae Anemone trifolia L. Anémone trifoliée NT  NE
-Asteraceae Antennaria dioica (L.) Gaertn. Patte de chat NT  LC
-Asteraceae Anthemis secundiramea Biv. Anthémis à rameaux tournés d'un
-même côté NT  NE
-Fabaceae Anthyllis cytisoides L. Anthyllis faux cytise NT  NE
-Ranunculaceae Aquilegia hirsutissima Timb.-Lagr. Ancolie très poilue NT  NE
-Ranunculaceae Aquilegia litardierei Briq. Ancolie de Litardière X NT  NE
-Ranunculaceae Aquilegia viscosa Gouan Ancolie visqueuse des Causses X NT  NE
-Caryophyllaceae Arenaria ciliata L. Sabline ciliée NT  NE
-Caryophyllaceae Arenaria marschlinsii W.D.J.Koch Sabline de Salis-Marschlins NT ? NE
-Caryophyllaceae Arenaria provincialis Chater & G.Halliday Sabline de Provence X NT  NT
-Poaceae Aristavena setacea (Huds.) F.Albers & Butzin Canche des marais NT  NE
-Aristolochiaceae Aristolochia tyrrhena E.Nardi & Arrigoni Aristoloche tyrrhénien NT  NE
-Plumbaginaceae Armeria malinvaudii H.J.Coste & Soulié Arméria de Malinvaud X NT  NE
-Plumbaginaceae Armeria pungens (Link) Hoffmanns. & Link Arméria piquante NT  NE
-Asteraceae Artemisia armeniaca Lam. NT  NE
-Asteraceae Artemisia atrata Lam. Armoise noirâtre NT  NE
-Rubiaceae Asperula occidentalis Rouy Aspérule occidentale NT  NE
-Rubiaceae Asperula tinctoria L. Aspérule des teinturiers NT ? NE
-Aspleniaceae Asplenium fissum Kit. ex Willd. Doradille fendue NT  NE
-Aspleniaceae Asplenium jahandiezii (Litard.) Rouy Doradille du Verdon X NT  NT
-Aspleniaceae Asplenium sagittatum (DC.) Bange Herbe à la mule NT  LC
-Asteraceae Aster pyrenaeus Desf. ex DC. Aster des Pyrénées NT  NE
-Asteraceae Aster willkommii Sch.Bip. ex Willk. Aster de Willkomm NT ? NE
-Fabaceae Astragalus alopecurus Pall. Queue de renard des Alpes NT  DD
-Fabaceae Astragalus austriacus Jacq. Astragale d'Autriche NT  NE
-Fabaceae Astragalus boeticus L. Astragale de Bétique NT  NE
-Fabaceae Astragalus echinatus Murray Astragale hérissé d'aiguillons NT  NE
-Asteraceae Atractylis humilis L. Atractyle humble NT  NE
-Asparagaceae Bellevalia romana (L.) Rchb. Bellevalia de Rome NT ? NE
-Brassicaceae Biscutella apricorum Jord. Lunetière des lieux ensoileillés X NT  NE
-Boraginaceae Buglossoides gastonii (Benth.) I.M.Johnst. Grémil de Gaston NT  NE
-Apiaceae Bunium pachypodum P.W.Ball Bunium à pied épais NT ? NE
-Apiaceae Bupleurum rotundifolium L. Buplèvre à feuilles rondes NT  NE
-Alismataceae Caldesia parnassifolia (L.) Parl. Alisma à feuilles de Parnassie NT ? NT
-Araceae Calla palustris L. Calla des marais NT  LC
-Brassicaceae Camelina microcarpa Andrz. ex DC. Caméline à petits fruits NT  LC
-Campanulaceae Campanula albicans (Buser) Engl. Campanule blanchâtre X NT  NE
-Campanulaceae Campanula bononiensis L. Campanule de Bologne NT ? NE
-Brassicaceae Cardamine bulbifera (L.) Crantz Cardamine à bulbilles NT ? NE
-Brassicaceae Cardamine parviflora L. Cardamine à petites fleurs NT  NE
-Asteraceae Carduus aurosicus Chaix Chardon du mont Aurouse X NT  NE
-Cyperaceae Carex buxbaumii Wahlenb. Laîche de Buxbaum NT  NE
-Cyperaceae Carex colchica J.Gay NT  NE
-Cyperaceae Carex diandra Schrank Laîche arrondie NT  NE
-Cyperaceae Carex hartmanii Cajander Laîche de Hartman NT  NE
-Cyperaceae Carex maritima Gunnerus Laîche maritime NT  NE
-Cyperaceae Carex microglochin Wahlenb. Laîche à petites soies NT  NE
-Cyperaceae Carex mucronata All. Laîche mucronée NT  NE
-Asteraceae Carlina biebersteinii Bernh. ex Hornem. Carline à longues feuilles NT  NE
-Poaceae Catabrosa aquatica (L.) P.Beauv. Catabrose aquatique NT  LC
-Poaceae Catapodium hemipoa (Delile ex Spreng.) Laínz Catapode intermédiaire NT  NE
-Gentianaceae Centaurium portense (Brot.) Butcher Petite-Centaurée à fleurs de Scille NT  NE
-Caryophyllaceae Cerastium dubium (Bastard) Guépin Céraiste douteux NT  NE
-Caryophyllaceae Cerastium lineare All. Céraiste linéaire NT ? NE
-Caryophyllaceae Cerastium soleirolii Ser. ex Duby Céraiste de Soleirol X NT  NE
-Ranunculaceae Ceratocephala falcata (L.) Pers. Renoncule en faux NT  NE
-Apiaceae Chaerophyllum elegans Gaudin Cerfeuil elegant NT  NE
-Orchidaceae Chamorchis alpina (L.) Rich. Chaméorchis des Alpes NT  LC
-Asteraceae Cirsium creticum (Lam.) d'Urv. Cirse de Crête NT ? NE
-Asteraceae Cirsium glabrum DC. Cirse glabre NT  NE
-Asteraceae Cirsium italicum DC. Cirse d'Italie NT  NE
-Cistaceae Cistus crispus L. Ciste crispé NT  NE
-Cistaceae Cistus ladanifer L. Ciste à gomme, Ciste ladanifère NT  NE
-Brassicaceae Cochlearia aestuaria (J.Lloyd) Heywood Cranson des estuaires NT  NE
-Orchidaceae Coeloglossum viride (L.) Hartm. NT  NE
-Colchicaceae Colchicum arenasii Fridl. X NT  NE
-Colchicaceae Colchicum corsicum Baker Colchique de Corse NT  VU
-Poaceae Coleanthus subtilis (Tratt.) Seidl ex Roem. & Schult. Coléanthe délicat NT  LC
-Rosaceae Cotoneaster raboutensis Flinck, Fryer, Garraud,
-Hylmö & Zeller X NT  DD
-Crassulaceae Crassula vaillantii (Willd.) Roth Bulliarde de Vaillant NT  NE
-Asteraceae Crepis rhaetica Hegetschw. Crépide des Alpes Rhétiques NT  NE
-Asteraceae Cyanus lugdunensis (Jord.) Fourr. Centaurée de Lyon NT  NE
-Primulaceae Cyclamen balearicum Willk. Cyclamen des Baléares NT  NE
-Boraginaceae Cynoglossum dioscoridis Vill. Cynoglosse de Dioscoride NT  NE
-Orchidaceae Cypripedium calceolus L. Sabot de Vénus NT  NT
-Cystopteridaceae Cystopteris diaphana (Bory) Blasdell Cystoptéris diaphane NT  NE
-Fabaceae Cytisus elongatus Waldst. & Kit. Cytise à longues grappes NT  NE
-Orchidaceae Dactylorhiza elata (Poir.) Soó Orchis élevé NT  LC
-Orchidaceae Dactylorhiza incarnata (L.) Soó Orchis incarnat NT  LC
-Orchidaceae Dactylorhiza praetermissa (Druce) Soó Orchis négligé NT  NE
-Orchidaceae Dactylorhiza traunsteineri (Saut.) Soó Orchis de Traunsteiner NT  LC
-Poaceae Danthonia alpina Vest Danthonie des Alpes NT  NE
-Thymelaeaceae Daphne striata Tratt. Camélée striée NT ? NE
-Rosaceae Dasiphora fruticosa (L.) Rydb. Potentille ligneuse NT  NE
-Ranunculaceae Delphinium pubescens DC. Pied-d'alouette pubescent NT  NE
-Ranunculaceae Delphinium verdunense Balb. Pied-d'alouette de Bresse NT  NE
-Caryophyllaceae Dianthus geminiflorus Loisel. Oeillet à fleurs géminées X NT  NE
-Caryophyllaceae Dianthus superbus L. Oeillet magnifique NT  LC
-Caryophyllaceae Dianthus vigoi Laínz Oeillet de Vigo NT  NE
-Dioscoreaceae Dioscorea pyrenaica Bubani & Bordère ex Gren. Dioscorée des Pyrénées NT  NE
-Lamiaceae Dracocephalum austriacum L. Dracocéphale d'Autriche NT  DD
-Droseraceae Drosera longifolia L. Rossolis à feuilles longues NT  NT
-Boraginaceae Echium calycinum Viv. Vipérine à calice persistant NT ? NE
-Elatinaceae Elatine alsinastrum L. Elatine fausse alsine NT  NT
-Elatinaceae Elatine macropoda Guss. Elatine à longs pédicelles NT ? DD
-Cyperaceae Eleocharis parvula (Roem. & Schult.) Link ex
-Bluff, Nees & Schauer Petit Souchet NT  DD
-Orchidaceae Epipactis fageticola (C.E.Hermos.) Devillers-Tersch. & Devillers Epipactis des hêtraies NT ? NE
-Orchidaceae Epipactis palustris (L.) Crantz Epipactis des marais NT  LC
-Orchidaceae Epipactis phyllanthes G.E.Sm. Epipactis des dunes NT  LC
-Orchidaceae Epipactis placentina Bongiorni & Grünanger Epipactis de Plaisance NT  EN
-Orchidaceae Epipogium aphyllum Sw. Epipogon sans feuilles NT ? LC
-Brassicaceae Erucastrum supinum (L.) Al-Shehbaz & Warwick Braya couchée NT ? LC
-Apiaceae Eryngium alpinum L. Panicaut des Alpes NT  NT
-Euphorbiaceae Euphorbia corsica Req. Euphorbe de Corse X NT  NE
-Euphorbiaceae Euphorbia variabilis Ces. Euphorbe variable NT  NE
-Poaceae Festuca duvalii (St.-Yves) Stohr Fétuque de Duval NT ? NE
-Poaceae Festuca fabrei Kerguélen & Plonka Fétuque de Fabre X NT ? NE
-Brassicaceae Fibigia clypeata (L.) Medik. Fibigie NT  NE
-Cyperaceae Fuirena pubescens (Poir.) Kunth Fuirène pubescent NT  LC
-Liliaceae Gagea lusitanica A.Terracc. NT  NE
-Liliaceae Gagea spathacea (Hayne) Salisb. Gagée à spathe NT  NE
-Rubiaceae Galium minutulum Jord. Gaillet minuscule NT  NE
-Rubiaceae Galium rubioides L. Gaillet fausse garance NT ? NE
-Fabaceae Genista radiata (L.) Scop. Genêt radié NT  LC
-Gentianaceae Gentiana cruciata L. Gentiane croisette NT  LC
-Gentianaceae Gentianella amarella (L.) Börner Gentianelle amère NT  NE
-Geraniaceae Geranium argenteum L. Géranium à feuilles argentées NT ? NE
-Geraniaceae Geranium palustre L. Géranium des marais NT  NE
-Rosaceae Geum hispidum Fr. Benoîte hispide NT ? NE
-Iridaceae Gladiolus gallaecicus Pau ex J.-M.Tison & Ch.Girod Glaïeul d'Illyrie NT  NE
-Papaveraceae Glaucium corniculatum (L.) Rudolph Glaucienne à fruit en forme decorne NT ? NE
-Boraginaceae Hackelia deflexa (Wahlenb.) Opiz Bardanette courbée NT ? NE
-Amaranthaceae Halimione pedunculata (L.) Aellen Arroche à fruits pédonculés NT  NE
-Fabaceae Hedysarum boveanum Bunge ex Basiner Sainfoin bas NT  NE
-Fabaceae Hedysarum spinosissimum L. Sainfoin épineux NT  NE
-Cistaceae Helianthemum syriacum (Jacq.) Dum.Cours. Hélianthème à feuilles de lavande NT  NE
-Boraginaceae Heliotropium supinum L. Héliotrope couché NT  LC
-Caryophyllaceae Herniaria litardierei (Gamisans) Greuter &Burdet
-Herniaire à feuilles larges sousespèce de Litardière NT  NE
-Malvaceae Hibiscus palustris L. Ketmie rose des marais NT  NE
-Asteraceae Hieracium attracticaule Arv.-Touv. NT  NE
-Asteraceae Hieracium buglossoides Arv.-Touv. X NT ? NE
-Asteraceae Hieracium insulanum Litard. NT  NE
-Asteraceae Hieracium lycopifolium Froel. Epervière NT ? NE
-Asteraceae Hieracium petrosae (Zahn) J.-M.Tison X NT  NE
-Asteraceae Hieracium petryanum Zahn NT ? NE
-Asteraceae Hieracium rotgesianum Arv.-Touv. & Gaut. Epervière de Rotgès X NT  NE
-Asteraceae Hieracium serresianum Arv.-Touv. NT ? NE
-Asteraceae Hieracium ucenicum Arv.-Touv. Epervière X NT ? NE
-Asteraceae Hieracium virgaurea Coss. Epervière Verge-d'or NT  NE
-Poaceae Hierochloe odorata (L.) P.Beauv. Avoine odorante NT ? NE
-Plantaginaceae Hippuris vulgaris L. Pesse NT  LC
-Caryophyllaceae Holosteum breistrofferi Greuter & Charpin Holostée hérissée X NT  NE
-Asparagaceae Honorius nutans (Sm.) Gray Ornithogale penché NT  NE
-Poaceae Hordeum bulbosum L. Orge bulbeuse NT  LC
-Brassicaceae Hormathophylla lapeyrousiana (Jord.) P.Küpfer Alysson de Lapeyrouse NT  NE
-Papaveraceae Hypecoum imberbe Sm. Cumin à grandes fleurs NT  NE
-Asteraceae Hypochaeris uniflora Vill. Porcelle à une tête NT ? NE
-Brassicaceae Iberis carnosa Willd. Ibéris charnu NT  NE
-Asteraceae Inula britannica L. Inule des fleuves NT  NE
-Asteraceae Inula hirta L. Inule hérissée NT  NE
-Iridaceae Iris perrieri Simonet ex P.Fourn. NT  NE
-Isoetaceae Isoetes creussensis Lazare & S.Riba NT  LC
-Isoetaceae Isoëtes lacustris L. Isoète des lacs NT ? LC
-Caprifoliaceae Knautia lebrunii J.Prudhomme Knautia de Le Brun NT ? NE
-Fabaceae Lathyrus bauhinii Genty Gesse de Bauhin NT  NE
-Fabaceae Lathyrus pannonicus (Jacq.) Garcke Gesse de Hongrie NT  NE
-Lamiaceae Leonurus cardiaca L. Agripaume cardiaque NT  LC
-Brassicaceae Lepidium villarsii Gren. & Godr. Passerage de Villars NT ? LC
-Amaryllidaceae Leucojum aestivum L. Nivéole d'été NT ? NE
-Amaryllidaceae Leucojum pulchellum Salisb. Nivéole jolie NT  NE
-Asteraceae Ligularia sibirica (L.) Cass. Ligulaire de Sibérie NT  DD
-Plumbaginaceae Limonium companyonis (Gren. & Billot) Kuntze Statice de Companyo NT ? NE
-Plumbaginaceae Limonium duriusculum (Girard) Fourr. Statice dure X NT  NE
-Plumbaginaceae Limonium obtusifolium (Rouy) Erben Statice à feuilles obtuses X NT  NE
-Plantaginaceae Linaria flava (Poir.) Desf. Linaire jaune NT  NT
-Plantaginaceae Linaria spartea (L.) Desf. Linaire effilée NT ? NE
-Linaceae Linum leonii F.W.Schultz Lin des Alpes NT  NE
-Orchidaceae Liparis loeselii (L.) Rich. Liparis de Loesel NT ? NT
-Campanulaceae Lobelia dortmanna L. Lobélie de Dortmann NT  LC
-Poaceae Lolium parabolicae Sennen ex Samp. Ivraie du Portugal NT  NE
-Caprifoliaceae Lomelosia simplex (Desf.) Raf. Scabieuse simple NT ? NE
-Lycopodiaceae Lycopodiella inundata (L.) Holub Lycopode des tourbières NT  LC
-Lycopodiaceae Lycopodium tristachyum Pursh Lycopode petit Cyprès NT  NT
-Primulaceae Lysimachia ephemerum L. Lysimaque à feuilles de saule NT  LC
-Lythraceae Lythrum thymifolium L. Salicaire à feuilles de thym NT  LC
-Orobanchaceae Macrosyringion glutinosum (M.Bieb.) Rothm. Euphraise visqueuse NT  NE
-Marsileaceae Marsilea quadrifolia L. Fougère d'eau à quatre feuilles NT  VU
-Fabaceae Medicago doliata Carmign. Luzerne à fruits épineux NT  LC
-Fabaceae Medicago scutellata (L.) Mill. Luzerne en écusson NT  LC
-Fabaceae Medicago secundiflora Durieu Luzerne à fleurs unilatérales NT  DD
-Fabaceae Melilotus italicus (L.) Lam. Mélilot d'Italie NT  NE
-Aizoaceae Mesembryanthemum crystallinum L. Ficoïde à cristaux NT  NE
-Poaceae Milium montianum Parl. Millet NT  NE
-Poaceae Milium vernale M.Bieb. Millet printanier NT ? NE
-Caryophyllaceae Minuartia lanuginosa (H.J.Coste) Braun-Blanq. Minuartie de la Lozère X NT  NE
-Caryophyllaceae Moehringia argenteria Casazza & Minuto NT  NE
-Caryophyllaceae Moehringia intermedia Loisel. ex Panizzi Sabline de Provence NT  NE
-Asparagaceae Muscari motelayi Foucaud Muscari NT  NE
-Boraginaceae Myosotis sicula Guss. Myosotis de Sicile NT ? NE
-Plumbaginaceae Myriolimon ferulaceum (L.) Lledó, Erben &
-M.B.Crespo Statice fausse-férule NT  NE
-Asteraceae Nananthea perpusilla (Loisel.) DC. Nananthée minuscule NT  NE
-Amaryllidaceae Narcissus triandrus L. NT  LC
-Poaceae Narduroides salzmannii (Boiss.) Rouy Narduroides de Salzmann NT  NE
-Orchidaceae Neotinea lactea (Poir.) R.M.Bateman, Pridgeon
-& M.W.Chase Orchis laiteux NT  LC
-Lamiaceae Nepeta cataria L. Herbe aux chats NT  LC
-Lamiaceae Nepeta latifolia DC. Népéta à feuilles larges NT  NE
-Lamiaceae Nepeta nuda L. Népéta glabre NT ? NE
-Brassicaceae Neslia paniculata (L.) Desv. Neslie paniculée NT  NE
-Boraginaceae Nonea echioides (L.) Roem. & Schult. Nonnée fausse vipérine NT ? NE
-Menyanthaceae Nymphoides peltata (S.G.Gmel.) Kuntze Limnanthème faux-nénuphar NT  LC
-Apiaceae Oenanthe globulosa L. Oenanthe globuleuse NT  NE
-Fabaceae Ononis aragonensis Asso Bugrane d'Aragon NT  NE
-Fabaceae Ononis pubescens L. Bugrane pubescent NT ? NE
-Fabaceae Ononis ramosissima Desf. Bugrane très ramifiée NT  NE
-Asteraceae Onopordum acaulon L. Onopordon à tige courte NT ? NE
-Asteraceae Onopordum eriocephalum Rouy Onopordon à capitules laineux X NT  NE
-Boraginaceae Onosma pseudoarenaria Schur Orcanette fausse orcanette des sables NT ? NE
+Brassicaceae Alyssum cacuminum Alyssum cacuminum NT ? NE
+Brassicaceae Alyssum loiseleurii Corbeille-d'or des sables X NT  NE
+Orchidaceae Anacamptis coriophora Orchis punaise NT  LC
+Boraginaceae Anchusa undulata Buglosse ondulée NT  NE
+Primulaceae Androsace ciliata Androsace ciliée NT  NE
+Ranunculaceae Anemone montana Pulsatille des montagnes NT  NE
+Ranunculaceae Anemone sylvestris Anémone sauvage NT  NE
+Ranunculaceae Anemone trifolia Anémone trifoliée NT  NE
+Asteraceae Antennaria dioica Patte de chat NT  LC
+Asteraceae Anthemis secundiramea Anthémis à rameaux tournés d'un même côté NT  NE
+Fabaceae Anthyllis cytisoides Anthyllis faux cytise NT  NE
+Ranunculaceae Aquilegia hirsutissima Ancolie très poilue NT  NE
+Ranunculaceae Aquilegia litardierei Ancolie de Litardière X NT  NE
+Ranunculaceae Aquilegia viscosa Ancolie visqueuse des Causses X NT  NE
+Caryophyllaceae Arenaria ciliata Sabline ciliée NT  NE
+Caryophyllaceae Arenaria marschlinsii Sabline de Salis-Marschlins NT ? NE
+Caryophyllaceae Arenaria provincialis Sabline de Provence X NT  NT
+Poaceae Aristavena setacea Canche des marais NT  NE
+Aristolochiaceae Aristolochia tyrrhena Aristoloche tyrrhénien NT  NE
+Plumbaginaceae Armeria malinvaudii Arméria de Malinvaud X NT  NE
+Plumbaginaceae Armeria pungens Arméria piquante NT  NE
+Asteraceae Artemisia armeniaca NT  NE
+Asteraceae Artemisia atrata Armoise noirâtre NT  NE
+
+
+
+Rubiaceae Asperula occidentalis Aspérule occidentale NT  NE
+Rubiaceae Asperula tinctoria Aspérule des teinturiers NT ? NE
+Aspleniaceae Asplenium fissum Doradille fendue NT  NE
+Aspleniaceae Asplenium jahandiezii Doradille du Verdon X NT  NT
+Aspleniaceae Asplenium sagittatum Herbe à la mule NT  LC
+Asteraceae Aster pyrenaeus Aster des Pyrénées NT  NE
+Asteraceae Aster willkommii Aster de Willkomm NT ? NE
+Fabaceae Astragalus alopecurus Queue de renard des Alpes NT  DD
+Fabaceae Astragalus austriacus Astragale d'Autriche NT  NE
+Fabaceae Astragalus boeticus Astragale de Bétique NT  NE
+Fabaceae Astragalus echinatus Astragale hérissé d'aiguillons NT  NE
+Asteraceae Atractylis humilis Atractyle humble NT  NE
+Asparagaceae Bellevalia romana Bellevalia de Rome NT ? NE
+Brassicaceae Biscutella apricorum Lunetière des lieux ensoleillés X NT  NE
+Boraginaceae Buglossoides gastonii Grémil de Gaston NT  NE
+Apiaceae Bunium pachypodum Bunium à pied épais NT ? NE
+Apiaceae Bupleurum rotundifolium Buplèvre à feuilles rondes NT  NE
+Alismataceae Caldesia parnassifolia Alisma à feuilles de Parnassie NT ? NT
+Araceae Calla palustris Calla des marais NT  LC
+Brassicaceae Camelina microcarpa Caméline à petits fruits NT  LC
+Campanulaceae Campanula albicans Campanule blanchâtre X NT  NE
+Campanulaceae Campanula bononiensis Campanule de Bologne NT ? NE
+Brassicaceae Cardamine bulbifera Cardamine à bulbilles NT ? NE
+Brassicaceae Cardamine parviflora Cardamine à petites fleurs NT  NE
+Asteraceae Carduus aurosicus Chardon du mont Aurouse X NT  NE
+Cyperaceae Carex buxbaumii Laîche de Buxbaum NT  NE
+Cyperaceae Carex colchica Laîche de Colchide NT  NE
+Cyperaceae Carex diandra Laîche arrondie NT  NE
+Cyperaceae Carex hartmanii Laîche de Hartman NT  NE
+Cyperaceae Carex maritima Laîche maritime NT  NE
+Cyperaceae Carex microglochin Laîche à petites soies NT  NE
+Cyperaceae Carex mucronata Laîche mucronée NT  NE
+Asteraceae Carlina biebersteinii Carline à longues feuilles NT  NE
+Poaceae Catabrosa aquatica Catabrose aquatique NT  LC
+Poaceae Catapodium hemipoa Catapode intermédiaire NT  NE
+Gentianaceae Centaurium portense Petite-Centaurée à fleurs de Scille NT  NE
+Caryophyllaceae Cerastium dubium Céraiste douteux NT  NE
+Caryophyllaceae Cerastium lineare Céraiste linéaire NT ? NE
+Caryophyllaceae Cerastium soleirolii Céraiste de Soleirol X NT  NE
+Ranunculaceae Ceratocephala falcata Renoncule en faux NT  NE
+Apiaceae Chaerophyllum elegans Cerfeuil élégant NT  NE
+Orchidaceae Chamorchis alpina Chaméorchis des Alpes NT  LC
+Asteraceae Cirsium creticum Cirse de Crète NT ? NE
+Asteraceae Cirsium glabrum Cirse glabre NT  NE
+Asteraceae Cirsium italicum Cirse d'Italie NT  NE
+Cistaceae Cistus crispus Ciste crispé NT  NE
+Cistaceae Cistus ladanifer Ciste à gomme, Ciste ladanifère NT  NE
+Brassicaceae Cochlearia aestuaria Cranson des estuaires NT  NE
+Orchidaceae Coeloglossum viride NT  NE
+Colchicaceae Colchicum arenasii X NT  NE
+Colchicaceae Colchicum corsicum Colchique de Corse NT  VU
+Poaceae Coleanthus subtilis Coléanthe délicat NT  LC
+Rosaceae Cotoneaster raboutensis X NT  DD
+Crassulaceae Crassula vaillantii Bulliarde de Vaillant NT  NE
+Asteraceae Crepis rhaetica Crépide des Alpes Rhétiques NT  NE
+Asteraceae Cyanus lugdunensis Centaurée de Lyon NT  NE
+Primulaceae Cyclamen balearicum Cyclamen des Baléares NT  NE
+Boraginaceae Cynoglossum dioscoridis Cynoglosse de Dioscoride NT  NE
+Orchidaceae Cypripedium calceolus Sabot de Vénus NT  NT
+Cystopteridaceae Cystopteris diaphana Cystoptéris diaphane NT  NE
+Fabaceae Cytisus elongatus Cytise à longues grappes NT  NE
+Orchidaceae Dactylorhiza elata Orchis élevé NT  LC
+Orchidaceae Dactylorhiza incarnata Orchis incarnat NT  LC
+Orchidaceae Dactylorhiza praetermissa Orchis négligé NT  NE
+Orchidaceae Dactylorhiza traunsteineri Orchis de Traunsteiner NT  LC
+Poaceae Danthonia alpina Danthonie des Alpes NT  NE
+Thymelaeaceae Daphne striata Camélée striée NT ? NE
+Rosaceae Dasiphora fruticosa Potentille ligneuse NT  NE
+Ranunculaceae Delphinium pubescens Pied-d'alouette pubescent NT  NE
+Ranunculaceae Delphinium verdunense Pied-d'alouette de Bresse NT  NE
+Caryophyllaceae Dianthus geminiflorus Oeillet à fleurs géminées X NT  NE
+Caryophyllaceae Dianthus superbus Oeillet magnifique NT  LC
+Caryophyllaceae Dianthus vigoi Oeillet de Vigo NT  NE
+Dioscoreaceae Dioscorea pyrenaica Dioscorée des Pyrénées NT  NE
+Lamiaceae Dracocephalum austriacum Dracocéphale d'Autriche NT  DD
+Droseraceae Drosera longifolia Rossolis à feuilles longues NT  NT
+Boraginaceae Echium calycinum Vipérine à calice persistant NT ? NE
+Elatinaceae Elatine alsinastrum Elatine fausse alsine NT  NT
+Elatinaceae Elatine macropoda Elatine à longs pédicelles NT ? DD
+Cyperaceae Eleocharis parvula Petit Souchet NT  DD
+Orchidaceae Epipactis fageticola Epipactis des hêtraies NT ? NE
+Orchidaceae Epipactis palustris Epipactis des marais NT  LC
+Orchidaceae Epipactis phyllanthes Epipactis des dunes NT  LC
+Orchidaceae Epipactis placentina Epipactis de Plaisance NT  EN
+Orchidaceae Epipogium aphyllum Epipogon sans feuilles NT ? LC
+Brassicaceae Erucastrum supinum Braya couchée NT ? LC
+Apiaceae Eryngium alpinum Panicaut des Alpes NT  NT
+Euphorbiaceae Euphorbia corsica Euphorbe de Corse X NT  NE
+Euphorbiaceae Euphorbia variabilis Euphorbe variable NT  NE
+Poaceae Festuca duvalii Fétuque de Duval NT ? NE
+Poaceae Festuca fabrei Fétuque de Fabre X NT ? NE
+Brassicaceae Fibigia clypeata Fibigie NT  NE
+Cyperaceae Fuirena pubescens Fuirène pubescent NT  LC
+Liliaceae Gagea lusitanica NT  NE
+Liliaceae Gagea spathacea Gagée à spathe NT  NE
+Rubiaceae Galium minutulum Gaillet minuscule NT  NE
+
+
+
+Rubiaceae Galium rubioides Gaillet fausse garance NT ? NE
+Fabaceae Genista radiata Genêt radié NT  LC
+Gentianaceae Gentiana cruciata Gentiane croisette NT  LC
+Gentianaceae Gentianella amarella Gentianelle amère NT  NE
+Geraniaceae Geranium argenteum Géranium à feuilles argentées NT ? NE
+Geraniaceae Geranium palustre Géranium des marais NT  NE
+Rosaceae Geum hispidum Benoîte hispide NT ? NE
+Iridaceae Gladiolus gallaecicus Glaïeul d'Illyrie NT  NE
+Papaveraceae Glaucium corniculatum Glaucienne à fruit en forme de corne NT ? NE
+Boraginaceae Hackelia deflexa Bardanette courbée NT ? NE
+Amaranthaceae Halimione pedunculata Arroche à fruits pédonculés NT  NE
+Fabaceae Hedysarum boveanum Sainfoin bas NT  NE
+Fabaceae Hedysarum spinosissimum Sainfoin épineux NT  NE
+Cistaceae Helianthemum syriacum Hélianthème à feuilles de lavande NT  NE
+Boraginaceae Heliotropium supinum Héliotrope couché NT  LC
+Caryophyllaceae Herniaria litardierei Herniaire à feuilles larges sous-espèce de Litardière NT  NE
+Malvaceae Hibiscus palustris Ketmie rose des marais NT  NE
+Asteraceae Hieracium attracticaule NT  NE
+Asteraceae Hieracium buglossoides X NT ? NE
+Asteraceae Hieracium insulanum NT  NE
+Asteraceae Hieracium lycopifolium Epervière NT ? NE
+Asteraceae Hieracium petrosae X NT  NE
+Asteraceae Hieracium petryanum NT ? NE
+Asteraceae Hieracium rotgesianum Epervière de Rotgès X NT  NE
+Asteraceae Hieracium serresianum NT ? NE
+Asteraceae Hieracium ucenicum Epervière X NT ? NE
+Asteraceae Hieracium virgaurea Epervière Verge-d'or NT  NE
+Poaceae Hierochloe odorata Avoine odorante NT ? NE
+Plantaginaceae Hippuris vulgaris Pesse NT  LC
+Caryophyllaceae Holosteum breistrofferi Holostée hérissée X NT  NE
+Asparagaceae Honorius nutans Ornithogale penché NT  NE
+Poaceae Hordeum bulbosum Orge bulbeuse NT  LC
+Brassicaceae Hormathophylla lapeyrousiana Alysson de Lapeyrouse NT  NE
+Papaveraceae Hypecoum imberbe Cumin à grandes fleurs NT  NE
+Asteraceae Hypochaeris uniflora Porcelle à une tête NT ? NE
+Brassicaceae Iberis carnosa Ibéris charnu NT  NE
+Asteraceae Inula britannica Inule des fleuves NT  NE
+Asteraceae Inula hirta Inule hérissée NT  NE
+Iridaceae Iris perrieri NT  NE
+Isoetaceae Isoetes creussensis NT  LC
+Isoetaceae Isoëtes lacustris Isoète des lacs NT ? LC
+Caprifoliaceae Knautia lebrunii Knautia de Le Brun NT ? NE
+Fabaceae Lathyrus bauhinii Gesse de Bauhin NT  NE
+Fabaceae Lathyrus pannonicus Gesse de Hongrie NT  NE
+Lamiaceae Leonurus cardiaca Agripaume cardiaque NT  LC
+Brassicaceae Lepidium villarsii Passerage de Villars NT ? LC
+Amaryllidaceae Leucojum aestivum Nivéole d'été NT ? NE
+Amaryllidaceae Leucojum pulchellum Nivéole jolie NT  NE
+Asteraceae Ligularia sibirica Ligulaire de Sibérie NT  DD
+Plumbaginaceae Limonium companyonis Statice de Companyo NT ? NE
+Plumbaginaceae Limonium duriusculum Statice dure X NT  NE
+Plumbaginaceae Limonium obtusifolium Statice à feuilles obtuses X NT  NE
+Plantaginaceae Linaria flava Linaire jaune NT  NT
+Plantaginaceae Linaria spartea Linaire effilée NT ? NE
+Linaceae Linum leonii Lin des Alpes NT  NE
+Orchidaceae Liparis loeselii Liparis de Loesel NT ? NT
+Campanulaceae Lobelia dortmanna Lobélie de Dortmann NT  LC
+Poaceae Lolium parabolicae Ivraie du Portugal NT  NE
+Caprifoliaceae Lomelosia simplex Scabieuse simple NT ? NE
+Lycopodiaceae Lycopodiella inundata Lycopode des tourbières NT  LC
+Lycopodiaceae Lycopodium tristachyum Lycopode petit Cyprès NT  NT
+Primulaceae Lysimachia ephemerum Lysimaque à feuilles de saule NT  LC
+Lythraceae Lythrum thymifolium Salicaire à feuilles de thym NT  LC
+Orobanchaceae Macrosyringion glutinosum Euphraise visqueuse NT  NE
+Marsileaceae Marsilea quadrifolia Fougère d'eau à quatre feuilles NT  VU
+Fabaceae Medicago doliata Luzerne à fruits épineux NT  LC
+Fabaceae Medicago scutellata Luzerne en écusson NT  LC
+Fabaceae Medicago secundiflora Luzerne à fleurs unilatérales NT  DD
+Fabaceae Melilotus italicus Mélilot d'Italie NT  NE
+Aizoaceae Mesembryanthemum crystallinum Ficoïde à cristaux NT  NE
+Poaceae Milium montianum Millet NT  NE
+Poaceae Milium vernale Millet printanier NT ? NE
+Caryophyllaceae Minuartia lanuginosa Minuartie de la Lozère X NT  NE
+Caryophyllaceae Moehringia argenteria NT  NE
+Caryophyllaceae Moehringia intermedia Sabline de Provence NT  NE
+Asparagaceae Muscari motelayi Muscari NT  NE
+Boraginaceae Myosotis sicula Myosotis de Sicile NT ? NE
+Plumbaginaceae Myriolimon ferulaceum Statice fausse-férule NT  NE
+Asteraceae Nananthea perpusilla Nananthée minuscule NT  NE
+Amaryllidaceae Narcissus triandrus NT  LC
+Poaceae Narduroides salzmannii Narduroides de Salzmann NT  NE
+Orchidaceae Neotinea lactea Orchis laiteux NT  LC
+Lamiaceae Nepeta cataria Herbe aux chats NT  LC
+Lamiaceae Nepeta latifolia Népéta à feuilles larges NT  NE
+Lamiaceae Nepeta nuda Népéta glabre NT ? NE
+Brassicaceae Neslia paniculata Neslie paniculée NT  NE
+Boraginaceae Nonea echioides Nonnée fausse vipérine NT ? NE
+Menyanthaceae Nymphoides peltata Limnanthème faux-nénuphar NT  LC
+Apiaceae Oenanthe globulosa Oenanthe globuleuse NT  NE
+Fabaceae Ononis aragonensis Bugrane d'Aragon NT  NE
+Fabaceae Ononis pubescens Bugrane pubescent NT ? NE
+Fabaceae Ononis ramosissima Bugrane très ramifiée NT  NE
+Asteraceae Onopordum acaulon Onopordon à tige courte NT ? NE
+Asteraceae Onopordum eriocephalum Onopordon à capitules laineux X NT  NE
+Boraginaceae Onosma pseudoarenaria Orcanette fausse orcanette des sables NT ? NE
+
+
 Orchidaceae Ophrys aegirtica P.Delforge Ophrys du Gers X NT ? NE
-Orchidaceae Ophrys aveyronensis (J.J.Wood) P.Delforge Ophrys de l'Aveyron NT  NE
-Orchidaceae Ophrys aymoninii (Breistr.) Buttler Ophrys d'Aymonin X NT  NE
-Orchidaceae Ophrys bertolonii Moretti Ophrys de Bertoloni NT  LC
-Orchidaceae Ophrys bombyliflora Link Ophrys bombyx NT  LC
-Orchidaceae Ophrys catalaunica O.Danesch & E.Danesch Ophrys catalaunica NT  NE
-Orchidaceae Ophrys vasconica (O.Danesch & E.Danesch)
-P.Delforge Ophrys du pays Basque NT  NE
+Orchidaceae Ophrys aveyronensis Ophrys de l'Aveyron NT  NE
+Orchidaceae Ophrys aymoninii Ophrys d'Aymonin X NT  NE
+Orchidaceae Ophrys bertolonii Ophrys de Bertoloni NT  LC
+Orchidaceae Ophrys bombyliflora Ophrys bombyx NT  LC
+Orchidaceae Ophrys catalaunica Ophrys catalaunica NT  NE
+Orchidaceae Ophrys vasconica Ophrys du pays Basque NT  NE
 Fabaceae Ornithopus sativus Brot. Ornithope cultivé NT  LC
 Orobanchaceae Orobanche alsatica Kirschl. Orobanche d'Alsace NT  NE
-Orobanchaceae Orobanche artemisii-campestris Vaucher ex
-Gaudin Orobanche du Picris NT  NE
+Orobanchaceae Orobanche artemisii-campestris Gaudin Orobanche du Picris NT  NE
 Orobanchaceae Orobanche cernua Loefl. Orobanche penchée NT ? NE
-Orobanchaceae Orobanche fuliginosa Reut. ex Jord. Orobanche X NT  NE
+Orobanchaceae Orobanche fuliginosa Orobanche X NT  NE
 Orobanchaceae Orobanche sanguinea C.Presl Orobanche rouge sang NT  NE
 Orobanchaceae Orobanche santolinae Loscos & J.Pardo Orobanche de la Santoline NT ? NE
 Fabaceae Oxytropis xerophila Gutermann Oxytropis velouté NT  NE
-Poaceae Patzkea durandoi (Clauson) G.H.Loos NT  NE
-Orobanchaceae Pedicularis palustris L. Pédiculaire des marais NT  NE
-Orobanchaceae Phelipanche arenaria (Borkh.) Pomel Orobanche des sables NT  NE
-Verbenaceae Phyla nodiflora (L.) Greene Phyla à fleurs nodales NT  NE
-Ericaceae Phyllodoce caerulea (L.) Bab. Andromède bleue NT  NE
+Poaceae Patzkea durandoi G.H.Loos NT  NE
+Orobanchaceae Pedicularis palustris Pédiculaire des marais NT  NE
+Orobanchaceae Phelipanche arenaria Pomel Orobanche des sables NT  NE
+Verbenaceae Phyla nodiflora Greene Phyla à fleurs nodales NT  NE
+Ericaceae Phyllodoce caerulea Bab. Andromède bleue NT  NE
 Campanulaceae Phyteuma villarsii Rich.Schulz Raiponce de Villars NT  NE
-Poaceae Piptatherum virescens (Trin.) Boiss. Millet verdâtre NT  NE
-Caryophyllaceae Polycarpon polycarpoides (Biv.) Zodda Polycarpon Faux-Péplis NT  NE
+Poaceae Piptatherum virescens Boiss. Millet verdâtre NT  NE
+Caryophyllaceae Polycarpon polycarpoides Zodda Polycarpon Faux-Péplis NT  NE
 Polygalaceae Polygala exilis DC. Polygale grêle NT ? NE
-Polygonaceae Polygonum bellardii All. Renouée de Bellardi NT  NE
+Polygonaceae Polygonum bellardii Renouée de Bellardi NT  NE
 Polygonaceae Polygonum raii Bab. Renouée de Ray NT  NE
 Polygonaceae Polygonum robertii Loisel. Renouée de Robert NT  NE
-Dryopteridaceae Polystichum braunii (Spenn.) Fée Polystic de Braun NT  LC
+Dryopteridaceae Polystichum braunii Fée Polystic de Braun NT  LC
 Potamogetonaceae Potamogeton acutifolius Link Potamot à feuilles aiguës NT  NT
 Potamogetonaceae Potamogeton alpinus Balb. Potamot des Alpes NT  LC
 Potamogetonaceae Potamogeton friesii Rupr. Potamot à feuilles mucronées NT  LC
-Rosaceae Potentilla alba L. Potentille blanche NT  NE
-Rosaceae Potentilla delphinensis Gren. & Godr. Potentille du Dauphiné X NT  VU
+Rosaceae Potentilla alba Potentille blanche NT  NE
+Rosaceae Potentilla delphinensis Potentille du Dauphiné X NT  VU
 Primulaceae Primula allionii Loisel. Primevère d'Allioni NT  NE
-Primulaceae Primula matthioli (L.) J.A.Richt. Cortuse de Matthiole NT  NE
-Asteraceae Pulicaria sicula (L.) Moris Pulicaire de Sicile NT  NE
+Primulaceae Primula matthioli J.A.Richt. Cortuse de Matthiole NT  NE
+Asteraceae Pulicaria sicula Pulicaire de Sicile NT  NE
 Ranunculaceae Ranunculus clethraphilus Litard. Renoncule du Monte d'Oro X NT  NE
-Ranunculaceae Ranunculus nodiflorus L. Renoncule à fleurs nodales NT  NE
+Ranunculaceae Ranunculus nodiflorus Renoncule à fleurs nodales NT  NE
 Ranunculaceae Ranunculus polyanthemoides Boreau Renoncule à segments étroits NT  NE
 Orobanchaceae Rhinanthus pseudoantiquus Kunz Rhinanthe pseudo-antique X NT  NE
-Poaceae Rostraria pubescens (Lam.) Trin. Koelérie du littoral NT  NE
-Caryophyllaceae Sagina nodosa (L.) Fenzl Sagine noueuse NT  NE
-Lamiaceae Salvia aethiopis L. Sauge d'Éthiopie NT  NE
-Lamiaceae Salvia officinalis L. Sauge officinale NT  LC
-Caryophyllaceae Saponaria lutea L. Saponaire jaune NT  NE
-Papaveraceae Sarcocapnos enneaphylla (L.) DC. Fumeterre à neuf folioles NT  NE
-Saxifragaceae Saxifraga cotyledon L. Saxifrage Cotylédon NT  NE
+Poaceae Rostraria pubescens Trin. Koelérie du littoral NT  NE
+Caryophyllaceae Sagina nodosa Fenzl Sagine noueuse NT  NE
+Lamiaceae Salvia aethiopis Sauge d'Éthiopie NT  NE
+Lamiaceae Salvia officinalis Sauge officinale NT  LC
+Caryophyllaceae Saponaria lutea Saponaire jaune NT  NE
+Papaveraceae Sarcocapnos enneaphylla DC. Fumeterre à neuf folioles NT  NE
+Saxifragaceae Saxifraga cotyledon Saxifrage Cotylédon NT  NE
 Scheuchzeriaceae Scheuchzeria palustris L. Scheuchzérie des tourbières NT  NE
-Cyperaceae Schoenoplectus supinus (L.) Palla Scirpe couché NT  NE
+Cyperaceae Schoenoplectus supinus Palla Scirpe couché NT  NE
 Asteraceae Scolymus grandiflorus Desf. Scolyme à grandes fleurs NT ? NE
-Asteraceae Scolymus maculatus L. Scolyme maculé NT ? NE
-Crassulaceae Sedum amplexicaule DC. Orpin ampléxicaule NT  NE
-Crassulaceae Sedum litoreum Guss. Orpin du littoral NT  NE
+Asteraceae Scolymus maculatus Scolyme maculé NT ? NE
+Crassulaceae Sedum amplexicaule Orpin ampléxicaule NT  NE
+Crassulaceae Sedum litoreum Orpin du littoral NT  NE
 Apiaceae Selinum broteri Hoffmanns. & Link Sélin de Brotero NT  NE
-Asteraceae Senecio serpentinicola (Rouy) Jeanm. X NT  NE
+Asteraceae Senecio serpentinicola Jeanm. X NT  NE
 Orchidaceae Serapias cordigera L. Sérapias en coeur NT ? LC
-Caryophyllaceae Silene mutabilis L. Silène négligé NT  NE
-Caryophyllaceae Silene noctiflora L. Silène de nuit NT  NE
-Caryophyllaceae Silene succulenta Forssk. NT  NE
-Apiaceae Sium latifolium L. Berle à larges feuilles NT  LC
-Apiaceae Smyrnium perfoliatum L. Maceron perfolié NT ? NE
-Primulaceae Soldanella villosa Darracq Grande Soldanelle NT  VU
+Caryophyllaceae Silene mutabilis Silène négligé NT  NE
+Caryophyllaceae Silene noctiflora Silène de nuit NT  NE
+Caryophyllaceae Silene succulenta Silene succulenta NT  NE
+Apiaceae Sium latifolium Berle à larges feuilles NT  LC
+Apiaceae Smyrnium perfoliatum Maceron perfolié NT ? NE
+Primulaceae Soldanella villosa Grande Soldanelle NT  VU
 Asteraceae Sonchus aquatilis Pourr. Laiteron aquatique NT  NE
-Typhaceae Sparganium natans L. Rubanier nain NT  NT
+Typhaceae Sparganium natans Rubanier nain NT  NT
 Lamiaceae Stachys marrubiifolia Viv. Epiaire à feuilles de Marrube NT  NE
-Ranunculaceae Staphisagria picta (Willd.) Jabbour Dauphinelle peinte NT  NE
-Poaceae Stipellula parviflora (Desf.) Röser &
-H.R.Hamasha Stipe à petites fleurs NT  NE
-Potamogetonaceae Stuckenia filiformis (Pers.) Börner Potamot filiforme NT ? LC
-Poaceae Taeniatherum caput-medusae (L.) Nevski Taéniathérum tête-de-méduse NT ? NE
+Ranunculaceae Staphisagria picta Jabbour Dauphinelle peinte NT  NE
+Poaceae Stipellula parviflora Röser & H.R.Hamasha Stipe à petites fleurs NT  NE
+Potamogetonaceae Stuckenia filiformis Potamot filiforme NT ? LC
+Poaceae Taeniatherum caput-medusae Nevski Taéniathérum tête-de-méduse NT ? NE
 Asteraceae Taraxacum ciliare Soest Pissenlit NT  NE
 Asteraceae Taraxacum gallicum Soest Pissenlit de Gaule NT  NE
 Asteraceae Taraxacum hollandicum Soest Pissenlit de Hollande NT  NE
 Asteraceae Taraxacum madidum Kirschner & Štěpánek NT  NE
 Asteraceae Taraxacum multilepis Kirschner & Štěpánek Pissenlit NT  NE
 Asteraceae Taraxacum rubricatum Kirschner & Štěpánek X NT  NE
-Ranunculaceae Thalictrum lucidum L. Pigamon méditerranéen NT  NE
-Ranunculaceae Thalictrum tuberosum L. Pigamon tubéreux NT  NE
+Ranunculaceae Thalictrum lucidum Pigamon méditerranéen NT  NE
+Ranunculaceae Thalictrum tuberosum Pigamon tubéreux NT  NE
 Santalaceae Thesium kyrnosum Hendrych Thésium de Corse X NT  NE
-Thymelaeaceae Thymelaea tartonraira (L.) All. Passerine Tartonraire NT  NE
-Tofieldiaceae Tofieldia pusilla (Michx.) Pers. Tofieldie boréale NT  NE
+Thymelaeaceae Thymelaea tartonraira Passerine Tartonraire NT  NE
+Tofieldiaceae Tofieldia pusilla Pers. Tofieldie boréale NT  NE
 Fabaceae Trifolium angulatum Waldst. & Kit. NT ? NE
-Fabaceae Trifolium retusum L. Trèfle tronqué NT ? NE
+Fabaceae Trifolium retusum Trèfle tronqué NT ? NE
 Typhaceae Typha minima Funck Petite massette NT  DD
-Lentibulariaceae Utricularia minor L. Petite utriculaire NT  LC
-Lentibulariaceae Utricularia ochroleuca R.W.Hartm. Utriculaire jaunâtre NT ? DD
-Caryophyllaceae Vaccaria hispanica (Mill.) Rauschert Saponaire des vaches NT  NE
-Rubiaceae Valantia hispida L. Vaillantie hérissée NT  NE
-Caprifoliaceae Valeriana celtica L. Nard celtique NT  NE
-Caryophyllaceae Velezia rigida L. Vélézia raide NT  NE
-Melanthiaceae Veratrum nigrum L. Vérâtre noir NT  NE
-Plantaginaceae Veronica prostrata L. Véronique prostrée NT ? NE
-Plantaginaceae Veronica triphyllos L. Véronique à feuilles trilobées NT  NE
-Fabaceae Vicia cusnae Foggi & Ricceri Vesce du mont Cusna NT  NE
-Violaceae Viola pinnata L. Violette à feuilles pennées NT  NE
-Violaceae Viola roccabrunensis Espeut Pensée de Roquebrune X NT  NE
-Apiaceae Xatardia scabra (Lapeyr.) Meisn. Xatardie rude NT  NE
+Lentibulariaceae Utricularia minor Petite utriculaire NT  LC
+Lentibulariaceae Utricularia ochroleuca Utriculaire jaunâtre NT ? DD
+Caryophyllaceae Vaccaria hispanica Rauschert Saponaire des vaches NT  NE
+Rubiaceae Valantia hispida Vaillantie hérissée NT  NE
+Caprifoliaceae Valeriana celtica Nard celtique NT  NE
+Caryophyllaceae Velezia rigida Vélézia raide NT  NE
+Melanthiaceae Veratrum nigrum Vérâtre noir NT  NE
+Plantaginaceae Veronica prostrata Véronique prostrée NT ? NE
+Plantaginaceae Veronica triphyllos Véronique à feuilles trilobées NT  NE
+Fabaceae Vicia cusnae Vesce du mont Cusna NT  NE
+Violaceae Viola pinnata Violette à feuilles pennées NT  NE
+Violaceae Viola roccabrunensis Pensée de Roquebrune X NT  NE
+Apiaceae Xatardia scabra Xatardie rude NT  NE

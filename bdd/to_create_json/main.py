@@ -3,12 +3,15 @@ from io import StringIO
 
 data = """
 Index\tOrdre\tNom scientifique\tNom commun\tCategorie Liste rouge France\tTendance\tCategorie Liste rouge mondiale\tCategorie\tSous-Categorie\tStatut d'endemisme*
-714\tDecapoda\tAustropotamobius_torrentium\tÉcrevisse_des_torrents\tCr\tDd\tNULL\tcrustaces\tdecapode
-715\tDecapoda\tAstacus_astacus\tÉcrevisse_à_pattes_rouges\tEn\tVu\tNULL\tcrustaces\tdecapode
-716\tDecapoda\tGallocaris_inermis\tCrevette_cavernicole\tVu\tNe\tNULL\tcrustaces\tdecapode\tX
-717\tDecapoda\tAustropotamobius_pallipes\tÉcrevisse_à_pattes_blanches\tVu\tEn\tNULL\tcrustaces\tdecapode
-718\tDecapoda\tAtyaephyra_desmaresti\tCaridine_de_Desmarest\tLc\tNe\tNULL\tcrustaces\tdecapode
+
 """
+
+lines = data.split('\n')
+
+for index, line in enumerate(lines):
+    tab_count = line.count('\t')
+    if tab_count != 9:
+        print(f"Index {index + 4}: {tab_count} occurrences de '\\t'")
 
 df = pd.read_csv(StringIO(data), sep='\t')
 
