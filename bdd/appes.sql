@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : ven. 12 jan. 2024 à 16:23
+-- Généré le : mar. 16 jan. 2024 à 15:00
 -- Version du serveur : 10.4.32-MariaDB
 -- Version de PHP : 8.2.12
 
@@ -340,11 +340,11 @@ CREATE TABLE `species` (
   `scientific_name` varchar(100) DEFAULT NULL,
   `categorie` varchar(100) DEFAULT NULL,
   `sous_categorie` varchar(100) DEFAULT NULL,
-  `wingspan` tinyint(4) DEFAULT NULL,
-  `withers_height` tinyint(4) DEFAULT NULL,
+  `wingspan` varchar(255) DEFAULT NULL,
+  `withers_height` varchar(255) DEFAULT NULL,
   `color` varchar(45) DEFAULT NULL,
-  `life_esperancy` tinyint(4) DEFAULT NULL,
-  `description` varchar(255) DEFAULT NULL,
+  `life_esperancy` varchar(255) DEFAULT NULL,
+  `description` longtext DEFAULT NULL,
   `tendancy` varchar(45) DEFAULT NULL,
   `clrf` varchar(45) DEFAULT NULL,
   `clrm` varchar(45) DEFAULT NULL,
@@ -360,7 +360,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1, 'Bezoule', 'Coregonus_bezola', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, '?', 'Ex', 'Ex', 1, 11),
 (2, 'Coregone_fera', 'Coregonus_fera', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, '?', 'Ex', 'Ex', 1, 11),
 (3, 'Coregone_gravenche', 'Coregonus_hiemalis', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, '?', 'Ex', 'Ex', 1, 11),
-(4, 'Esturgeon_noir', 'Acipenser_oxyrinchus', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, '?', 'Re', 'Nt', 2, 11),
+(4, 'Esturgeon_noir', 'Acipenser_oxyrinchus', 'poisson', 'poisson_eau_douce', 'Entre 3 et 4,30 mètres', NULL, 'noir', 'Jusqu\'à 60 ans', 'L\'esturgeon noir, reconnaissable par son museau et ses barbillons, se reproduit en eau douce, puis migre en eau salée. La femelle pond jusqu\'à 2,4 millions d\'œufs. Son alimentation diversifiée inclut mollusques, vers, crevettes, crustacés et poissons comme le lançon. Doté d\'une bouche ventrale sans dents, de barbillons et d\'un rostre retroussé, il fouille le fond pour se nourrir. Présent dans l\'Atlantique et le Saint-Laurent, cet esturgeon anadrome fraie en rivière, les jeunes migrent après quatre ans. Cependant, des défis écologiques, tels que la surpêche et les aménagements liés à Expo 67, ont impacté son habitat depuis les années 1950, mettant en péril cette espèce importante pour l\'équilibre des écosystèmes.', '?', 'Re', 'Nt', 2, 6),
 (5, 'Aphanius_d\'Espagne', 'Aphanius_iberus', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, '?', 'Re', 'En', 2, 11),
 (6, 'Cyprinodonte_de_Valence', 'Valencia_hispanica', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, '?', 'Re', 'Cr', 2, 11),
 (7, 'Esturgeon_europeen', 'Acipenser_sturio', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Cr', 3, 11),
@@ -410,7 +410,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (51, 'Epinoche', 'Gasterosteus_aculeatus', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Lc', 'Lc', 7, 11),
 (52, 'Goujon_commun', 'Gobio_gobio', 'poisson', 'poisson_eau_douce', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
 (53, 'Vison_d\'Europe', 'Mustela_lutreola', 'mammifere', 'mammifere_terrestre', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Cr', 'Cr', 3, 11),
-(54, 'Ours_brun', 'Ursus_arctos', 'mammifere', 'mammifere_terrestre', NULL, NULL, NULL, NULL, NULL, 'Uppera', 'Cr', 'Lc', 3, 11),
+(54, 'Ours_brun', 'Ursus_arctos', 'mammifere', 'mammifere_terrestre', 'De 1,7 à 2,5 mètres de hauteur', NULL, 'brun', '20 à 30 ans', 'L\'ours brun, emblématique de la nature sauvage, incarne l\'ambiguïté des relations humaines avec la nature. Mammifère massif de la famille des Ursidés, il peut mesurer jusqu\'à 2,50 m debout, avec une fourrure brune uniforme. En hiver, il hiberne dans une tanière, dormant légèrement et ralentissant son activité. Chassé depuis la préhistoire pour viande et fourrure, les ours ont une place importante dans la mythologie et les légendes. En Europe occidentale, l\'ours brun d\'Europe, sous-espèce vulnérable, fait face à des pressions telles que conflits avec l\'élevage, exploitation forestière et perte d\'habitat, avec des populations fragiles, particulièrement en France, Autriche, Italie et Suisse.\r\nLe régime alimentaire de l\'ours brun est varié et dépend des saisons. Il est classé comme omnivore, ce qui signifie qu\'il consomme à la fois des végétaux et des protéines animales. En été, il se nourrit principalement de végétaux tels que baies, fruits, herbes et racines. Les insectes et les petits mammifères peuvent également faire partie de son alimentation.\r\nPendant l\'automne, l\'ours se prépare à l\'hibernation en consommant davantage de nourriture. Il se tourne alors vers des sources de protéines plus importantes, comme les poissons lorsqu\'ils sont disponibles, ainsi que des mammifères plus petits. Les ours peuvent également se nourrir de charognes.\r\nAvant d\'entrer en hibernation, l\'ours brun accumule des réserves de graisse pour survivre pendant la période où il ne se nourrit pas. Pendant l\'hibernation, qui peut durer plusieurs mois, l\'ours ne se nourrit pas et survit en utilisant les réserves de graisse accumulées.\r\nL\'adaptabilité de l\'ours brun à divers types d\'aliments contribue à sa survie dans des environnements variés, mais cela le place également en compétition avec les activités humaines, notamment dans les zones où l\'élevage et l\'exploitation forestière peuvent réduire ses sources de nourriture.\r\n', 'Uppera', 'Cr', 'Lc', 3, 10),
 (55, 'Rhinolophe_de_Mehely', 'Rhinolophus_mehelyi', 'mammifere', 'mammifere_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Cr*', 'Vu', 11, 11),
 (56, 'Lynx_boreal', 'Lynx_lynx', 'mammifere', 'mammifere_terrestre', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'En', 'Lc', 4, 11),
 (57, 'Bouquetin_iberique', 'Capra_pyrenaica', 'mammifere', 'mammifere_terrestre', NULL, NULL, NULL, NULL, NULL, 'Uppera', 'En', 'Lc', 4, 11),
@@ -516,7 +516,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (157, 'Grenouille_des_champs', 'Rana_arvalis', 'amphibiens', '', NULL, NULL, NULL, NULL, NULL, 'En', 'Downa', 'Lc', 11, 11),
 (158, 'Grenouille_des_Pyrenees', 'Rana_pyrenaica', 'amphibiens', '', NULL, NULL, NULL, NULL, NULL, 'En', 'Downa', 'En', 11, 11),
 (159, 'Calotriton_des_Pyrenees', 'Calotriton_asper', 'amphibiens', '', NULL, NULL, NULL, NULL, NULL, 'Vu', 'Downa', 'Nt', 11, 11),
-(160, 'Salamandre_noire', 'Salamandra_atra', 'amphibiens', '', NULL, NULL, NULL, NULL, NULL, 'Vu', 'Stilla', 'Lc', 11, 11),
+(160, 'Salamandre_noire', 'Salamandra_atra', 'amphibiens', '', 'De 144 à 151 mm', NULL, 'Noire', 'De 10 à 15 ans', 'La salamandre noire, endémique des Alpes en Europe, arbore un corps fin, une tête aplatie, des yeux noirs et des glandes à venin. Son habitat montagneux comprend forêts, prairies et ruisseaux. Carnivore, elle se nourrit d\'invertébrés comme escargots, araignées et insectes. Solitaire, elle hiberne dans des abris et chasse principalement à l\'aube. Sa longévité varie de 10 à 15 ans à l\'état sauvage. Reproduisant de manière vivipare et polygame, la gestation dure 2 à 3 ans avec une mise bas de 2 à 4 petits sur la terre ferme. Bien que considérée comme préoccupation mineure par l\'UICN, elle fait face à des menaces locales telles que la perte d\'habitat, le réchauffement climatique, les collisions routières et la pression liée à l\'élevage.', 'Vu', 'Stilla', 'Lc', 11, 7),
 (161, 'Sonneur_à_ventre_jaune', 'Bombina_variegata', 'amphibiens', '', NULL, NULL, NULL, NULL, NULL, 'Vu', 'Downa', 'Lc', 11, 11),
 (162, 'Rainette_iberique', 'Hyla_molleri', 'amphibiens', '', NULL, NULL, NULL, NULL, NULL, 'Vu', 'Downa', 'Ne', 11, 11),
 (163, 'Pelobate_cultripede', 'Pelobates_cultripes', 'amphibiens', '', NULL, NULL, NULL, NULL, NULL, 'Vu', 'Downa', 'Nt', 11, 11),
@@ -570,7 +570,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (211, 'Larinia_de_Bonnet', 'Larinia_bonneti', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', '', 4, 11),
 (212, 'Clubione_des_oyats', 'Clubiona_frisia', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', '', 4, 11),
 (213, 'Clubione_de_Kulczyński', 'Clubiona_kulczynskii', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', '', 4, 11),
-(214, 'Argyronete', 'Argyroneta_aquatica', 'araignees', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'En', '', 4, 11),
+(214, 'Argyronete', 'Argyroneta_aquatica', 'araignees', '', 'De 8 à 15 mm', NULL, 'Brun foncé', '18 mois', 'L\'Argyronète, araignée aquatique, arbore une coloration brun foncé, huit yeux et une silhouette caractéristique avec des poils denses. Pour respirer sous l\'eau, elle construit une bulle d\'air hydrophobe, maintenue par ses poils, lui permettant de plonger et d\'éviter les proies. Cet arachnide se retrouve dans les eaux douces calmes, nécessitant des plantes aquatiques pour ancrer sa toile en cloche, utilisée comme repaire. Dotée d\'un régime alimentaire diversifié, l\'Argyronète chasse activement larves d\'insectes, petits crustacés, cloportes, Daphnies et même des poissons, témoignant de sa position de prédateur généraliste. Sa technique de chasse varie entre l\'affût, l\'arpentage et la capture active. Une fois la proie maîtrisée, elle la transporte dans sa cloche d\'air pour la consommer, car la digestion externe est impossible dans l\'eau. Malgré son statut de prédateur, elle reste vulnérable aux prédateurs tels que les grenouilles et les poissons. Bien que son cycle de vie se déroule principalement sous l\'eau, de la naissance à la reproduction, l\'Argyronète joue un rôle clé dans les écosystèmes d\'eau douce, tout en faisant face à des menaces telles que la perte d\'habitat et le réchauffement climatique. Son aire de répartition, bien que présente dans toute l\'écozone paléarctique, reste localisée, et sa population mondiale est sujette à des préoccupations de conservation.', 'Downa', 'En', '', 4, 6),
 (215, 'Dictyne_des_posidonies', 'Chaerea_maritimus', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', '', 4, 11),
 (216, 'Dysdere_atlantique', 'Dysdera_fuscipes', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', '', 4, 11),
 (217, 'Harpactea_du_Mercantour', 'Harpactocrates_intermedius', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', '', 4, 11),
@@ -707,7 +707,8 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (348, 'Mogrus_des_plages', 'Pseudomogrus_salsicola', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', '', 5, 11),
 (349, 'Araignee_fourmi_à_trois_points', 'Synageles_albotrimaculatus', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', '', 5, 11),
 (350, 'Synaphris', 'Synaphris_saphrynis', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', '', 5, 11),
-(351, 'Tetragnathe_shoshone', 'Tetragnatha_shoshone', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', '', 5, 11),
+(351, 'Tetragnathe_shoshone', 'Tetragnatha_shoshone', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', '', 5, 11);
+INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
 (352, 'Theridion_de_Boesenberg', 'Theridion_boesenbergi', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', '', 5, 11),
 (353, 'Tmarus_de_Piochard', 'Tmarus_piochardi', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', '', 5, 11),
 (354, 'Xystique_des_estives', 'Xysticus_desidiosus', 'araignees', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', '', 5, 11),
@@ -738,7 +739,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (379, '', 'Artemia_parthenogenetica', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'En', '', 4, 11),
 (380, '', 'Phallocryptus_spinosa', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'En', '', 4, 11),
 (381, '', 'Limnadia_lenticularis', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'En', '', 4, 11),
-(382, 'X', 'Branchipus_blanchardi', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, 'Vu', '', '', 11, 11),
+(382, NULL, 'Branchipus_blanchardi', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, NULL, 'Vu', '', 11, 11),
 (383, '', 'Chirocephalus_salinus', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (384, '', 'Linderiella_massaliensis', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (385, '', 'Alona_azorica', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
@@ -748,8 +749,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (389, '', 'Daphnia_atkinsoni', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (390, '', 'Daphnia_chevreuxi', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (391, 'Ephemeroporus_phintonicus', 'Eurycercidae', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, 'Vu', '', '', 11, 11),
-(392, 'Estatheroporus_gauthier', 'Eurycercidae', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, 'Vu', '', '', 11, 11);
-INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
+(392, 'Estatheroporus_gauthier', 'Eurycercidae', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, 'Vu', '', '', 11, 11),
 (393, '', 'Imnadia_yeyetta', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (394, '', 'Macrothrix_rosea', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (395, '', 'Branchipus_schaefferi', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Nt', '', 6, 11),
@@ -856,7 +856,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (496, '', 'Moina_micrura', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (497, '', 'Polyphemus_pediculus', 'crustaces', 'branchiopode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (498, 'Chimere_commune', 'Chimaera_monstrosa', 'chimeres', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'Nt', 8, 11),
-(499, 'Chimere_opale', 'Chimaera_opalescens', 'chimeres', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'Ne', 8, 11),
+(499, 'Chimere_opale', 'Chimaera_opalescens', 'chimeres', '', '110 cm (queue incluse)', NULL, 'Clair, doré, verdâtre, brun clair', 'Inconnue', 'La Chimère opale (Chimaera opalescens) est une espèce de chimère appartenant à la famille des Chimaeridae, présente dans le Nord-Est de l\'océan Atlantique. Elle habite principalement les fonds marins bathyaux, à des profondeurs allant de 800 à près de 2 000 mètres, avec une température d\'environ 4,3 °C.\r\n\r\nCette grande chimère peut atteindre jusqu\'à 78 cm de longueur précaudale ou 110 cm de longueur totale, queue incluse. Son corps est généralement de couleur claire, dorée, verdâtre ou brun clair, avec des traits longitudinaux fins sur le pédoncule caudale. Les yeux sont noirs avec une pupille vert pâle. La première nageoire dorsale forme un triangle haut et allongé, précédé par une épine de même longueur.\r\n\r\nLa Chimère opale coexiste morphologiquement avec la Chimère monstre (Chimaera monstrosa), et les deux espèces ont longtemps été confondues en raison de leur grande similarité.\r\n\r\nQuant à sa répartition géographique, elle se trouve le long des côtes européennes de l\'océan Atlantique, de l\'Irlande au sud de l\'Espagne, ainsi que le long des côtes nord-africaines jusqu\'aux îles Canaries.\r\n\r\nPeu d\'informations sont disponibles sur la biologie de la Chimère opale. Les mâles atteignent la maturité sexuelle vers 62 cm de longueur précaudale, tandis que les femelles atteignent la maturité vers 68 cm. Cette espèce est ovipare, mais d\'autres détails sur sa reproduction restent peu connus.', '?', 'Dd', 'Ne', 8, 12),
 (500, 'Chimere_à_petits_yeux', 'Hydrolagus_affinis', 'chimeres', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'Lc', 8, 11),
 (501, 'Chimere_à_gros_yeux', 'Hydrolagus_mirabilis', 'chimeres', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'Nt', 8, 11),
 (502, 'Chimere_à_nez_rigide', 'Harriotta_raleighana', 'chimeres', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'Lc', 8, 11),
@@ -1134,7 +1134,8 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (774, 'Selin_douteux', 'Kadenia_dubia', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Ne', 3, 11),
 (775, 'Gesse_à_deux_types_de_fruits', 'Lathyrus_amphicarpos', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Nt', 3, 11),
 (776, 'Statice_de_Porto-Vecchio', 'Limonium_portovecchiense', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Ne', 3, 11),
-(777, 'Ivraie_enivrante', 'Lolium_temulentum', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Lc', 3, 11),
+(777, 'Ivraie_enivrante', 'Lolium_temulentum', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Lc', 3, 11);
+INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
 (778, 'Saxifrage_à_feuilles_d\'Éperviere', 'Micranthes_hieraciifolia', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Ne', 3, 11),
 (779, 'Nigelle_des_champs', 'Nigella_arvensis', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Ne', 3, 11),
 (780, 'Notobasis_de_Syrie', 'Notobasis_syriaca', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Ne', 3, 11),
@@ -1188,8 +1189,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (828, 'Œillet_fourchu_de_Gysperger', 'Dianthus_gyspergerae', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', 'Ne', 4, 11),
 (829, 'Drave_blanchâtre', 'Draba_incana', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'En', 'Ne', 4, 11),
 (830, 'Dryopteris_à_crêtes', 'Dryopteris_cristata', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'En', 'Lc', 4, 11),
-(831, 'Élatine_poivre-d\'eau', 'Elatine_hydropiper', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'En', 'Lc', 4, 11);
-INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
+(831, 'Élatine_poivre-d\'eau', 'Elatine_hydropiper', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'En', 'Lc', 4, 11),
 (832, 'Élatine_à_trois_etamines', 'Elatine_triandra', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', 'Lc', 4, 11),
 (833, 'Épipactis_des_castors', 'Epipactis_fibri', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'En', 'Ne', 4, 11),
 (834, 'Cytise_herisson', 'Erinacea_anthyllis', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'En', 'Ne', 4, 11),
@@ -1539,7 +1539,8 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1178, 'Orchis_punaise', 'Anacamptis_coriophora', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Nt', 'Lc', 6, 11),
 (1179, 'Buglosse_ondulee', 'Anchusa_undulata', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Ne', 6, 11),
 (1180, 'Androsace_ciliee', 'Androsace_ciliata', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Ne', 6, 11),
-(1181, 'Pulsatille_des_montagnes', 'Anemone_montana', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Nt', 'Ne', 6, 11),
+(1181, 'Pulsatille_des_montagnes', 'Anemone_montana', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Nt', 'Ne', 6, 11);
+INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
 (1182, 'Anemone_sauvage', 'Anemone_sylvestris', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Nt', 'Ne', 6, 11),
 (1183, 'Anemone_trifoliee', 'Anemone_trifolia', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Ne', 6, 11),
 (1184, 'Patte_de_chat', 'Antennaria_dioica', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Nt', 'Lc', 6, 11),
@@ -1591,8 +1592,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1230, 'Laîche_mucronee', 'Carex_mucronata', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Ne', 6, 11),
 (1231, 'Carline_à_longues_feuilles', 'Carlina_biebersteinii', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Ne', 6, 11),
 (1232, 'Catabrose_aquatique', 'Catabrosa_aquatica', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Nt', 'Lc', 6, 11),
-(1233, 'Catapode_intermediaire', 'Catapodium_hemipoa', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Ne', 6, 11);
-INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
+(1233, 'Catapode_intermediaire', 'Catapodium_hemipoa', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Ne', 6, 11),
 (1234, 'Petite-Centauree_à_fleurs_de_Scille', 'Centaurium_portense', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Ne', 6, 11),
 (1235, 'Ceraiste_douteux', 'Cerastium_dubium', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Nt', 'Ne', 6, 11),
 (1236, 'Ceraiste_lineaire', 'Cerastium_lineare', 'vegetaux', '', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Ne', 6, 11),
@@ -1929,7 +1929,8 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1567, 'Pagoduline_elancee', 'Argna_ferrari', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Lc', 6, 11),
 (1568, 'Loche_des_Maures', 'Arion_euthymeanus', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Dd', 6, 11),
 (1569, 'Brillante_minuscule', 'Cryptazeca_monodonta', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'En', 6, 11),
-(1570, 'Maillot_iserois', 'Chondrina_falkneri', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Nt', 6, 11),
+(1570, 'Maillot_iserois', 'Chondrina_falkneri', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Nt', 6, 11);
+INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
 (1571, 'Maillot_des_pelites', 'Solatopupa_cianensis', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Vu', 6, 11),
 (1572, 'Maillot_corse', 'Solatopupa_guidoni', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Dd', 6, 11),
 (1573, 'Fuseau_strie', 'Cochlodina_orthostoma', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Lc', 6, 11),
@@ -1946,7 +1947,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1584, 'Maillotin_des_Alpes', 'Truncatellina_monodon', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Lc', 6, 11),
 (1585, 'Vertigo_des_aulnes', 'Vertigo_lilljeborgi', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Nt', 6, 11),
 (1586, 'Semilimace_alpine', 'Hessemilimax_kotulae', 'mollusques', 'gasteropode_terrestre', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Ne', 6, 11),
-(1587, 'X', 'Gallasellus_heilyi', 'crustaces', 'isopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
+(1587, NULL, 'Gallasellus_heilyi', 'crustaces', 'isopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (1588, '', 'Proasellus_aquaecalidae', 'crustaces', 'isopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (1589, '', 'Proasellus_burgundus', 'crustaces', 'isopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
 (1590, '', 'Proasellus_chauvini', 'crustaces', 'isopode', NULL, NULL, NULL, NULL, NULL, '', 'Vu', '', 5, 11),
@@ -1983,8 +1984,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1621, '', 'Stenasellus_virei', 'crustaces', 'isopode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (1676, 'Leste_enfant', 'Sympecma_paedisca', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'Re', 'Lc', 2, 11),
 (1677, 'Leucorrhine_rubiconde', 'Leucorrhinia_rubicunda', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'Re', 'Lc', 2, 11),
-(1678, 'Deesse_precieuse', 'Nehalennia_speciosa', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Nt', 3, 11);
-INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
+(1678, 'Deesse_precieuse', 'Nehalennia_speciosa', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'Cr', 'Nt', 3, 11),
 (1679, 'Leste_à_grands_pterostigmas', 'Lestes_macrostigma', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', 'Vu', 4, 11),
 (1680, 'Agrion_bleuissant', 'Coenagrion_caerulescens', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', 'Nt', 4, 11),
 (1681, 'Sympetrum_deprime', 'Sympetrum_depressiusculum', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', 'Vu', 4, 11),
@@ -2052,7 +2052,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1743, 'Cordulegastre_bidente', 'Cordulegaster_bidentata', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'Lc', 'Nt', 7, 11),
 (1744, 'Cordulegastre_annele', 'Cordulegaster_boltonii', 'libellules', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
 (1745, 'Cordulie_à_corps_fin', 'Oxygastra_curtisii', 'libellules', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Nt', 7, 11),
-(1746, 'Cordulie_bronzee', 'Cordulia_aenea', 'libellules', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
+(1746, 'Cordulie_bronzee', 'Cordulia_aenea', 'libellules', '', '47 à 55mm', NULL, 'Vert à bronze brillant', 'Inconnue', 'La Cordulie bronzée (Cordulia aenea) est une espèce de libellule appartenant à la famille des corduliidés. Elle est répandue en Eurasie, avec une distribution qui s\'étend de la France (à l\'exception du sud) à la Finlande (sauf l\'extrême nord) et à la Russie. Les populations sud-européennes sont plus fragmentées, occupant les lacs de montagne jusqu\'à environ 2 000 mètres d\'altitude.\r\n\r\nLa description de la Cordulie bronzée inclut une longueur corporelle de 47 à 55 mm. Les mâles ont un abdomen élargi en massue au niveau des segments S7 et S8, tandis que les deux sexes présentent des taches claires inférieures, qui sont plus blanches chez la femelle. Le thorax, vert à bronze brillant, est recouvert de longs poils clairs. Les yeux sont verts, rappelant ceux des libellules du genre Somatochlora. Contrairement à ces dernières, la Cordulie bronzée ne possède pas de taches jaunes sur le front.\r\n\r\nEn ce qui concerne son habitat, la Cordulie bronzée préfère les eaux stagnantes dans des milieux boisés, mais elle peut également être trouvée aux abords de cours d\'eau lents, de canaux, etc. Les odonatologues recommandent l\'observation de l\'animal capturé pour une identification plus sûre.', 'Stilla', 'Lc', 'Lc', 7, 12),
 (1747, 'Epitheque_bimaculee', 'Epitheca_bimaculata', 'libellules', '', NULL, NULL, NULL, NULL, NULL, '?', 'Lc', 'Lc', 7, 11),
 (1748, 'Cordulie_à_taches_jaunes', 'Somatochlora_flavomaculata', 'libellules', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Lc', 'Lc', 7, 11),
 (1749, 'Cordulie_metallique', 'Somatochlora_metallica', 'libellules', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
@@ -2141,7 +2141,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1832, 'Bathynella_gallica', 'Bathynellidae', 'crustaces', 'bathynellace', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (1833, 'Bathynella_natans', 'Bathynellidae', 'crustaces', 'bathynellace', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (1834, 'Parabathynella_stygia', 'Parabathynellidae', 'crustaces', 'bathynellace', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
-(1835, 'Sarcelle_marbree', 'Marmaronetta_angustirostris', 'oiseaux', 'nicheurs', NULL, NULL, NULL, NULL, NULL, '', 'Re', 'Vu', 2, 11),
+(1835, 'Sarcelle_marbree', 'Marmaronetta_angustirostris', 'oiseaux', 'nicheurs', NULL, NULL, 'Gris-brun clair', '9 à 10 ans', 'La Sarcelle marbrée est un petit canard de la famille des Anatidés, répandu sur plusieurs continents, à l\'exception de l\'Antarctique. Avec environ 174 espèces dans la famille, les Anatidés sont généralement associés à des milieux aquatiques, en particulier des eaux douces.\r\n\r\nLa sarcelle marbrée, de taille similaire à la Sarcelle d\'été, présente une allure élancée avec de longues ailes et une longue queue. Son bec sombre est étroit, les pattes sont également sombres. Le plumage est gris-brun clair avec des taches crèmes bien visibles sur le dos. Elle possède une virgule sombre autour de l\'œil et une huppe qui se prolonge sur la nuque. En vol, les ailes sont claires avec une tâche blanche au poignet et l\'absence de miroir permet de l\'identifier.\r\n\r\nTant les mâles que les femelles, ainsi que les immatures, sont presque identiques. Cependant, les femelles sont légèrement plus petites, les mâles ont une huppe plus fournie et un bec plus noir, et les juvéniles ont des taches plus diffuses.\r\n\r\nLa Sarcelle marbrée est migratrice et très farouche. Son vol est lent, et elle se nourrit principalement de végétaux, tout en consommant également des invertébrés. Elle construit son nid entre mi-avril et fin juin, pondant de 7 à 14 œufs avec une période d\'incubation de 25 à 27 jours.\r\n\r\nOn la trouve dans des étangs peu profonds à végétation dense, préférant les marécages saumâtres. Les populations de Sarcelle marbrée sont réparties en Méditerranée occidentale, Méditerranée orientale et en Asie occidentale et du sud. Elle est classée comme une espèce vulnérable en raison du déclin rapide de sa population, principalement dû à la destruction de son habitat. Les mesures de conservation comprennent une meilleure connaissance de son écologie, la protection des sites où elle est présente, la réduction de la mortalité due à la chasse, et la sensibilisation du public. Elle bénéficie également d\'une protection légale dans plusieurs pays.', '', 'Re', 'Vu', 2, 10),
 (1836, 'Erismature_à_tête_blanche', 'Oxyura_leucocephala', 'oiseaux', 'nicheurs', NULL, NULL, NULL, NULL, NULL, '', 'Re', 'En', 2, 11),
 (1837, 'Outarde_barbue_ou_Grande_Outarde', 'Otis_tarda', 'oiseaux', 'nicheurs', NULL, NULL, NULL, NULL, NULL, '', 'Re', 'Vu', 2, 11),
 (1838, 'Pluvier_guignard', 'Eudromias_morinellus', 'oiseaux', 'nicheurs', NULL, NULL, NULL, NULL, NULL, '', 'Re', 'Lc', 2, 11),
@@ -2300,7 +2300,8 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (1991, '', 'Cryptocandona_kieferi', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Lc', '', 7, 11),
 (1992, '', 'Cryptocandona_vavrai', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Lc', '', 7, 11),
 (1993, '', 'Cyclocypris_laevis', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Lc', '', 7, 11),
-(1994, '', 'Cyclocypris_ovum', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Lc', '', 7, 11),
+(1994, '', 'Cyclocypris_ovum', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Lc', '', 7, 11);
+INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
 (1995, '', 'Cypria_ophthalmica', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Lc', '', 7, 11),
 (1996, '', 'Fabaeformiscandona_breuili', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Lc', '', 7, 11),
 (1997, '', 'Fabaeformiscandona_fabaeformis', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Lc', '', 7, 11),
@@ -2387,8 +2388,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (2078, '', 'Stenocypria_fischeri', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (2079, '', 'Trajancypris_clavata', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (2080, '', 'Trajancypris_serrata', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
-(2081, '', 'Microdarwinula_zimmeri', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11);
-INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categorie`, `wingspan`, `withers_height`, `color`, `life_esperancy`, `description`, `tendancy`, `clrf`, `clrm`, `Danger_Level_id`, `Diet_id`) VALUES
+(2081, '', 'Microdarwinula_zimmeri', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (2082, '', 'Penthesilenula_brasiliensis', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (2083, '', 'Vestalenula_carveli', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
 (2084, '', 'Ilyocypris_biplicata', 'crustaces', 'ostracode', NULL, NULL, NULL, NULL, NULL, '', 'Dd', '', 8, 11),
@@ -2446,7 +2446,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (2136, 'Melitee_des_digitales', 'Melitaea_aurelia', 'papillons', '', NULL, NULL, NULL, NULL, NULL, '', 'Vu', 'Nt', 5, 11),
 (2137, 'Hesperie_de_l\'epiaire', 'Carcharodus_lavatherae', 'papillons', '', NULL, NULL, NULL, NULL, NULL, '', 'Nt', 'Nt', 6, 11),
 (2138, 'Hesperie_des_cirses', 'Pyrgus_cirsii', 'papillons', '', NULL, NULL, NULL, NULL, NULL, '', 'Nt', 'Vu', 6, 11),
-(2139, 'Semi-Apollon', 'Parnassius_mnemosyne', 'papillons', '', NULL, NULL, NULL, NULL, NULL, '', 'Nt', 'Nt', 6, 11),
+(2139, 'Semi-Apollon', 'Parnassius_mnemosyne', 'papillons', '', '25 à 32mm', NULL, 'Noir et blanc', 'Inconnue', 'Le Semi-Apollon (Parnassius mnemosyne) est un papillon appartenant à la famille des Papilionidae, à la sous-famille des Parnassiinae et au genre Parnassius. Avec une envergure de 25 à 32 mm, il présente des ailes blanches avec des nervures noires marquées et deux macules noires sur l\'aile antérieure. Le corps est velu. Les femelles peuvent avoir un apex grisé plus prononcé en altitude.\r\n\r\nLes œufs, déposés en juillet, éclosent soit pendant l\'été soit au printemps suivant. Les chenilles noires à taches orange, se nourrissant de Corydalis, donnent lieu à une chrysalide brune vers mai.\r\n\r\nLa femelle fécondée porte un sphragis, une pièce cornée jaunâtre produite par le mâle pendant la copulation. L\'hivernation se fait au stade d\'œuf, parfois de chenille.\r\n\r\nLe Semi-Apollon se trouve dans les montagnes d\'Europe, des Scandinaves à l\'Italie et la Grèce. En France, il est présent dans les Pyrénées, le Massif central et les Alpes, dans des prairies humides et bois clairs vers 2 000 mètres.\r\n\r\nDécrit par Carl von Linné en 1758, cet insecte est également protégé en raison de sa présence sur les listes d\'espèces strictement protégées, notamment dans le cadre de la Convention de Berne et de la Directive Habitats du Conseil de l\'Europe. Son nom vernaculaire fait référence à Apollon, le dieu grec de la lumière et des arts.\r\n\r\n\r\n\r\n\r\n\r\n\r\n', '', 'Nt', 'Nt', 6, 12),
 (2140, 'Marbre_de_Lusitanie', 'Iberochloe_tagis', 'papillons', '', NULL, NULL, NULL, NULL, NULL, '', 'Nt', 'Lc', 6, 11),
 (2141, 'Azure_du_baguenaudier', 'Iolana_iolas', 'papillons', '', NULL, NULL, NULL, NULL, NULL, '', 'Nt', 'Nt', 6, 11),
 (2142, 'Cuivre_de_la_bistorte', 'Lycaena_helle', 'papillons', '', NULL, NULL, NULL, NULL, NULL, '', 'Nt', 'En', 6, 11),
@@ -2538,7 +2538,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (2228, 'Raie_de_Rondelet', 'Raja_rondeleti', 'raies', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'Ne', 8, 11),
 (2229, 'Raie_brunette', 'Raja_undulata', 'raies', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'En', 8, 11),
 (2230, 'Torpille_noire', 'Torpedo_nobiliana', 'raies', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'Dd', 8, 11),
-(2231, 'Torpille_ocellee', 'Torpedo_torpedo', 'raies', '', NULL, NULL, NULL, NULL, NULL, '?', 'Dd', 'Dd', 8, 11),
+(2231, 'Torpille_ocellee', 'Torpedo_torpedo', 'raies', '', 'Jusqu\'à 60 cm', NULL, 'Brun rougeâtre', 'Inconnue', 'La Torpille ocellée (Torpedo torpedo) est une raie électrique présente dans l\'Atlantique Est et en Méditerranée. Mesurant jusqu\'à 60 cm, elle se caractérise par un disque arrondi, une face dorsale brun rougeâtre, et la présence de 5 ocelles bleus cerclés de noir au milieu du dos. Elle fréquente les fonds sablo-vaseux entre 2 et 70 m de profondeur.\r\n\r\nL\'espèce se distingue des autres raies-torpilles par ses motifs ocellés. Sa reproduction est annuelle et saisonnière, avec une viviparité aplacentaire. Les femelles donnent naissance à une vingtaine de jeunes. La Torpille ocellée est prédatrice, électrisant ses proies en embuscade, principalement des poissons.\r\n\r\nCette raie possède des organes électriques contrôlés par le système nerveux central, lui permettant de générer des chocs électriques de 45 à 200 V pour se défendre. Bien que le choc puisse être sévère pour l\'homme, aucun décès n\'a été enregistré. Son statut de conservation est difficile à évaluer, mais des mesures de précaution, telles que la libération des prises vivantes, sont recommandées.', '?', 'Dd', 'Dd', 8, 8),
 (2232, 'Lezard_du_Val_d\'Aran', 'Iberolacerta_aranica', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'En', 'En', 4, 11),
 (2233, 'Lezard_d\'Aurelio', 'Iberolacerta_aurelioi', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'En', 'En', 4, 11),
 (2234, 'Vipere_d\'Orsini', 'Vipera_ursinii', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'En', 'Vu', 4, 11),
@@ -2562,7 +2562,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (2252, 'Lezard_tyrrhenien', 'Podarcis_tiliguerta', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
 (2253, 'Psammodrome_algire', 'Psammodromus_algirus', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
 (2254, 'Lezard_vivipare', 'Zootoca_vivipara', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Lc', 'Lc', 7, 11),
-(2255, 'Tarente_de_Mauretanie', 'Tarentola_mauritanica', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Uppera', 'Lc', 'Lc', 7, 11),
+(2255, 'Tarente_de_Mauretanie', 'Tarentola_mauritanica', 'reptiles', '', '15 cm maximum', NULL, 'Beige, sable', 'Environ 7 ans', 'Le Gecko méditerranéen (Tarentola mauritanica) est une espèce de gecko principalement arboricole et nocturne vivant autour du pourtour méditerranéen. Il mesure jusqu\'à 15 cm pour les spécimens les plus grands et possède une queue relativement longue. Caractérisé par sa pupille verticale, sa peau présente de petites protubérances lui donnant un aspect rugueux, avec une couleur variant du beige clair au brun sombre.\r\n\r\nDoté de pelotes adhésives sous les pattes, le Gecko méditerranéen peut se déplacer sur les arbres, les murs, voire les surfaces lisses telles que les vitres. Les mâles sont généralement légèrement plus gros que les femelles, mais les différences sont subtiles.\r\n\r\nOn trouve cette espèce dans tout le pourtour méditerranéen, parfois à l\'intérieur des terres, y compris en France, notamment près des côtes, en Provence, en Corse et en Occitanie. Avec le réchauffement climatique, sa présence a été signalée jusqu\'à Grenoble en 2018. On le trouve également dans d\'autres pays tels que le Portugal, l\'Espagne, l\'Italie, la Grèce, le Sahara occidental, le Maroc, l\'Algérie, la Tunisie, la Libye, l\'Égypte, ainsi que dans les Balkans. Il a été introduit en Uruguay et en Californie aux États-Unis.\r\n\r\nLe Gecko méditerranéen préfère les zones pierreuses et les broussailles clairsemées, mais s\'est bien adapté aux environnements urbains. Il est actif principalement la nuit, chassant des insectes attirés par les éclairages artificiels. Durant l\'hiver, il entre dans une sorte d\'hibernation, surtout dans les régions plus au nord.\r\n\r\nCet animal vif et craintif est territorial, les mâles se montrant agressifs envers les intrus. Il se nourrit principalement d\'insectes et de larves, chassant activement, et peut également consommer de petits vertébrés.\r\n\r\nLa reproduction a lieu au printemps, avec des pontes de deux œufs en moyenne, déposés sur le sol. Les œufs incubent pendant environ 30 jours, et les petits atteignent la maturité sexuelle après leur première année.\r\n\r\nLe Gecko méditerranéen a été représenté sur des timbres espagnols et du Sahara occidental.', 'Uppera', 'Lc', 'Lc', 7, 7),
 (2256, 'Couleuvre_de_Montpellier', 'Malpolon_monspessulanus', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
 (2257, 'Seps_strie', 'Chalcides_striatus', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Downa', 'Lc', 'Lc', 7, 11),
 (2258, 'Phyllodactyle_d\'Europe', 'Euleptes_europaea', 'reptiles', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Nt', 7, 11),
@@ -2584,7 +2584,7 @@ INSERT INTO `species` (`id`, `name`, `scientific_name`, `categorie`, `sous_categ
 (2274, 'Aiguillat_commun', 'Squalus_acanthias', 'requins', '', NULL, NULL, NULL, NULL, NULL, '?', 'En', 'Vu', 4, 11),
 (2275, 'Requin-pelerin', 'Cetorhinus_maximus', 'requins', '', NULL, NULL, NULL, NULL, NULL, '?', 'Vu', 'Vu', 5, 11),
 (2276, 'Requin_peau_bleue', 'Prionace_glauca', 'requins', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Nt', 'Nt', 6, 11),
-(2277, 'Aiguillat_noire', 'Centroscyllium_fabricii', 'requins', '', NULL, NULL, NULL, NULL, NULL, '?', 'Nt', 'Lc', 6, 11),
+(2277, 'Aiguillat_noire', 'Centroscyllium_fabricii', 'requins', '', 'De 60 à 110 cm', NULL, 'Noire', 'Inconnue', 'L\'Aiguillat noir (Centroscyllium fabricii) est un requin de la famille des Etmopteridae, présent dans l\'océan Atlantique Nord. Il habite la zone externe du plateau continental et du talus continental, à des profondeurs allant de 180 à 2 250 mètres. Les femelles préfèrent les eaux plus profondes que les mâles, et les jeunes requins peuvent fréquenter des profondeurs différentes des adultes selon la région.\r\n\r\nCette espèce a une répartition étendue, du Groenland à l\'Islande, de la Virginie jusqu\'au nord de l\'Afrique de l\'Ouest, et au sud-ouest de l\'Afrique jusqu\'au sud de l\'Argentine. L\'Aiguillat noir mesure en moyenne de 60 à 75 cm de longueur, ce qui en fait le plus grand membre de sa famille. Son corps est brun foncé, plus sombre en bas qu\'en haut, avec des organes bioluminescents. Il possède deux nageoires dorsales précédées de grosses épines, et la nageoire anale est absente.\r\n\r\nCe requin se déplace en bancs et est un prédateur opportuniste, se nourrissant principalement de poissons osseux, de crustacés et de céphalopodes. Il se reproduit toute l\'année et est vivipare aplacentaire, les femelles mettant au monde des portées de 4 à 40 juvéniles. L\'Aiguillat noir est une prise accidentelle de la pêche commerciale en haute mer dans l\'Atlantique Nord, mais il a une faible valeur commerciale et est souvent rejeté. Bien que son habitat en eau profonde puisse le rendre vulnérable, sa population semble stable dans l\'Atlantique nord-ouest. L\'UICN le classe comme \"préoccupation mineure\" au niveau mondial, mais \"quasi menacé\" dans le nord de l\'Atlantique en raison de la surpêche.\r\n\r\n\r\n\r\n\r\n\r\n', '?', 'Nt', 'Lc', 6, 8),
 (2278, 'Chien_espagnol', 'Galeus_melastomus', 'requins', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
 (2279, 'Petite_roussette', 'Scyliorhinus_canicula', 'requins', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Lc', 7, 11),
 (2280, 'Grande_roussette', 'Scyliorhinus_stellaris', 'requins', '', NULL, NULL, NULL, NULL, NULL, 'Stilla', 'Lc', 'Nt', 7, 11),
