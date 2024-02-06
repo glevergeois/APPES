@@ -1,0 +1,4 @@
+INSERT INTO species_has_departments (Departments_id, Species_id)
+SELECT d.id AS Departments_id, s.id AS Species_id
+FROM species AS s
+JOIN Departments AS d ON INSTR(s.Department, d.Name) > 0;
